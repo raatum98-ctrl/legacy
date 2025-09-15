@@ -1,0 +1,33 @@
+2025-09-15 06:32:31 - mintSystem started
+Executed:
+  /usr/share/linuxmint/adjustments/15-ubuntu-system-adjustments.execute
+  /usr/share/linuxmint/adjustments/20-apt-set-recommends.execute
+Replaced:
+Edited:
+Skipped:
+  /etc/apt/preferences.d/official-package-repositories.pref
+  /etc/xdg/autostart/user-dirs-update-gtk.desktop (onlyshowin)
+  /usr/lib/firefox/distribution/distribution.ini
+  /usr/share/applications/im-config.desktop (hide)
+  /usr/share/applications/info.desktop (hide)
+  /usr/share/applications/libreoffice-draw.desktop (categories)
+  /usr/share/applications/mate-color-select.desktop (categories)
+  /usr/share/applications/mate-color-select.desktop (name)
+  /usr/share/applications/mimeapps.list
+  /usr/share/applications/yelp.desktop (hide)
+  /usr/share/cups/data/default-testpage.pdf
+  /usr/share/icons/HighContrast/16x16/places/start-here.png
+  /usr/share/icons/HighContrast/22x22/places/start-here.png
+  /usr/share/icons/HighContrast/24x24/places/start-here.png
+  /usr/share/icons/HighContrast/32x32/places/start-here.png
+  /usr/share/icons/HighContrast/48x48/places/start-here.png
+  /usr/share/icons/HighContrast/scalable/places/start-here.svg
+  /usr/share/icons/Yaru/16x16/places/start-here.png
+  /usr/share/icons/Yaru/22x22/places/start-here.png
+  /usr/share/icons/Yaru/24x24/places/start-here.png
+  /usr/share/icons/Yaru/32x32/places/start-here.png
+  /usr/share/icons/Yaru/48x48/places/start-here.png
+  /usr/share/sounds/freedesktop/stereo/device-added.oga
+  /usr/share/sounds/freedesktop/stereo/device-removed.oga
+  /usr/share/ubuntu-system-adjustments/renamed-menu-entries/mate-color-select.desktop (name)
+Execution time: 0:00:00.480236

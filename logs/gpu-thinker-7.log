@@ -1,0 +1,182 @@
+
+20250915 14:25:41 T-Rex NVIDIA GPU miner v0.26.8  -  [Linux]
+20250915 14:25:41 r.104788c2d052
+20250915 14:25:41 
+20250915 14:25:41 
+20250915 14:25:41 NVIDIA Driver v535.261.03
+20250915 14:25:41 
+20250915 14:25:41 + GPU #0: [00:01.0|1b81] GeForce GTX 1070, 8105 MB
+20250915 14:25:41 
+20250915 14:25:41 WARN: DevFee 1% (kawpow)
+20250915 14:25:41 
+20250915 14:25:41 URL : stratum+tcp://pool.woolypooly.com:55555
+20250915 14:25:41 USER: RMEysgjtWkzDV6xqc6i7taRu3FnXyPQLp3.gpu-thinker-7
+20250915 14:25:41 PASS: x
+20250915 14:25:41 
+20250915 14:25:41 Starting on: pool.woolypooly.com:55555
+20250915 14:25:41 Using protocol: stratum3.
+20250915 14:25:41 Extranonce is set to: 439d
+20250915 14:25:41 Authorizing...
+20250915 14:25:41 Authorized successfully.
+20250915 14:25:41 WARN: ApiServer: failed to bind socket 127.0.0.1:4067 (Address already in use), next try in 5 seconds.
+20250915 14:25:41 kawpow epoch: 536, block: 4021322, period: 1340440, diff: 858.98 M
+20250915 14:25:41 ApiServer: HTTP server started on 127.0.0.1:4067
+20250915 14:25:41 ---------------------------------------------------
+20250915 14:25:41 For control navigate to: http://127.0.0.1:4067/trex
+20250915 14:25:41 ---------------------------------------------------
+20250915 14:25:41 GPU #0: intensity 16
+20250915 14:25:45 TREX: Can't find nonce with device [ID=0, GPU #0], cuda exception: CUDA_ERROR_OUT_OF_MEMORY
+20250915 14:25:45 WARN: Miner is going to shutdown...
+20250915 14:25:45 Main loop finished. Cleaning up resources...
+20250915 14:25:47 T-Rex finished.
+20250915 14:25:48 WARN: WATCHDOG: T-Rex does not exist anymore, restarting...
+20250915 14:25:48 T-Rex NVIDIA GPU miner v0.26.8  -  [Linux]
+20250915 14:25:48 r.104788c2d052
+20250915 14:25:48 
+20250915 14:25:48 
+20250915 14:25:48 NVIDIA Driver v535.261.03
+20250915 14:25:48 
+20250915 14:25:48 + GPU #0: [00:01.0|1b81] GeForce GTX 1070, 8105 MB
+20250915 14:25:48 
+20250915 14:25:48 WARN: DevFee 1% (kawpow)
+20250915 14:25:48 
+20250915 14:25:48 URL : stratum+tcp://pool.woolypooly.com:55555
+20250915 14:25:48 USER: RMEysgjtWkzDV6xqc6i7taRu3FnXyPQLp3.gpu-thinker-7
+20250915 14:25:48 PASS: x
+20250915 14:25:48 
+20250915 14:25:48 Starting on: pool.woolypooly.com:55555
+20250915 14:25:48 Using protocol: stratum3.
+20250915 14:25:48 Extranonce is set to: 43a8
+20250915 14:25:48 Authorizing...
+20250915 14:25:48 Authorized successfully.
+20250915 14:25:49 WARN: ApiServer: failed to bind socket 127.0.0.1:4067 (Address already in use), next try in 5 seconds.
+20250915 14:25:49 kawpow epoch: 536, block: 4021322, period: 1340440, diff: 858.98 M
+20250915 14:25:49 ApiServer: HTTP server started on 127.0.0.1:4067
+20250915 14:25:49 ---------------------------------------------------
+20250915 14:25:49 For control navigate to: http://127.0.0.1:4067/trex
+20250915 14:25:49 ---------------------------------------------------
+20250915 14:25:49 GPU #0: intensity 16
+20250915 14:25:52 TREX: Can't find nonce with device [ID=0, GPU #0], cuda exception: CUDA_ERROR_OUT_OF_MEMORY
+20250915 14:25:52 WARN: Miner is going to shutdown...
+20250915 14:25:53 Main loop finished. Cleaning up resources...
+20250915 14:25:54 T-Rex finished.
+20250915 14:25:55 WARN: WATCHDOG: T-Rex does not exist anymore, restarting...
+20250915 14:25:55 T-Rex NVIDIA GPU miner v0.26.8  -  [Linux]
+20250915 14:25:55 r.104788c2d052
+20250915 14:25:55 
+20250915 14:25:55 
+20250915 14:25:55 NVIDIA Driver v535.261.03
+20250915 14:25:55 
+20250915 14:25:55 + GPU #0: [00:01.0|1b81] GeForce GTX 1070, 8105 MB
+20250915 14:25:55 
+20250915 14:25:55 WARN: DevFee 1% (kawpow)
+20250915 14:25:55 
+20250915 14:25:55 URL : stratum+tcp://pool.woolypooly.com:55555
+20250915 14:25:55 USER: RMEysgjtWkzDV6xqc6i7taRu3FnXyPQLp3.gpu-thinker-7
+20250915 14:25:55 PASS: x
+20250915 14:25:55 
+20250915 14:25:55 Starting on: pool.woolypooly.com:55555
+20250915 14:25:55 Using protocol: stratum3.
+20250915 14:25:56 Extranonce is set to: 43b2
+20250915 14:25:56 Authorizing...
+20250915 14:25:56 Authorized successfully.
+20250915 14:25:56 WARN: ApiServer: failed to bind socket 127.0.0.1:4067 (Address already in use), next try in 5 seconds.
+20250915 14:25:56 ApiServer: HTTP server started on 127.0.0.1:4067
+20250915 14:25:56 ---------------------------------------------------
+20250915 14:25:56 For control navigate to: http://127.0.0.1:4067/trex
+20250915 14:25:56 ---------------------------------------------------
+20250915 14:25:56 kawpow epoch: 536, block: 4021322, period: 1340440, diff: 858.98 M
+20250915 14:25:56 GPU #0: intensity 16
+20250915 14:26:00 TREX: Can't find nonce with device [ID=0, GPU #0], cuda exception: CUDA_ERROR_OUT_OF_MEMORY
+20250915 14:26:00 WARN: Miner is going to shutdown...
+20250915 14:26:00 Main loop finished. Cleaning up resources...
+20250915 14:26:01 T-Rex finished.
+20250915 14:26:02 WARN: WATCHDOG: T-Rex does not exist anymore, restarting...
+20250915 14:26:03 T-Rex NVIDIA GPU miner v0.26.8  -  [Linux]
+20250915 14:26:03 r.104788c2d052
+20250915 14:26:03 
+20250915 14:26:03 
+20250915 14:26:03 NVIDIA Driver v535.261.03
+20250915 14:26:03 
+20250915 14:26:03 + GPU #0: [00:01.0|1b81] GeForce GTX 1070, 8105 MB
+20250915 14:26:03 
+20250915 14:26:03 WARN: DevFee 1% (kawpow)
+20250915 14:26:03 
+20250915 14:26:03 URL : stratum+tcp://pool.woolypooly.com:55555
+20250915 14:26:03 USER: RMEysgjtWkzDV6xqc6i7taRu3FnXyPQLp3.gpu-thinker-7
+20250915 14:26:03 PASS: x
+20250915 14:26:03 
+20250915 14:26:03 Starting on: pool.woolypooly.com:55555
+20250915 14:26:03 Using protocol: stratum3.
+20250915 14:26:03 Extranonce is set to: 43bc
+20250915 14:26:03 Authorizing...
+20250915 14:26:03 Authorized successfully.
+20250915 14:26:03 WARN: ApiServer: failed to bind socket 127.0.0.1:4067 (Address already in use), next try in 5 seconds.
+20250915 14:26:03 kawpow epoch: 536, block: 4021322, period: 1340440, diff: 858.98 M
+20250915 14:26:03 ApiServer: HTTP server started on 127.0.0.1:4067
+20250915 14:26:03 ---------------------------------------------------
+20250915 14:26:03 For control navigate to: http://127.0.0.1:4067/trex
+20250915 14:26:03 ---------------------------------------------------
+20250915 14:26:03 GPU #0: intensity 16
+20250915 14:26:07 TREX: Can't find nonce with device [ID=0, GPU #0], cuda exception: CUDA_ERROR_OUT_OF_MEMORY
+20250915 14:26:07 WARN: Miner is going to shutdown...
+20250915 14:26:07 Main loop finished. Cleaning up resources...
+20250915 14:26:09 T-Rex finished.
+20250915 14:26:10 WARN: WATCHDOG: T-Rex does not exist anymore, restarting...
+20250915 14:26:10 T-Rex NVIDIA GPU miner v0.26.8  -  [Linux]
+20250915 14:26:10 r.104788c2d052
+20250915 14:26:10 
+20250915 14:26:10 
+20250915 14:26:10 NVIDIA Driver v535.261.03
+20250915 14:26:10 
+20250915 14:26:10 + GPU #0: [00:01.0|1b81] GeForce GTX 1070, 8105 MB
+20250915 14:26:10 
+20250915 14:26:10 WARN: DevFee 1% (kawpow)
+20250915 14:26:10 
+20250915 14:26:10 URL : stratum+tcp://pool.woolypooly.com:55555
+20250915 14:26:10 USER: RMEysgjtWkzDV6xqc6i7taRu3FnXyPQLp3.gpu-thinker-7
+20250915 14:26:10 PASS: x
+20250915 14:26:10 
+20250915 14:26:10 Starting on: pool.woolypooly.com:55555
+20250915 14:26:10 Using protocol: stratum3.
+20250915 14:26:10 Extranonce is set to: 43c6
+20250915 14:26:10 Authorizing...
+20250915 14:26:10 Authorized successfully.
+20250915 14:26:10 kawpow epoch: 536, block: 4021322, period: 1340440, diff: 858.98 M
+20250915 14:26:10 WARN: ApiServer: failed to bind socket 127.0.0.1:4067 (Address already in use), next try in 5 seconds.
+20250915 14:26:10 ApiServer: HTTP server started on 127.0.0.1:4067
+20250915 14:26:10 ---------------------------------------------------
+20250915 14:26:10 For control navigate to: http://127.0.0.1:4067/trex
+20250915 14:26:10 ---------------------------------------------------
+20250915 14:26:11 GPU #0: intensity 16
+20250915 14:26:15 TREX: Can't find nonce with device [ID=0, GPU #0], cuda exception: CUDA_ERROR_OUT_OF_MEMORY
+20250915 14:26:15 WARN: Miner is going to shutdown...
+20250915 14:26:15 Main loop finished. Cleaning up resources...
+20250915 14:26:16 T-Rex finished.
+20250915 14:26:17 WARN: WATCHDOG: T-Rex does not exist anymore, restarting...
+20250915 14:26:17 T-Rex NVIDIA GPU miner v0.26.8  -  [Linux]
+20250915 14:26:17 r.104788c2d052
+20250915 14:26:17 
+20250915 14:26:17 
+20250915 14:26:17 NVIDIA Driver v535.261.03
+20250915 14:26:17 
+20250915 14:26:17 + GPU #0: [00:01.0|1b81] GeForce GTX 1070, 8105 MB
+20250915 14:26:17 
+20250915 14:26:17 WARN: DevFee 1% (kawpow)
+20250915 14:26:17 
+20250915 14:26:17 URL : stratum+tcp://pool.woolypooly.com:55555
+20250915 14:26:17 USER: RMEysgjtWkzDV6xqc6i7taRu3FnXyPQLp3.gpu-thinker-7
+20250915 14:26:17 PASS: x
+20250915 14:26:17 
+20250915 14:26:17 Starting on: pool.woolypooly.com:55555
+20250915 14:26:17 Using protocol: stratum3.
+20250915 14:26:17 Extranonce is set to: 43d0
+20250915 14:26:17 Authorizing...
+20250915 14:26:17 Authorized successfully.
+20250915 14:26:18 kawpow epoch: 536, block: 4021322, period: 1340440, diff: 858.98 M
+20250915 14:26:18 WARN: ApiServer: failed to bind socket 127.0.0.1:4067 (Address already in use), next try in 5 seconds.
+20250915 14:26:18 ApiServer: HTTP server started on 127.0.0.1:4067
+20250915 14:26:18 ---------------------------------------------------
+20250915 14:26:18 For control navigate to: http://127.0.0.1:4067/trex
+20250915 14:26:18 ---------------------------------------------------
+20250915 14:26:18 GPU #0: intensity 16

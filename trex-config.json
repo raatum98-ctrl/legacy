@@ -1,0 +1,7 @@
+{
+  "algo": "kawpow",
+  "user": "RMEysgjtWkzDV6xqc6i7taRu3FnXyPQLp3",
+  "rigName": "worker-001",
+  "url": "stratum+tcp://rvn.2miners.com:6060",
+  "api-bind": "127.0.0.1:4067"
+}

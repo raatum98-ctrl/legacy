@@ -1,0 +1,1063 @@
+2025-09-14T07:11:55.420385+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=113) by (uid=0)
+2025-09-14T07:11:55.441628+04:00 tornike-CH510M-K-M-2 systemd-logind[1117]: New session c1 of user lightdm.
+2025-09-14T07:11:55.456552+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user lightdm(uid=113) by lightdm(uid=0)
+2025-09-14T07:11:55.718267+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: couldn't unlock the login keyring.
+2025-09-14T07:11:56.357007+04:00 tornike-CH510M-K-M-2 lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "tornike"
+2025-09-14T11:13:13.162842+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unable to locate daemon control file
+2025-09-14T11:13:13.163102+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: stashed password to try later in open session
+2025-09-14T11:13:13.208265+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm:session): session opened for user tornike(uid=1000) by (uid=0)
+2025-09-14T11:13:13.208777+04:00 tornike-CH510M-K-M-2 systemd-logind[1117]: Removed session c1.
+2025-09-14T11:13:13.213903+04:00 tornike-CH510M-K-M-2 systemd-logind[1117]: New session c2 of user tornike.
+2025-09-14T11:13:13.237072+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user tornike(uid=1000) by tornike(uid=0)
+2025-09-14T11:13:13.434086+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unlocked login keyring
+2025-09-14T11:13:13.628848+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2670]: The Secret Service was already initialized
+2025-09-14T11:13:13.629072+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2777]: discover_other_daemon: 1
+2025-09-14T11:13:13.630511+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2670]: The PKCS#11 component was already initialized
+2025-09-14T11:13:13.630648+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2778]: discover_other_daemon: 1
+2025-09-14T11:13:13.630807+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2779]: discover_other_daemon: 1
+2025-09-14T11:13:15.715559+04:00 tornike-CH510M-K-M-2 polkitd[1106]: Registered Authentication Agent for unix-session:c2 (system bus name :1.73 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-09-14T11:13:23.329911+04:00 tornike-CH510M-K-M-2 (sd-pam): pam_unix(systemd-user:session): session closed for user lightdm
+2025-09-14T11:13:41.384987+04:00 tornike-CH510M-K-M-2 dbus-daemon[1068]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T11:17:01.531517+04:00 tornike-CH510M-K-M-2 CRON[5761]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T11:17:01.533165+04:00 tornike-CH510M-K-M-2 CRON[5761]: pam_unix(cron:session): session closed for user root
+2025-09-14T11:20:48.028977+04:00 tornike-CH510M-K-M-2 dbus-daemon[1068]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T11:23:38.815940+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T11:23:38.819336+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T11:23:42.533798+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T11:24:38.795227+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T11:24:38.795462+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T11:24:41.465187+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T11:30:01.538439+04:00 tornike-CH510M-K-M-2 CRON[9222]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T11:30:01.539473+04:00 tornike-CH510M-K-M-2 CRON[9222]: pam_unix(cron:session): session closed for user root
+2025-09-14T12:17:01.558668+04:00 tornike-CH510M-K-M-2 CRON[15043]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T12:17:01.564369+04:00 tornike-CH510M-K-M-2 CRON[15043]: pam_unix(cron:session): session closed for user root
+2025-09-14T12:30:01.577671+04:00 tornike-CH510M-K-M-2 CRON[15935]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T12:30:01.582298+04:00 tornike-CH510M-K-M-2 CRON[15935]: pam_unix(cron:session): session closed for user root
+2025-09-14T12:52:53.658190+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2670]: asked to register item /org/freedesktop/secrets/collection/login/2, but it's already registered
+2025-09-14T12:53:18.540011+04:00 tornike-CH510M-K-M-2 dbus-daemon[1068]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T13:17:01.608171+04:00 tornike-CH510M-K-M-2 CRON[22422]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T13:17:01.615620+04:00 tornike-CH510M-K-M-2 CRON[22422]: pam_unix(cron:session): session closed for user root
+2025-09-14T13:23:38.821339+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T13:23:38.822775+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T13:23:41.544426+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T13:24:38.802759+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T13:24:38.802982+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T13:24:41.765630+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T13:30:01.626926+04:00 tornike-CH510M-K-M-2 CRON[26540]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T13:30:01.628853+04:00 tornike-CH510M-K-M-2 CRON[26540]: pam_unix(cron:session): session closed for user root
+2025-09-14T14:17:01.650966+04:00 tornike-CH510M-K-M-2 CRON[33203]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T14:17:01.657852+04:00 tornike-CH510M-K-M-2 CRON[33203]: pam_unix(cron:session): session closed for user root
+2025-09-14T14:30:01.663247+04:00 tornike-CH510M-K-M-2 CRON[35025]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T14:30:01.665001+04:00 tornike-CH510M-K-M-2 CRON[35025]: pam_unix(cron:session): session closed for user root
+2025-09-14T15:17:01.679032+04:00 tornike-CH510M-K-M-2 CRON[42540]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T15:17:01.680858+04:00 tornike-CH510M-K-M-2 CRON[42540]: pam_unix(cron:session): session closed for user root
+2025-09-14T15:23:38.802153+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T15:23:38.804110+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T15:23:42.801678+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T15:24:38.801990+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T15:24:38.803050+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T15:24:42.456992+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T15:30:01.689579+04:00 tornike-CH510M-K-M-2 CRON[46237]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T15:30:01.693554+04:00 tornike-CH510M-K-M-2 CRON[46237]: pam_unix(cron:session): session closed for user root
+2025-09-14T16:17:01.722556+04:00 tornike-CH510M-K-M-2 CRON[52005]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T16:17:01.728058+04:00 tornike-CH510M-K-M-2 CRON[52005]: pam_unix(cron:session): session closed for user root
+2025-09-14T16:30:01.768599+04:00 tornike-CH510M-K-M-2 CRON[53698]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T16:30:01.772705+04:00 tornike-CH510M-K-M-2 CRON[53698]: pam_unix(cron:session): session closed for user root
+2025-09-14T17:00:25.298271+04:00 tornike-CH510M-K-M-2 systemd-logind[1117]: Power key pressed short.
+2025-09-14T17:12:08.930502+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: New seat seat0.
+2025-09-14T17:12:08.930528+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Watching system buttons on /dev/input/event2 (Power Button)
+2025-09-14T17:12:08.930535+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Watching system buttons on /dev/input/event1 (Power Button)
+2025-09-14T17:12:08.930537+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Watching system buttons on /dev/input/event0 (Sleep Button)
+2025-09-14T17:12:08.930539+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Watching system buttons on /dev/input/event3 (USB Keyboard)
+2025-09-14T17:12:08.930541+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Watching system buttons on /dev/input/event5 (USB Keyboard System Control)
+2025-09-14T17:12:08.930544+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Watching system buttons on /dev/input/event7 (USB Gaming Mouse)
+2025-09-14T17:12:08.930546+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Watching system buttons on /dev/input/event8 (USB Gaming Mouse Consumer Control)
+2025-09-14T17:12:09.043190+04:00 tornike-CH510M-K-M-2 polkitd[1103]: Loading rules from directory /etc/polkit-1/rules.d
+2025-09-14T17:12:09.047382+04:00 tornike-CH510M-K-M-2 polkitd[1103]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-09-14T17:12:09.110946+04:00 tornike-CH510M-K-M-2 polkitd[1103]: Finished loading, compiling and executing 14 rules
+2025-09-14T17:12:09.111632+04:00 tornike-CH510M-K-M-2 polkitd[1103]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-09-14T17:12:12.137662+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=113) by (uid=0)
+2025-09-14T17:12:12.170011+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: New session c1 of user lightdm.
+2025-09-14T17:12:12.192737+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user lightdm(uid=113) by lightdm(uid=0)
+2025-09-14T17:12:12.453755+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: couldn't unlock the login keyring.
+2025-09-14T17:12:13.055399+04:00 tornike-CH510M-K-M-2 lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "tornike"
+2025-09-14T17:12:15.114849+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unable to locate daemon control file
+2025-09-14T17:12:15.114906+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: stashed password to try later in open session
+2025-09-14T17:12:15.155452+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm:session): session opened for user tornike(uid=1000) by (uid=0)
+2025-09-14T17:12:15.155849+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Removed session c1.
+2025-09-14T17:12:15.161785+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: New session c2 of user tornike.
+2025-09-14T17:12:15.190849+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user tornike(uid=1000) by tornike(uid=0)
+2025-09-14T17:12:15.389342+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unlocked login keyring
+2025-09-14T17:12:15.616952+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2076]: The Secret Service was already initialized
+2025-09-14T17:12:15.617189+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2188]: discover_other_daemon: 1
+2025-09-14T17:12:15.618806+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2076]: The PKCS#11 component was already initialized
+2025-09-14T17:12:15.619012+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2189]: discover_other_daemon: 1
+2025-09-14T17:12:15.619117+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2190]: discover_other_daemon: 1
+2025-09-14T17:12:17.955537+04:00 tornike-CH510M-K-M-2 polkitd[1103]: Registered Authentication Agent for unix-session:c2 (system bus name :1.72 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-09-14T17:12:25.241349+04:00 tornike-CH510M-K-M-2 (sd-pam): pam_unix(systemd-user:session): session closed for user lightdm
+2025-09-14T17:13:18.702120+04:00 tornike-CH510M-K-M-2 dbus-daemon[1082]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T17:17:01.690482+04:00 tornike-CH510M-K-M-2 CRON[7006]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T17:17:01.692234+04:00 tornike-CH510M-K-M-2 CRON[7006]: pam_unix(cron:session): session closed for user root
+2025-09-14T17:18:06.736778+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2076]: asked to register item /org/freedesktop/secrets/collection/login/2, but it's already registered
+2025-09-14T17:18:31.591375+04:00 tornike-CH510M-K-M-2 dbus-daemon[1082]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T17:23:14.982125+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T17:23:14.985239+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T17:23:17.121862+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T17:24:38.963778+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T17:24:38.964365+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T17:24:41.056359+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T17:30:01.697999+04:00 tornike-CH510M-K-M-2 CRON[11644]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T17:30:01.698963+04:00 tornike-CH510M-K-M-2 CRON[11644]: pam_unix(cron:session): session closed for user root
+2025-09-14T18:17:01.717031+04:00 tornike-CH510M-K-M-2 CRON[13690]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T18:17:01.724812+04:00 tornike-CH510M-K-M-2 CRON[13690]: pam_unix(cron:session): session closed for user root
+2025-09-14T18:30:01.738149+04:00 tornike-CH510M-K-M-2 CRON[14593]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T18:30:01.741894+04:00 tornike-CH510M-K-M-2 CRON[14593]: pam_unix(cron:session): session closed for user root
+2025-09-14T18:55:48.845449+04:00 tornike-CH510M-K-M-2 systemd-logind[1115]: Power key pressed short.
+2025-09-14T18:56:14.111316+04:00 tornike-CH510M-K-M-2 dbus-daemon[1082]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T19:17:01.752682+04:00 tornike-CH510M-K-M-2 CRON[21059]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T19:17:01.754272+04:00 tornike-CH510M-K-M-2 CRON[21059]: pam_unix(cron:session): session closed for user root
+2025-09-14T19:19:33.576931+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: New seat seat0.
+2025-09-14T19:19:33.576933+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: Watching system buttons on /dev/input/event2 (Power Button)
+2025-09-14T19:19:33.576935+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: Watching system buttons on /dev/input/event1 (Power Button)
+2025-09-14T19:19:33.576939+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: Watching system buttons on /dev/input/event0 (Sleep Button)
+2025-09-14T19:19:33.576947+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: Watching system buttons on /dev/input/event3 (USB Keyboard)
+2025-09-14T19:19:33.576958+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: Watching system buttons on /dev/input/event5 (USB Keyboard System Control)
+2025-09-14T19:19:33.576962+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: Watching system buttons on /dev/input/event7 (USB Gaming Mouse)
+2025-09-14T19:19:33.576965+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: Watching system buttons on /dev/input/event8 (USB Gaming Mouse Consumer Control)
+2025-09-14T19:19:33.693320+04:00 tornike-CH510M-K-M-2 polkitd[1106]: Loading rules from directory /etc/polkit-1/rules.d
+2025-09-14T19:19:33.696016+04:00 tornike-CH510M-K-M-2 polkitd[1106]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-09-14T19:19:33.784638+04:00 tornike-CH510M-K-M-2 polkitd[1106]: Finished loading, compiling and executing 14 rules
+2025-09-14T19:19:33.785110+04:00 tornike-CH510M-K-M-2 polkitd[1106]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-09-14T19:19:36.741534+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=113) by (uid=0)
+2025-09-14T19:19:36.763865+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: New session c1 of user lightdm.
+2025-09-14T19:19:36.780099+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user lightdm(uid=113) by lightdm(uid=0)
+2025-09-14T19:19:37.039766+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: couldn't unlock the login keyring.
+2025-09-14T19:19:37.635666+04:00 tornike-CH510M-K-M-2 lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "tornike"
+2025-09-14T19:19:45.380897+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unable to locate daemon control file
+2025-09-14T19:19:45.380995+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: stashed password to try later in open session
+2025-09-14T19:19:45.404982+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: Removed session c1.
+2025-09-14T19:19:45.406107+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm:session): session opened for user tornike(uid=1000) by (uid=0)
+2025-09-14T19:19:45.422407+04:00 tornike-CH510M-K-M-2 systemd-logind[1114]: New session c2 of user tornike.
+2025-09-14T19:19:45.434738+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user tornike(uid=1000) by tornike(uid=0)
+2025-09-14T19:19:45.627512+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unlocked login keyring
+2025-09-14T19:19:45.819959+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2570]: The Secret Service was already initialized
+2025-09-14T19:19:45.820141+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2677]: discover_other_daemon: 1
+2025-09-14T19:19:45.821506+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2678]: discover_other_daemon: 1
+2025-09-14T19:19:45.821586+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2570]: The PKCS#11 component was already initialized
+2025-09-14T19:19:45.821682+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2679]: discover_other_daemon: 1
+2025-09-14T19:19:47.721816+04:00 tornike-CH510M-K-M-2 polkitd[1106]: Registered Authentication Agent for unix-session:c2 (system bus name :1.74 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-09-14T19:19:55.671895+04:00 tornike-CH510M-K-M-2 (sd-pam): pam_unix(systemd-user:session): session closed for user lightdm
+2025-09-14T19:21:03.505018+04:00 tornike-CH510M-K-M-2 dbus-daemon[1081]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T19:30:01.170382+04:00 tornike-CH510M-K-M-2 CRON[4618]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T19:30:01.171460+04:00 tornike-CH510M-K-M-2 CRON[4618]: pam_unix(cron:session): session closed for user root
+2025-09-14T19:31:15.394391+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T19:31:15.397103+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T19:31:17.630835+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T19:32:15.373308+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T19:32:15.373585+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T19:32:18.027740+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T19:40:50.533873+04:00 tornike-CH510M-K-M-2 dbus-daemon[1081]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T20:17:01.183165+04:00 tornike-CH510M-K-M-2 CRON[10001]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T20:17:01.184923+04:00 tornike-CH510M-K-M-2 CRON[10001]: pam_unix(cron:session): session closed for user root
+2025-09-14T20:30:01.194257+04:00 tornike-CH510M-K-M-2 CRON[10148]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T20:30:01.195927+04:00 tornike-CH510M-K-M-2 CRON[10148]: pam_unix(cron:session): session closed for user root
+2025-09-14T21:05:41.373677+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/security/limits.conf
+2025-09-14T21:05:41.375296+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:06:02.151543+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:06:06.632061+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/pam.d/common-session
+2025-09-14T21:06:06.633717+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:06:28.765641+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:06:28.771065+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/pam.d/common-session-noninteractive
+2025-09-14T21:06:28.771385+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:06:30.080427+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:06:36.284864+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/pam.d/common-session
+2025-09-14T21:06:36.285485+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:06:46.305454+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:06:51.219038+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/pam.d/common-session-noninteractive
+2025-09-14T21:06:51.220556+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:06:59.553713+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:09:30.292258+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2570]: asked to register item /org/freedesktop/secrets/collection/login/2, but it's already registered
+2025-09-14T21:09:55.168347+04:00 tornike-CH510M-K-M-2 dbus-daemon[1081]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-14T21:13:30.637436+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/lsof -t -i:8080
+2025-09-14T21:13:30.637756+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:13:30.689431+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:13:38.352884+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/lsof -t -i:8080
+2025-09-14T21:13:38.354805+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:13:38.440808+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:14:28.650021+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/lsof -t -i:8080
+2025-09-14T21:14:28.651696+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:14:28.740300+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:17:01.206043+04:00 tornike-CH510M-K-M-2 CRON[13817]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T21:17:01.207815+04:00 tornike-CH510M-K-M-2 CRON[13817]: pam_unix(cron:session): session closed for user root
+2025-09-14T21:30:01.217650+04:00 tornike-CH510M-K-M-2 CRON[16081]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T21:30:01.219394+04:00 tornike-CH510M-K-M-2 CRON[16081]: pam_unix(cron:session): session closed for user root
+2025-09-14T21:31:15.369622+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T21:31:15.371235+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T21:31:17.646604+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:32:15.381033+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T21:32:15.381285+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T21:32:19.212420+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:37:38.320631+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-14T21:37:38.322080+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:37:47.519459+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:37:47.524348+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/local/bin/apt install git build-essential -y
+2025-09-14T21:37:47.524768+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:37:48.214926+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:39:15.387244+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-14T21:39:15.387747+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T21:39:15.482329+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:44:07.916065+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/local/bin/apt install redis-server -y
+2025-09-14T21:44:07.916431+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:44:11.779546+04:00 tornike-CH510M-K-M-2 groupadd[27358]: group added to /etc/group: name=redis, GID=130
+2025-09-14T21:44:11.782417+04:00 tornike-CH510M-K-M-2 groupadd[27358]: group added to /etc/gshadow: name=redis
+2025-09-14T21:44:11.783269+04:00 tornike-CH510M-K-M-2 groupadd[27358]: new group: name=redis, GID=130
+2025-09-14T21:44:11.797948+04:00 tornike-CH510M-K-M-2 useradd[27365]: new user: name=redis, UID=124, GID=130, home=/var/lib/redis, shell=/usr/sbin/nologin, from=/dev/pts/3
+2025-09-14T21:44:13.650476+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:45:15.492285+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-14T21:45:15.492777+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T21:45:15.582919+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:45:44.709175+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/local/bin/apt install redis-server -y
+2025-09-14T21:45:44.709512+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:45:45.419004+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:46:02.543482+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/bin/systemctl stop redis-server
+2025-09-14T21:46:02.543872+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:46:02.642188+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:46:02.662804+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/bin/systemctl start redis-server
+2025-09-14T21:46:02.664429+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T21:46:02.752019+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T21:46:02.757409+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/bin/systemctl status redis-server
+2025-09-14T21:46:02.757788+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:06:32.632403+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-14T22:06:32.632976+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:06:37.028471+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:06:49.689510+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt install -y gh
+2025-09-14T22:06:49.689918+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:06:54.584617+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:07:45.595467+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-14T22:07:45.595942+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T22:07:45.685677+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:17:01.242716+04:00 tornike-CH510M-K-M-2 CRON[34425]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T22:17:01.247665+04:00 tornike-CH510M-K-M-2 CRON[34425]: pam_unix(cron:session): session closed for user root
+2025-09-14T22:25:37.602829+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-14T22:25:37.604395+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:25:41.472289+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:25:41.478030+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/local/bin/apt install build-essential libtool autotools-dev automake pkg-config bsdmainutils python3 libevent-dev libboost-system-dev libboost-filesystem-dev libboost-test-dev libboost-thread-dev
+2025-09-14T22:25:41.478415+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:25:45.696836+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-14T22:25:45.697040+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T22:25:45.791513+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:25:56.300714+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:25:56.305658+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M/node-stratum-pool ; USER=root ; COMMAND=/usr/local/bin/apt install libdb-dev libdb++-dev libminiupnpc-dev libzmq3-dev
+2025-09-14T22:25:56.306024+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:26:09.263359+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:27:15.809768+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-14T22:27:15.811481+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T22:27:15.940290+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:28:23.857526+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-14T22:28:23.858115+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:28:25.911984+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:28:25.916975+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike ; USER=root ; COMMAND=/usr/local/bin/apt install -y build-essential libtool autotools-dev automake pkg-config bsdmainutils libboost-system-dev libboost-filesystem-dev libboost-test-dev libboost-thread-dev libevent-dev libssl-dev libdb5.3-dev libdb5.3++-dev libminiupnpc-dev libzmq3-dev
+2025-09-14T22:28:25.917304+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:28:28.540002+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:28:45.945575+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-14T22:28:45.945864+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T22:28:46.044677+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:30:01.253787+04:00 tornike-CH510M-K-M-2 CRON[45489]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T22:30:01.255009+04:00 tornike-CH510M-K-M-2 CRON[45489]: pam_unix(cron:session): session closed for user root
+2025-09-14T22:30:04.695272+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/rm /etc/apt/sources.list.d/nvidia-docker.list
+2025-09-14T22:30:04.696179+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:30:04.698957+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:30:07.962770+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/nano /etc/apt/sources.list.d/nvidia-docker.list
+2025-09-14T22:30:07.963272+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:30:15.952807+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:30:30.803970+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-14T22:30:30.805584+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:30:30.899259+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:30:30.904397+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/local/bin/apt install -y nvidia-docker2
+2025-09-14T22:30:30.904780+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:30:30.963404+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:30:49.682202+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/rm /etc/apt/sources.list.d/nvidia-docker.list
+2025-09-14T22:30:49.685245+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:30:49.689190+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:30:57.221756+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/tee /etc/apt/sources.list.d/nvidia-docker.list
+2025-09-14T22:30:57.224343+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:30:57.503322+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:31:02.276170+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/apt-key add -
+2025-09-14T22:31:02.276712+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:31:02.761408+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:31:07.083919+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-14T22:31:07.084290+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:31:10.276231+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:31:10.281291+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/local/bin/apt install -y nvidia-docker2
+2025-09-14T22:31:10.281641+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:31:11.090201+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:31:30.501884+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/docker run --rm --gpus all nvidia/cuda:12.2.0-base nvidia-smi
+2025-09-14T22:31:30.502512+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:31:32.461043+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:31:46.051216+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-14T22:31:46.051405+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T22:31:46.155716+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:31:58.386606+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/docker run --rm --gpus all nvidia/cuda:12.4.1-base nvidia-smi
+2025-09-14T22:31:58.388156+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:32:00.234330+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:32:21.136178+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/docker run --rm --gpus all nvidia/cuda:12.4.0-base-ubuntu22.04 nvidia-smi
+2025-09-14T22:32:21.136751+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:32:37.546524+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:44:13.300257+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T22:44:13.303602+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:44:13.604512+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:44:13.609415+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl enable --now miner-coord.service
+2025-09-14T22:44:13.609834+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:44:13.627824+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:44:13.632849+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl enable --now sim-workers.service
+2025-09-14T22:44:13.633238+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:44:13.637112+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:44:13.642013+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service sim-workers.service
+2025-09-14T22:44:13.642369+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:44:13.648940+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:45:58.138781+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T22:45:58.140222+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:45:58.411677+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:45:58.416721+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl enable --now miner-coord.service
+2025-09-14T22:45:58.417075+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:45:58.436941+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:45:58.441832+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl enable --now sim-workers.service
+2025-09-14T22:45:58.442182+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:45:58.445973+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:45:58.450851+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service sim-workers.service
+2025-09-14T22:45:58.451163+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:45:58.456933+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:46:09.201036+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/miner-coord.service
+2025-09-14T22:46:09.201332+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:46:17.749804+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:46:23.031279+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/sim-workers.service
+2025-09-14T22:46:23.033248+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:46:27.598186+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:46:31.935151+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T22:46:31.936660+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:46:32.222963+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:46:32.228039+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl enable --now miner-coord.service
+2025-09-14T22:46:32.228427+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:46:32.528797+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:46:32.533687+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl enable --now sim-workers.service
+2025-09-14T22:46:32.534018+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:46:32.812096+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:46:37.614900+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service
+2025-09-14T22:46:37.616746+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:47:04.664739+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:51:31.913366+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/miner-coord.service
+2025-09-14T22:51:31.913675+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:51:41.636661+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:51:45.148453+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/sim-workers.service
+2025-09-14T22:51:45.150223+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:51:51.853258+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:52:10.811975+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T22:52:10.812789+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:52:11.097304+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:52:14.588917+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl enable --now miner-coord.service
+2025-09-14T22:52:14.589257+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:52:16.957038+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:52:16.962042+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl enable --now sim-workers.service
+2025-09-14T22:52:16.962429+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:52:21.207175+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:52:33.029170+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service
+2025-09-14T22:52:33.031045+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:53:24.582944+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/6 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/miner-coord.service
+2025-09-14T22:53:24.583267+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:53:52.671787+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:54:00.454344+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/6 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/sim-workers.service
+2025-09-14T22:54:00.454770+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:54:25.296178+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:54:32.374948+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/6 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/miner-coord.service
+2025-09-14T22:54:32.375303+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:54:38.128596+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:54:44.705664+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/6 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T22:54:44.707654+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:54:44.999431+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:54:45.004386+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/6 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl restart miner-coord.service sim-workers.service
+2025-09-14T22:54:45.004844+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:54:45.031507+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:54:45.036418+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/6 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service sim-workers.service
+2025-09-14T22:54:45.036848+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:55:17.988608+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:auth): authentication failure; logname=tornike uid=1000 euid=0 tty=/dev/pts/5 ruser=tornike rhost=  user=tornike
+2025-09-14T22:55:23.180677+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/5 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/journalctl -u miner-coord.service -f
+2025-09-14T22:55:23.181069+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:55:53.617261+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:55:56.919377+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/9 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/lsof -i:8080
+2025-09-14T22:55:56.919705+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:55:57.007470+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:57:31.292444+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/9 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T22:57:31.295298+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:57:31.580280+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:57:31.585374+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/9 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl restart miner-coord.service
+2025-09-14T22:57:31.585839+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:57:31.608428+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:57:31.613305+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/9 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service
+2025-09-14T22:57:31.613793+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:58:21.577578+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/8 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T22:58:21.577868+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:58:21.833352+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:58:21.838356+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/8 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl restart miner-coord.service
+2025-09-14T22:58:21.838790+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T22:58:21.858971+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T22:58:21.863847+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/8 ; PWD=/home/tornike/Ravencoin ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service
+2025-09-14T22:58:21.864193+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:14:15.075317+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl stop sim-workers.service
+2025-09-14T23:14:15.075574+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:14:15.080635+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:14:15.085506+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl disable sim-workers.service
+2025-09-14T23:14:15.085903+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:14:15.364476+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:15:24.852241+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T23:15:24.852816+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:15:25.132389+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:15:25.137510+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable --now trex-adapter.service
+2025-09-14T23:15:25.137998+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:15:25.141927+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:15:25.146834+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status trex-adapter.service
+2025-09-14T23:15:25.147176+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:15:25.151990+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:16:32.189281+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/trex-adapter.service
+2025-09-14T23:16:32.191424+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:16:51.501995+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:17:01.273286+04:00 tornike-CH510M-K-M-2 CRON[57952]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T23:17:01.279767+04:00 tornike-CH510M-K-M-2 CRON[57952]: pam_unix(cron:session): session closed for user root
+2025-09-14T23:17:01.461368+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T23:17:01.462904+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:17:01.760502+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:17:01.765745+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable --now t-rex.service
+2025-09-14T23:17:01.766131+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:17:01.770082+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:17:01.774983+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status t-rex.service
+2025-09-14T23:17:01.775306+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:17:01.780293+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:17:01.785259+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/journalctl -u t-rex.service -f
+2025-09-14T23:17:01.785757+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:17:23.110689+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:17:33.148200+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/15 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable --now t-rex.service
+2025-09-14T23:17:33.148428+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:17:33.152729+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:17:33.157697+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/15 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status t-rex.service
+2025-09-14T23:17:33.158099+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:17:33.162920+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:17:33.168017+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/15 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/journalctl -u t-rex.service -f
+2025-09-14T23:17:33.168392+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:18:11.888322+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:18:15.053627+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/t-rex.service
+2025-09-14T23:18:15.053881+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:18:22.736064+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:18:26.513342+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T23:18:26.515095+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:18:26.812265+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:18:26.817578+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable --now t-rex.service
+2025-09-14T23:18:26.817965+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:18:27.127760+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:18:27.133357+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/14 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status t-rex.service
+2025-09-14T23:18:27.133785+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:18:44.468091+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/15 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/journalctl -u t-rex.service -f
+2025-09-14T23:18:44.468460+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:28:51.836006+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:29:34.788406+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/15 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T23:29:34.789016+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:29:35.047217+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:29:35.052300+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/15 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl restart miner-coord.service
+2025-09-14T23:29:35.052728+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:29:35.069025+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:29:35.084894+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/15 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service
+2025-09-14T23:29:35.086265+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:29:48.253547+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/17 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/lsof -i:8080
+2025-09-14T23:29:48.253845+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:29:48.346877+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:30:01.290795+04:00 tornike-CH510M-K-M-2 CRON[64600]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-14T23:30:01.295693+04:00 tornike-CH510M-K-M-2 CRON[64600]: pam_unix(cron:session): session closed for user root
+2025-09-14T23:30:31.641298+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/17 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/t-rex.service
+2025-09-14T23:30:31.641738+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:30:56.128645+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:31:08.393045+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/17 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/t-rex.service
+2025-09-14T23:31:08.394662+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:31:15.372709+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T23:31:15.372933+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T23:31:17.539703+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:31:41.105525+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:31:48.739244+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/17 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/t-rex.service
+2025-09-14T23:31:48.739591+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:32:15.373312+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-14T23:32:15.373626+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-14T23:32:48.290783+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:33:12.140046+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:33:26.003452+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/17 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T23:33:26.004881+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:33:26.310945+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:33:26.316236+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/17 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl restart t-rex.service
+2025-09-14T23:33:26.316609+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:33:27.888501+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:33:27.894810+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/17 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status t-rex.service
+2025-09-14T23:33:27.895283+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:34:25.273183+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:34:27.387164+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:34:29.802727+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:34:44.872575+04:00 tornike-CH510M-K-M-2 sudo: message repeated 5 times: [ pam_unix(sudo:session): session closed for user root]
+2025-09-14T23:34:56.784896+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/20 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-14T23:34:56.785120+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:34:57.050819+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:34:57.055912+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/20 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl restart trex-adapter.service
+2025-09-14T23:34:57.056321+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:34:57.080980+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:34:57.095868+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/20 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status trex-adapter.service
+2025-09-14T23:34:57.097186+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:07.578243+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt install -y ufw
+2025-09-14T23:35:07.578820+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:08.303323+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:08.308581+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw default deny incoming
+2025-09-14T23:35:08.308978+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:08.363772+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:08.368831+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw default allow outgoing
+2025-09-14T23:35:08.369259+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:08.413570+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:08.419013+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow OpenSSH
+2025-09-14T23:35:08.419347+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:08.463674+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:08.468633+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw deny 8080/tcp
+2025-09-14T23:35:08.469042+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:08.561984+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:08.567037+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw deny 4067/tcp
+2025-09-14T23:35:08.567359+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:08.677199+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:08.682262+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw enable
+2025-09-14T23:35:08.682679+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:09.280942+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:09.297511+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw status verbose
+2025-09-14T23:35:09.298624+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:09.366574+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:15.646542+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw default deny incoming
+2025-09-14T23:35:15.648064+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:17.302870+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:17.316765+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw default allow outgoing
+2025-09-14T23:35:17.318003+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:19.481602+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:19.486443+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow OpenSSH
+2025-09-14T23:35:19.486844+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:19.530875+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:19.536016+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow from X.X.X.X to any port 8080 proto tcp
+2025-09-14T23:35:19.536349+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:19.578241+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:19.583267+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow from X.X.X.X to any port 4067 proto tcp
+2025-09-14T23:35:19.583668+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:19.624567+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:19.629643+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw enable
+2025-09-14T23:35:19.630083+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:20.017845+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:35:20.022755+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw status numbered
+2025-09-14T23:35:20.023189+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:35:20.072472+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:39:50.220483+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/ss -tulnp
+2025-09-14T23:39:50.220970+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:39:50.256492+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:39:56.348007+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow 22/tcp
+2025-09-14T23:39:56.349615+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:39:56.503247+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:54:50.405551+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status trex-adapter.service -n 50
+2025-09-14T23:54:50.405949+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:54:57.727297+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:55:11.405061+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/5 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/journalctl -u miner-coord.service -f
+2025-09-14T23:55:11.405341+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:58:05.413707+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:58:15.050030+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/7 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl stop miner-coord.service
+2025-09-14T23:58:15.050296+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-14T23:58:15.054855+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-14T23:58:51.962289+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/7 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status trex-adapter.service -n 50
+2025-09-14T23:58:51.962711+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:00:02.782938+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/8 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-15T00:00:02.783230+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:00:03.052102+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:00:03.057218+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/8 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl start miner-coord.service
+2025-09-15T00:00:03.057623+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:00:03.079877+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:00:03.084990+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/8 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status miner-coord.service -l
+2025-09-15T00:00:03.085358+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:00:03.094917+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:17:01.306898+04:00 tornike-CH510M-K-M-2 CRON[86809]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T00:17:01.308731+04:00 tornike-CH510M-K-M-2 CRON[86809]: pam_unix(cron:session): session closed for user root
+2025-09-15T00:32:32.607412+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/9 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt install -y neofetch
+2025-09-15T00:32:32.607739+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:32:33.313520+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:32:33.392472+04:00 tornike-CH510M-K-M-2 polkitd[1106]: Registered Authentication Agent for unix-process:93457:1873734 (system bus name :1.313 [flatpak list], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale C)
+2025-09-15T00:32:33.395517+04:00 tornike-CH510M-K-M-2 polkitd[1106]: Unregistered Authentication Agent for unix-process:93457:1873734 (system bus name :1.313, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale C)
+2025-09-15T00:55:51.603397+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:55:51.604554+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:56:51.878986+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/R ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-15T00:56:51.879207+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:56:55.035016+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:56:55.040030+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/R ; USER=root ; COMMAND=/usr/local/bin/apt install -y nodejs npm curl jq
+2025-09-15T00:56:55.040391+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:56:55.613760+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:57:16.174218+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-15T00:57:16.174445+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T00:57:16.269656+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:57:20.953723+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/R ; USER=root ; COMMAND=/usr/local/bin/apt purge nodejs npm -y
+2025-09-15T00:57:20.954189+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:57:24.561545+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:57:28.153872+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/R ; USER=root ; COMMAND=/usr/bin/bash -
+2025-09-15T00:57:28.154237+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:57:34.137409+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:57:34.142370+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/R ; USER=root ; COMMAND=/usr/local/bin/apt install -y nodejs
+2025-09-15T00:57:34.142718+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T00:57:42.319176+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T00:58:46.274768+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-15T00:58:46.275019+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T00:58:46.366082+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:02:46.897231+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/R ; USER=root ; COMMAND=/usr/bin/systemctl stop coord
+2025-09-15T01:02:46.897604+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:02:46.902674+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:11:37.869851+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl start coord
+2025-09-15T01:11:37.870049+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:11:37.874516+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:11:56.687889+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/coord.service
+2025-09-15T01:11:56.688239+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:12:03.883769+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:12:08.039904+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-15T01:12:08.040229+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:12:08.323542+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:12:08.328996+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl enable coord
+2025-09-15T01:12:08.329368+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:12:08.633036+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:12:08.639202+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl start coord
+2025-09-15T01:12:08.639583+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:12:08.660788+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:12:20.727954+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl status coord
+2025-09-15T01:12:20.728263+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:12:46.137019+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:13:09.583194+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/lsof -i :8080
+2025-09-15T01:13:09.583632+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:13:09.639043+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:14:05.155720+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl start coord
+2025-09-15T01:14:05.156028+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:14:05.179439+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:17:01.319829+04:00 tornike-CH510M-K-M-2 CRON[187370]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T01:17:01.321670+04:00 tornike-CH510M-K-M-2 CRON[187370]: pam_unix(cron:session): session closed for user root
+2025-09-15T01:20:34.443232+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/touch /var/log/miner-coord.log
+2025-09-15T01:20:34.443479+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:20:34.445007+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:21:18.125318+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/chown tornike:tornike /var/log/miner-coord.log
+2025-09-15T01:21:18.125658+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:21:18.127386+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:21:40.973611+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/coord.service
+2025-09-15T01:21:40.974139+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:22:04.978256+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:22:09.150432+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-15T01:22:09.150844+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:22:09.413210+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:22:09.419068+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl enable coord
+2025-09-15T01:22:09.419439+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:22:09.688003+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:22:09.693338+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl start coord
+2025-09-15T01:22:09.693798+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:22:09.714824+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:22:13.478595+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/RealServer ; USER=root ; COMMAND=/usr/bin/systemctl status coord
+2025-09-15T01:22:13.479019+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:22:44.063170+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:25:33.362948+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl restart coord
+2025-09-15T01:25:33.363239+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:25:33.385211+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:25:33.389301+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status coord
+2025-09-15T01:25:33.389717+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:27:44.431868+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/coord.service
+2025-09-15T01:27:44.432294+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:28:10.115358+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:28:14.335183+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-15T01:28:14.335543+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:28:14.613766+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:28:26.015654+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl restart coord
+2025-09-15T01:28:26.015978+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:28:26.031179+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:28:26.036444+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status coord
+2025-09-15T01:28:26.036900+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:31:15.374148+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-15T01:31:15.374381+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T01:31:17.589225+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:32:15.373745+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-15T01:32:15.374050+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T01:32:18.309285+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:47:27.178410+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/5 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable trex-adapter
+2025-09-15T01:47:27.178781+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:47:27.463704+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:47:27.468632+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/5 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl start trex-adapter
+2025-09-15T01:47:27.469014+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:47:27.473461+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:47:35.052058+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/5 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable trex-adapter
+2025-09-15T01:47:35.052366+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:47:35.318239+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:47:35.323426+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/5 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl start trex-adapter
+2025-09-15T01:47:35.323813+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:47:35.328288+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:48:43.472059+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: New seat seat0.
+2025-09-15T01:48:43.472095+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: Watching system buttons on /dev/input/event2 (Power Button)
+2025-09-15T01:48:43.472098+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: Watching system buttons on /dev/input/event1 (Power Button)
+2025-09-15T01:48:43.472100+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: Watching system buttons on /dev/input/event0 (Sleep Button)
+2025-09-15T01:48:43.472103+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: Watching system buttons on /dev/input/event3 (USB Keyboard)
+2025-09-15T01:48:43.472104+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: Watching system buttons on /dev/input/event5 (USB Keyboard System Control)
+2025-09-15T01:48:43.472109+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: Watching system buttons on /dev/input/event7 (USB Gaming Mouse)
+2025-09-15T01:48:43.472111+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: Watching system buttons on /dev/input/event8 (USB Gaming Mouse Consumer Control)
+2025-09-15T01:48:43.560429+04:00 tornike-CH510M-K-M-2 polkitd[1260]: Loading rules from directory /etc/polkit-1/rules.d
+2025-09-15T01:48:43.562339+04:00 tornike-CH510M-K-M-2 polkitd[1260]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-09-15T01:48:43.627232+04:00 tornike-CH510M-K-M-2 polkitd[1260]: Finished loading, compiling and executing 14 rules
+2025-09-15T01:48:43.627803+04:00 tornike-CH510M-K-M-2 polkitd[1260]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-09-15T01:48:46.917191+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=113) by (uid=0)
+2025-09-15T01:48:46.931789+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: New session c1 of user lightdm.
+2025-09-15T01:48:46.946448+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user lightdm(uid=113) by lightdm(uid=0)
+2025-09-15T01:48:47.212814+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: couldn't unlock the login keyring.
+2025-09-15T01:48:47.800611+04:00 tornike-CH510M-K-M-2 lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "tornike"
+2025-09-15T01:48:49.242791+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unable to locate daemon control file
+2025-09-15T01:48:49.242815+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: stashed password to try later in open session
+2025-09-15T01:48:49.282706+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: Removed session c1.
+2025-09-15T01:48:49.283110+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm:session): session opened for user tornike(uid=1000) by (uid=0)
+2025-09-15T01:48:49.288042+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: New session c2 of user tornike.
+2025-09-15T01:48:49.312569+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user tornike(uid=1000) by tornike(uid=0)
+2025-09-15T01:48:49.507545+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unlocked login keyring
+2025-09-15T01:48:49.693078+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2248]: The Secret Service was already initialized
+2025-09-15T01:48:49.693333+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2355]: discover_other_daemon: 1
+2025-09-15T01:48:49.694643+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2356]: discover_other_daemon: 1
+2025-09-15T01:48:49.694679+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2248]: The PKCS#11 component was already initialized
+2025-09-15T01:48:49.694871+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2357]: discover_other_daemon: 1
+2025-09-15T01:48:51.852410+04:00 tornike-CH510M-K-M-2 polkitd[1260]: Registered Authentication Agent for unix-session:c2 (system bus name :1.67 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-09-15T01:48:59.547163+04:00 tornike-CH510M-K-M-2 (sd-pam): pam_unix(systemd-user:session): session closed for user lightdm
+2025-09-15T01:50:26.508676+04:00 tornike-CH510M-K-M-2 dbus-daemon[1151]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-15T01:53:36.982941+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/tee /etc/nginx/sites-available/coord.conf
+2025-09-15T01:53:36.983173+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:53:36.985760+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:53:36.991008+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/ln -sf /etc/nginx/sites-available/coord.conf /etc/nginx/sites-enabled/coord.conf
+2025-09-15T01:53:36.991437+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:53:36.992783+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:54:20.225992+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-15T01:54:20.226274+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:54:22.690113+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:54:22.694968+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt install -y nginx
+2025-09-15T01:54:22.695288+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:54:29.193360+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:54:32.554857+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt install -y certbot python3-certbot-nginx
+2025-09-15T01:54:32.555191+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:54:38.345572+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:54:41.027193+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/tee /etc/nginx/sites-available/coord.conf
+2025-09-15T01:54:41.027533+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:54:41.028919+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:54:47.683104+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/ln -s /etc/nginx/sites-available/coord.conf /etc/nginx/sites-enabled/coord.conf
+2025-09-15T01:54:47.683411+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:54:47.684783+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:54:51.203213+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/nginx -t
+2025-09-15T01:54:51.204601+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:54:51.208455+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:54:52.630123+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-15T01:54:52.630339+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T01:54:52.701896+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:54:57.411512+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl reload nginx
+2025-09-15T01:54:57.411897+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:54:57.430005+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:56:30.655523+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt update
+2025-09-15T01:56:30.655866+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:56:33.687930+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:56:33.692972+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/local/bin/apt install nginx certbot python3-certbot-nginx -y
+2025-09-15T01:56:33.693344+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:56:34.407355+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:56:35.953181+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/nginx -t
+2025-09-15T01:56:35.953553+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:56:35.958095+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:56:35.963029+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl reload nginx
+2025-09-15T01:56:35.963373+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:56:35.986918+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:57:18.910266+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d example.com -d www.example.com
+2025-09-15T01:57:18.910661+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:57:19.373917+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:57:52.711189+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/lib/linuxmint/mintUpdate/dpkg_lock_check.sh
+2025-09-15T01:57:52.711407+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T01:57:52.781484+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:57:54.470821+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/nginx/sites-available/coord.conf
+2025-09-15T01:57:54.471186+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:58:58.964614+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:59:03.004996+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/nginx -t
+2025-09-15T01:59:03.006402+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:59:03.020189+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:59:03.037711+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl reload nginx
+2025-09-15T01:59:03.039401+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T01:59:03.076170+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T01:59:07.312504+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d example.com -d www.example.com
+2025-09-15T01:59:07.312916+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:00:22.632132+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-15T02:00:22.632335+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T02:00:24.094372+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:01:51.552622+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:03:36.558418+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/nginx -t
+2025-09-15T02:03:36.558760+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:03:36.562758+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:03:36.567659+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl reload nginx
+2025-09-15T02:03:36.568051+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:03:36.593738+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:03:36.598934+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d mydomain.com -d www.mydomain.com
+2025-09-15T02:03:36.599286+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:03:46.259002+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:04:53.223539+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow 80
+2025-09-15T02:04:53.224805+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:04:53.345433+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:04:53.350336+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow 443
+2025-09-15T02:04:53.350715+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:04:53.467155+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:05:23.269884+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/nginx -t
+2025-09-15T02:05:23.271469+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:05:23.286958+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:05:23.302340+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl reload nginx
+2025-09-15T02:05:23.303162+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:05:23.327508+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:05:23.332922+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d mydomain.com -d www.mydomain.com
+2025-09-15T02:05:23.333275+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:05:32.678555+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:06:13.880600+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl reload nginx
+2025-09-15T02:06:13.881530+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:06:13.906429+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:06:13.913817+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d mydomain.com -d www.mydomain.com
+2025-09-15T02:06:13.914374+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:06:23.576259+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:12:06.760513+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d creatingpoolcool.com -d www.creatingpoolcool.com
+2025-09-15T02:12:06.760895+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:12:13.074087+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:17:01.180121+04:00 tornike-CH510M-K-M-2 CRON[14791]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T02:17:01.182234+04:00 tornike-CH510M-K-M-2 CRON[14791]: pam_unix(cron:session): session closed for user root
+2025-09-15T02:17:07.374414+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d creatingpoolcool.com -d www.creatingpoolcool.com
+2025-09-15T02:17:07.375085+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:17:13.402731+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:30:47.460436+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d creatingcoolpool.ddns.net -d www.creatingcoolpool.ddns.net
+2025-09-15T02:30:47.460842+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:31:03.411052+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:31:07.570153+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d creatingcoolpool.ddns.net
+2025-09-15T02:31:07.570430+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:31:22.511521+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:32:54.820041+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw status
+2025-09-15T02:32:54.821423+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:32:54.906368+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:32:59.594102+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow 80
+2025-09-15T02:32:59.595049+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:32:59.730885+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:32:59.735923+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow 443
+2025-09-15T02:32:59.736278+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:32:59.821250+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:33:04.807644+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+2025-09-15T02:33:04.808011+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:36:18.520292+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow 80/tcp
+2025-09-15T02:36:18.520529+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:36:18.670286+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:36:18.682882+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/sbin/ufw allow 443/tcp
+2025-09-15T02:36:18.683752+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:36:18.804271+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:36:37.146638+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/certbot --nginx -d creatingcoolpool.ddns.net -d www.creatingcoolpool.ddns.net
+2025-09-15T02:36:37.147077+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T02:36:52.933307+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T02:53:11.632423+04:00 tornike-CH510M-K-M-2 dbus-daemon[1151]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-15T02:59:32.102798+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T03:00:02.391913+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-15T03:00:02.392178+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T03:00:02.648678+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T03:00:02.653635+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable --now trex-adapter.service
+2025-09-15T03:00:02.654005+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T03:00:02.916661+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T03:00:02.921538+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/3 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/journalctl -u trex-adapter.service -f
+2025-09-15T03:00:02.921951+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T03:06:53.826931+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T03:06:59.770787+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: The system will power off now!
+2025-09-15T03:06:59.774010+04:00 tornike-CH510M-K-M-2 systemd-logind[1284]: System is powering down.
+2025-09-15T03:06:59.810667+04:00 tornike-CH510M-K-M-2 polkitd[1260]: Unregistered Authentication Agent for unix-session:c2 (system bus name :1.67, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8) (disconnected from bus)
+2025-09-15T06:32:31.692481+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: New seat seat0.
+2025-09-15T06:32:31.692501+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Watching system buttons on /dev/input/event2 (Power Button)
+2025-09-15T06:32:31.692505+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Watching system buttons on /dev/input/event1 (Power Button)
+2025-09-15T06:32:31.692507+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Watching system buttons on /dev/input/event0 (Sleep Button)
+2025-09-15T06:32:31.692509+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Watching system buttons on /dev/input/event3 (USB Keyboard)
+2025-09-15T06:32:31.692511+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Watching system buttons on /dev/input/event5 (USB Keyboard System Control)
+2025-09-15T06:32:31.692516+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Watching system buttons on /dev/input/event7 (USB Gaming Mouse)
+2025-09-15T06:32:31.692520+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Watching system buttons on /dev/input/event8 (USB Gaming Mouse Consumer Control)
+2025-09-15T06:32:31.783786+04:00 tornike-CH510M-K-M-2 polkitd[1155]: Loading rules from directory /etc/polkit-1/rules.d
+2025-09-15T06:32:31.785522+04:00 tornike-CH510M-K-M-2 polkitd[1155]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-09-15T06:32:31.860192+04:00 tornike-CH510M-K-M-2 polkitd[1155]: Finished loading, compiling and executing 14 rules
+2025-09-15T06:32:31.860741+04:00 tornike-CH510M-K-M-2 polkitd[1155]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-09-15T06:32:35.095797+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=113) by (uid=0)
+2025-09-15T06:32:35.105006+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: New session c1 of user lightdm.
+2025-09-15T06:32:35.125841+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user lightdm(uid=113) by lightdm(uid=0)
+2025-09-15T06:32:35.412267+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: couldn't unlock the login keyring.
+2025-09-15T06:32:36.002558+04:00 tornike-CH510M-K-M-2 lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "tornike"
+2025-09-15T10:34:14.449454+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unable to locate daemon control file
+2025-09-15T10:34:14.449538+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: stashed password to try later in open session
+2025-09-15T10:34:14.532163+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Removed session c1.
+2025-09-15T10:34:14.532500+04:00 tornike-CH510M-K-M-2 lightdm: pam_unix(lightdm:session): session opened for user tornike(uid=1000) by (uid=0)
+2025-09-15T10:34:14.554198+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: New session c2 of user tornike.
+2025-09-15T10:34:14.567639+04:00 tornike-CH510M-K-M-2 (systemd): pam_unix(systemd-user:session): session opened for user tornike(uid=1000) by tornike(uid=0)
+2025-09-15T10:34:14.772875+04:00 tornike-CH510M-K-M-2 lightdm: gkr-pam: unlocked login keyring
+2025-09-15T10:34:14.961017+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2955]: The Secret Service was already initialized
+2025-09-15T10:34:14.961255+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[3062]: discover_other_daemon: 1
+2025-09-15T10:34:14.962580+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[3063]: discover_other_daemon: 1
+2025-09-15T10:34:14.962637+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2955]: The PKCS#11 component was already initialized
+2025-09-15T10:34:14.962830+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[3064]: discover_other_daemon: 1
+2025-09-15T10:34:16.807447+04:00 tornike-CH510M-K-M-2 polkitd[1155]: Registered Authentication Agent for unix-session:c2 (system bus name :1.76 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-09-15T10:34:42.418855+04:00 tornike-CH510M-K-M-2 dbus-daemon[1127]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-15T10:44:38.659058+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-15T10:44:38.659284+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T10:44:42.331552+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:45:38.639973+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-15T10:45:38.640179+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T10:45:41.986316+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:47:14.483399+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-15T10:47:14.483679+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:47:14.740030+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:47:14.744949+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable mining
+2025-09-15T10:47:14.745324+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:47:14.749035+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:47:14.753834+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl start mining
+2025-09-15T10:47:14.754220+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:47:14.758099+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:48:05.886579+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/nano /etc/systemd/system/mining.service
+2025-09-15T10:48:05.886936+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:48:19.923528+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:48:44.492778+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-15T10:48:44.493126+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:48:44.746739+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:48:48.687035+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl enable mining
+2025-09-15T10:48:48.687368+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:48:48.969149+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:48:48.974069+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl start mining
+2025-09-15T10:48:48.974502+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:48:48.992518+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:49:09.933526+04:00 tornike-CH510M-K-M-2 dbus-daemon[1127]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-15T10:50:55.399544+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/lsof -i :8080
+2025-09-15T10:50:55.399868+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:50:55.450357+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:51:04.665403+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/netstat -tulpn
+2025-09-15T10:51:04.665783+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:51:04.683455+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:51:45.555827+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl daemon-reload
+2025-09-15T10:51:45.556129+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:51:45.817567+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T10:51:45.822298+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/1 ; PWD=/home/tornike/Videos/M ; USER=root ; COMMAND=/usr/bin/systemctl restart mining
+2025-09-15T10:51:45.822686+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T10:51:45.836991+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T11:07:31.628708+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/snap install code --classic
+2025-09-15T11:07:31.628960+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T11:08:21.844899+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T11:09:11.447892+04:00 tornike-CH510M-K-M-2 gnome-keyring-daemon[2955]: asked to register item /org/freedesktop/secrets/collection/login/2, but it's already registered
+2025-09-15T11:09:33.729581+04:00 tornike-CH510M-K-M-2 dbus-daemon[1127]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-09-15T11:17:01.398896+04:00 tornike-CH510M-K-M-2 CRON[20259]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T11:17:01.400784+04:00 tornike-CH510M-K-M-2 CRON[20259]: pam_unix(cron:session): session closed for user root
+2025-09-15T11:30:01.409285+04:00 tornike-CH510M-K-M-2 CRON[23653]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T11:30:01.410391+04:00 tornike-CH510M-K-M-2 CRON[23653]: pam_unix(cron:session): session closed for user root
+2025-09-15T11:46:04.382858+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Power key pressed short.
+2025-09-15T12:00:01.417474+04:00 tornike-CH510M-K-M-2 CRON[30721]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T12:00:01.421991+04:00 tornike-CH510M-K-M-2 CRON[30721]: pam_unix(cron:session): session closed for user root
+2025-09-15T12:17:01.423942+04:00 tornike-CH510M-K-M-2 CRON[34012]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T12:17:01.425450+04:00 tornike-CH510M-K-M-2 CRON[34012]: pam_unix(cron:session): session closed for user root
+2025-09-15T12:30:01.430162+04:00 tornike-CH510M-K-M-2 CRON[36511]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T12:30:01.431762+04:00 tornike-CH510M-K-M-2 CRON[36511]: pam_unix(cron:session): session closed for user root
+2025-09-15T12:44:38.639974+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-15T12:44:38.640221+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T12:44:40.830217+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T12:45:38.640769+04:00 tornike-CH510M-K-M-2 sudo:  tornike : PWD=/home/tornike ; USER=root ; COMMAND=/usr/bin/mint-refresh-cache
+2025-09-15T12:45:38.640984+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-09-15T12:45:42.208362+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T12:52:56.364623+04:00 tornike-CH510M-K-M-2 systemd-logind[1163]: Power key pressed short.
+2025-09-15T12:54:10.083832+04:00 tornike-CH510M-K-M-2 cinnamon-screensaver-pam-helper: gkr-pam: unlocked login keyring
+2025-09-15T13:05:24.540322+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/bash -c 'cat /var/log/grind/*.log >> /var/log/ceremony.log'
+2025-09-15T13:05:24.540735+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:05:24.543090+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:05:51.957205+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chown tornike /var/log/ceremony.log
+2025-09-15T13:05:51.957554+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:05:51.958938+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:06:02.607724+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/mkdir -p /var/log/grind
+2025-09-15T13:06:02.608037+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:06:02.609426+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:06:02.614234+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chown tornike /var/log/grind
+2025-09-15T13:06:02.614696+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:06:02.615939+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:06:27.384387+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/bash -c 'cat /var/log/grind/*.log >> /var/log/ceremony.log'
+2025-09-15T13:06:27.384777+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:06:27.387004+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:06:32.704496+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/touch /var/log/ceremony.log
+2025-09-15T13:06:32.704810+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:06:32.706069+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:06:32.710724+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chown tornike /var/log/ceremony.log
+2025-09-15T13:06:32.711047+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:06:32.712259+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:06:43.680851+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/bash /opt/miner/export-ceremony.sh
+2025-09-15T13:06:43.681248+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:06:43.682985+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:07:13.177840+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/mkdir -p /opt/miner
+2025-09-15T13:07:13.178163+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:07:13.179884+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:07:13.184760+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/export-ceremony.sh
+2025-09-15T13:07:13.185216+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:07:26.526800+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:07:33.866054+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chmod +x /opt/miner/export-ceremony.sh
+2025-09-15T13:07:33.866373+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:07:33.867661+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:07:39.978442+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/bash /opt/miner/export-ceremony.sh
+2025-09-15T13:07:39.978863+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:07:39.981917+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:08:06.610785+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/0 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/crontab -e
+2025-09-15T13:08:06.611090+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:10:24.987922+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:12:12.544563+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/bash payout-daemon.sh
+2025-09-15T13:12:12.544842+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:12:12.550156+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:12:43.302840+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/mkdir -p /opt/miner
+2025-09-15T13:12:43.304236+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:12:43.309294+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:12:43.326730+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/gen-registry.js
+2025-09-15T13:12:43.327816+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:12:57.510181+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:13:29.593839+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chown -R tornike /opt/miner
+2025-09-15T13:13:29.595421+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:13:29.599558+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:13:50.227140+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chmod 444 /opt/miner/registry.json
+2025-09-15T13:13:50.228829+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:13:50.233865+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:17:01.441527+04:00 tornike-CH510M-K-M-2 CRON[48927]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T13:17:01.443052+04:00 tornike-CH510M-K-M-2 CRON[48927]: pam_unix(cron:session): session closed for user root
+2025-09-15T13:18:52.547026+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/gen-ledger.js
+2025-09-15T13:18:52.547381+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:19:04.919096+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:19:52.625962+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/export-bundle.sh
+2025-09-15T13:19:52.626305+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:20:05.643404+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:20:29.717001+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/gen-ledger.js
+2025-09-15T13:20:29.717352+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:20:32.881302+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:21:00.045839+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/gen-registry/js
+2025-09-15T13:21:00.046172+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:21:23.306518+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:21:55.007237+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chown tornike /opt/miner/gen-ledger.js /opt/miner/gen-registry.js
+2025-09-15T13:21:55.007617+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:21:55.008978+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:23:36.810082+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/disburse.js
+2025-09-15T13:23:36.810434+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:23:45.437887+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:23:54.327945+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chmod 444 /opt/miner/disbursement.json
+2025-09-15T13:23:54.328210+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:23:54.329611+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:24:39.619453+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner disburse.js
+2025-09-15T13:24:39.619841+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:24:48.327734+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:24:54.123699+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chmod 444 /opt/miner/disbursement.json
+2025-09-15T13:24:54.124035+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:24:54.125469+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:25:27.938118+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/chmod 444 /opt/miner/disbursement.json
+2025-09-15T13:25:27.938400+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:25:27.939694+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:26:14.181821+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/export-bundle.sh
+2025-09-15T13:26:14.182256+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:26:44.994610+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:26:57.056867+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/bash /opt/miner/export-bundle.sh
+2025-09-15T13:26:57.057339+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:26:57.073299+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:28:08.080795+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano /opt/miner/status-monitor.js
+2025-09-15T13:28:08.081113+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:28:14.908830+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:29:30.746863+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano
+2025-09-15T13:29:30.747205+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:30:01.446982+04:00 tornike-CH510M-K-M-2 CRON[51800]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-09-15T13:30:01.448481+04:00 tornike-CH510M-K-M-2 CRON[51800]: pam_unix(cron:session): session closed for user root
+2025-09-15T13:30:01.519325+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root
+2025-09-15T13:30:07.878138+04:00 tornike-CH510M-K-M-2 sudo:  tornike : TTY=pts/2 ; PWD=/home/tornike/Videos/POOL ; USER=root ; COMMAND=/usr/bin/nano
+2025-09-15T13:30:07.878466+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by tornike(uid=1000)
+2025-09-15T13:30:27.648041+04:00 tornike-CH510M-K-M-2 sudo: pam_unix(sudo:session): session closed for user root

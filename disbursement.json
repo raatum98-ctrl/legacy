@@ -1,0 +1,6006 @@
+{
+  "totalHashrate": 0,
+  "workers": [
+    {
+      "id": "worker-0001",
+      "wallet": "RFAKE000001",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.904Z"
+    },
+    {
+      "id": "worker-0002",
+      "wallet": "RFAKE000002",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.904Z"
+    },
+    {
+      "id": "worker-0003",
+      "wallet": "RFAKE000003",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.904Z"
+    },
+    {
+      "id": "worker-0004",
+      "wallet": "RFAKE000004",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.904Z"
+    },
+    {
+      "id": "worker-0005",
+      "wallet": "RFAKE000005",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.904Z"
+    },
+    {
+      "id": "worker-0006",
+      "wallet": "RFAKE000006",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.904Z"
+    },
+    {
+      "id": "worker-0007",
+      "wallet": "RFAKE000007",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.904Z"
+    },
+    {
+      "id": "worker-0008",
+      "wallet": "RFAKE000008",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.904Z"
+    },
+    {
+      "id": "worker-0009",
+      "wallet": "RFAKE000009",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.905Z"
+    },
+    {
+      "id": "worker-0010",
+      "wallet": "RFAKE000010",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.905Z"
+    },
+    {
+      "id": "worker-0011",
+      "wallet": "RFAKE000011",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.905Z"
+    },
+    {
+      "id": "worker-0012",
+      "wallet": "RFAKE000012",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.905Z"
+    },
+    {
+      "id": "worker-0013",
+      "wallet": "RFAKE000013",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.905Z"
+    },
+    {
+      "id": "worker-0014",
+      "wallet": "RFAKE000014",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.905Z"
+    },
+    {
+      "id": "worker-0015",
+      "wallet": "RFAKE000015",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.905Z"
+    },
+    {
+      "id": "worker-0016",
+      "wallet": "RFAKE000016",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.905Z"
+    },
+    {
+      "id": "worker-0017",
+      "wallet": "RFAKE000017",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0018",
+      "wallet": "RFAKE000018",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0019",
+      "wallet": "RFAKE000019",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0020",
+      "wallet": "RFAKE000020",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0021",
+      "wallet": "RFAKE000021",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0022",
+      "wallet": "RFAKE000022",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0023",
+      "wallet": "RFAKE000023",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0024",
+      "wallet": "RFAKE000024",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0025",
+      "wallet": "RFAKE000025",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0026",
+      "wallet": "RFAKE000026",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0027",
+      "wallet": "RFAKE000027",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0028",
+      "wallet": "RFAKE000028",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0029",
+      "wallet": "RFAKE000029",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0030",
+      "wallet": "RFAKE000030",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0031",
+      "wallet": "RFAKE000031",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0032",
+      "wallet": "RFAKE000032",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0033",
+      "wallet": "RFAKE000033",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0034",
+      "wallet": "RFAKE000034",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0035",
+      "wallet": "RFAKE000035",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0036",
+      "wallet": "RFAKE000036",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0037",
+      "wallet": "RFAKE000037",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0038",
+      "wallet": "RFAKE000038",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0039",
+      "wallet": "RFAKE000039",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0040",
+      "wallet": "RFAKE000040",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0041",
+      "wallet": "RFAKE000041",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0042",
+      "wallet": "RFAKE000042",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0043",
+      "wallet": "RFAKE000043",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0044",
+      "wallet": "RFAKE000044",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0045",
+      "wallet": "RFAKE000045",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0046",
+      "wallet": "RFAKE000046",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0047",
+      "wallet": "RFAKE000047",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.906Z"
+    },
+    {
+      "id": "worker-0048",
+      "wallet": "RFAKE000048",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0049",
+      "wallet": "RFAKE000049",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0050",
+      "wallet": "RFAKE000050",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0051",
+      "wallet": "RFAKE000051",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0052",
+      "wallet": "RFAKE000052",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0053",
+      "wallet": "RFAKE000053",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0054",
+      "wallet": "RFAKE000054",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0055",
+      "wallet": "RFAKE000055",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0056",
+      "wallet": "RFAKE000056",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0057",
+      "wallet": "RFAKE000057",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0058",
+      "wallet": "RFAKE000058",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0059",
+      "wallet": "RFAKE000059",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0060",
+      "wallet": "RFAKE000060",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0061",
+      "wallet": "RFAKE000061",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0062",
+      "wallet": "RFAKE000062",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0063",
+      "wallet": "RFAKE000063",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0064",
+      "wallet": "RFAKE000064",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0065",
+      "wallet": "RFAKE000065",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0066",
+      "wallet": "RFAKE000066",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0067",
+      "wallet": "RFAKE000067",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0068",
+      "wallet": "RFAKE000068",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0069",
+      "wallet": "RFAKE000069",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0070",
+      "wallet": "RFAKE000070",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0071",
+      "wallet": "RFAKE000071",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0072",
+      "wallet": "RFAKE000072",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0073",
+      "wallet": "RFAKE000073",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0074",
+      "wallet": "RFAKE000074",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0075",
+      "wallet": "RFAKE000075",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0076",
+      "wallet": "RFAKE000076",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0077",
+      "wallet": "RFAKE000077",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0078",
+      "wallet": "RFAKE000078",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0079",
+      "wallet": "RFAKE000079",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0080",
+      "wallet": "RFAKE000080",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0081",
+      "wallet": "RFAKE000081",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0082",
+      "wallet": "RFAKE000082",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0083",
+      "wallet": "RFAKE000083",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0084",
+      "wallet": "RFAKE000084",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0085",
+      "wallet": "RFAKE000085",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0086",
+      "wallet": "RFAKE000086",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0087",
+      "wallet": "RFAKE000087",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0088",
+      "wallet": "RFAKE000088",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0089",
+      "wallet": "RFAKE000089",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0090",
+      "wallet": "RFAKE000090",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0091",
+      "wallet": "RFAKE000091",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0092",
+      "wallet": "RFAKE000092",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0093",
+      "wallet": "RFAKE000093",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.907Z"
+    },
+    {
+      "id": "worker-0094",
+      "wallet": "RFAKE000094",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0095",
+      "wallet": "RFAKE000095",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0096",
+      "wallet": "RFAKE000096",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0097",
+      "wallet": "RFAKE000097",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0098",
+      "wallet": "RFAKE000098",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0099",
+      "wallet": "RFAKE000099",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0100",
+      "wallet": "RFAKE000100",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0101",
+      "wallet": "RFAKE000101",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0102",
+      "wallet": "RFAKE000102",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0103",
+      "wallet": "RFAKE000103",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0104",
+      "wallet": "RFAKE000104",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0105",
+      "wallet": "RFAKE000105",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0106",
+      "wallet": "RFAKE000106",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0107",
+      "wallet": "RFAKE000107",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0108",
+      "wallet": "RFAKE000108",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0109",
+      "wallet": "RFAKE000109",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0110",
+      "wallet": "RFAKE000110",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0111",
+      "wallet": "RFAKE000111",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0112",
+      "wallet": "RFAKE000112",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0113",
+      "wallet": "RFAKE000113",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0114",
+      "wallet": "RFAKE000114",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0115",
+      "wallet": "RFAKE000115",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0116",
+      "wallet": "RFAKE000116",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0117",
+      "wallet": "RFAKE000117",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0118",
+      "wallet": "RFAKE000118",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0119",
+      "wallet": "RFAKE000119",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0120",
+      "wallet": "RFAKE000120",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0121",
+      "wallet": "RFAKE000121",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0122",
+      "wallet": "RFAKE000122",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0123",
+      "wallet": "RFAKE000123",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0124",
+      "wallet": "RFAKE000124",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0125",
+      "wallet": "RFAKE000125",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0126",
+      "wallet": "RFAKE000126",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0127",
+      "wallet": "RFAKE000127",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0128",
+      "wallet": "RFAKE000128",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0129",
+      "wallet": "RFAKE000129",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0130",
+      "wallet": "RFAKE000130",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0131",
+      "wallet": "RFAKE000131",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0132",
+      "wallet": "RFAKE000132",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0133",
+      "wallet": "RFAKE000133",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0134",
+      "wallet": "RFAKE000134",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0135",
+      "wallet": "RFAKE000135",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0136",
+      "wallet": "RFAKE000136",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.908Z"
+    },
+    {
+      "id": "worker-0137",
+      "wallet": "RFAKE000137",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0138",
+      "wallet": "RFAKE000138",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0139",
+      "wallet": "RFAKE000139",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0140",
+      "wallet": "RFAKE000140",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0141",
+      "wallet": "RFAKE000141",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0142",
+      "wallet": "RFAKE000142",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0143",
+      "wallet": "RFAKE000143",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0144",
+      "wallet": "RFAKE000144",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0145",
+      "wallet": "RFAKE000145",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0146",
+      "wallet": "RFAKE000146",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0147",
+      "wallet": "RFAKE000147",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0148",
+      "wallet": "RFAKE000148",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0149",
+      "wallet": "RFAKE000149",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0150",
+      "wallet": "RFAKE000150",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0151",
+      "wallet": "RFAKE000151",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0152",
+      "wallet": "RFAKE000152",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0153",
+      "wallet": "RFAKE000153",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0154",
+      "wallet": "RFAKE000154",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0155",
+      "wallet": "RFAKE000155",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0156",
+      "wallet": "RFAKE000156",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0157",
+      "wallet": "RFAKE000157",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0158",
+      "wallet": "RFAKE000158",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0159",
+      "wallet": "RFAKE000159",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0160",
+      "wallet": "RFAKE000160",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0161",
+      "wallet": "RFAKE000161",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0162",
+      "wallet": "RFAKE000162",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0163",
+      "wallet": "RFAKE000163",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0164",
+      "wallet": "RFAKE000164",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0165",
+      "wallet": "RFAKE000165",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0166",
+      "wallet": "RFAKE000166",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0167",
+      "wallet": "RFAKE000167",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0168",
+      "wallet": "RFAKE000168",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0169",
+      "wallet": "RFAKE000169",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0170",
+      "wallet": "RFAKE000170",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0171",
+      "wallet": "RFAKE000171",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0172",
+      "wallet": "RFAKE000172",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0173",
+      "wallet": "RFAKE000173",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0174",
+      "wallet": "RFAKE000174",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0175",
+      "wallet": "RFAKE000175",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0176",
+      "wallet": "RFAKE000176",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0177",
+      "wallet": "RFAKE000177",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0178",
+      "wallet": "RFAKE000178",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0179",
+      "wallet": "RFAKE000179",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0180",
+      "wallet": "RFAKE000180",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0181",
+      "wallet": "RFAKE000181",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.909Z"
+    },
+    {
+      "id": "worker-0182",
+      "wallet": "RFAKE000182",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0183",
+      "wallet": "RFAKE000183",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0184",
+      "wallet": "RFAKE000184",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0185",
+      "wallet": "RFAKE000185",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0186",
+      "wallet": "RFAKE000186",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0187",
+      "wallet": "RFAKE000187",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0188",
+      "wallet": "RFAKE000188",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0189",
+      "wallet": "RFAKE000189",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0190",
+      "wallet": "RFAKE000190",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0191",
+      "wallet": "RFAKE000191",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0192",
+      "wallet": "RFAKE000192",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0193",
+      "wallet": "RFAKE000193",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0194",
+      "wallet": "RFAKE000194",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0195",
+      "wallet": "RFAKE000195",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0196",
+      "wallet": "RFAKE000196",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0197",
+      "wallet": "RFAKE000197",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0198",
+      "wallet": "RFAKE000198",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0199",
+      "wallet": "RFAKE000199",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0200",
+      "wallet": "RFAKE000200",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0201",
+      "wallet": "RFAKE000201",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0202",
+      "wallet": "RFAKE000202",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0203",
+      "wallet": "RFAKE000203",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0204",
+      "wallet": "RFAKE000204",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0205",
+      "wallet": "RFAKE000205",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0206",
+      "wallet": "RFAKE000206",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0207",
+      "wallet": "RFAKE000207",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0208",
+      "wallet": "RFAKE000208",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0209",
+      "wallet": "RFAKE000209",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0210",
+      "wallet": "RFAKE000210",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0211",
+      "wallet": "RFAKE000211",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0212",
+      "wallet": "RFAKE000212",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0213",
+      "wallet": "RFAKE000213",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0214",
+      "wallet": "RFAKE000214",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0215",
+      "wallet": "RFAKE000215",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0216",
+      "wallet": "RFAKE000216",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0217",
+      "wallet": "RFAKE000217",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0218",
+      "wallet": "RFAKE000218",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0219",
+      "wallet": "RFAKE000219",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0220",
+      "wallet": "RFAKE000220",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0221",
+      "wallet": "RFAKE000221",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0222",
+      "wallet": "RFAKE000222",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0223",
+      "wallet": "RFAKE000223",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0224",
+      "wallet": "RFAKE000224",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0225",
+      "wallet": "RFAKE000225",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0226",
+      "wallet": "RFAKE000226",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0227",
+      "wallet": "RFAKE000227",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.910Z"
+    },
+    {
+      "id": "worker-0228",
+      "wallet": "RFAKE000228",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0229",
+      "wallet": "RFAKE000229",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0230",
+      "wallet": "RFAKE000230",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0231",
+      "wallet": "RFAKE000231",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0232",
+      "wallet": "RFAKE000232",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0233",
+      "wallet": "RFAKE000233",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0234",
+      "wallet": "RFAKE000234",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0235",
+      "wallet": "RFAKE000235",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0236",
+      "wallet": "RFAKE000236",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0237",
+      "wallet": "RFAKE000237",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0238",
+      "wallet": "RFAKE000238",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0239",
+      "wallet": "RFAKE000239",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0240",
+      "wallet": "RFAKE000240",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0241",
+      "wallet": "RFAKE000241",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0242",
+      "wallet": "RFAKE000242",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0243",
+      "wallet": "RFAKE000243",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0244",
+      "wallet": "RFAKE000244",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0245",
+      "wallet": "RFAKE000245",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0246",
+      "wallet": "RFAKE000246",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0247",
+      "wallet": "RFAKE000247",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0248",
+      "wallet": "RFAKE000248",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0249",
+      "wallet": "RFAKE000249",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0250",
+      "wallet": "RFAKE000250",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0251",
+      "wallet": "RFAKE000251",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0252",
+      "wallet": "RFAKE000252",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0253",
+      "wallet": "RFAKE000253",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0254",
+      "wallet": "RFAKE000254",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0255",
+      "wallet": "RFAKE000255",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0256",
+      "wallet": "RFAKE000256",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0257",
+      "wallet": "RFAKE000257",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0258",
+      "wallet": "RFAKE000258",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0259",
+      "wallet": "RFAKE000259",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0260",
+      "wallet": "RFAKE000260",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0261",
+      "wallet": "RFAKE000261",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0262",
+      "wallet": "RFAKE000262",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0263",
+      "wallet": "RFAKE000263",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0264",
+      "wallet": "RFAKE000264",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0265",
+      "wallet": "RFAKE000265",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0266",
+      "wallet": "RFAKE000266",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0267",
+      "wallet": "RFAKE000267",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0268",
+      "wallet": "RFAKE000268",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0269",
+      "wallet": "RFAKE000269",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0270",
+      "wallet": "RFAKE000270",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0271",
+      "wallet": "RFAKE000271",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0272",
+      "wallet": "RFAKE000272",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.911Z"
+    },
+    {
+      "id": "worker-0273",
+      "wallet": "RFAKE000273",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0274",
+      "wallet": "RFAKE000274",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0275",
+      "wallet": "RFAKE000275",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0276",
+      "wallet": "RFAKE000276",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0277",
+      "wallet": "RFAKE000277",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0278",
+      "wallet": "RFAKE000278",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0279",
+      "wallet": "RFAKE000279",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0280",
+      "wallet": "RFAKE000280",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0281",
+      "wallet": "RFAKE000281",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0282",
+      "wallet": "RFAKE000282",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0283",
+      "wallet": "RFAKE000283",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0284",
+      "wallet": "RFAKE000284",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0285",
+      "wallet": "RFAKE000285",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0286",
+      "wallet": "RFAKE000286",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0287",
+      "wallet": "RFAKE000287",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0288",
+      "wallet": "RFAKE000288",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0289",
+      "wallet": "RFAKE000289",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0290",
+      "wallet": "RFAKE000290",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0291",
+      "wallet": "RFAKE000291",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0292",
+      "wallet": "RFAKE000292",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0293",
+      "wallet": "RFAKE000293",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0294",
+      "wallet": "RFAKE000294",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0295",
+      "wallet": "RFAKE000295",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0296",
+      "wallet": "RFAKE000296",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0297",
+      "wallet": "RFAKE000297",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0298",
+      "wallet": "RFAKE000298",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0299",
+      "wallet": "RFAKE000299",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0300",
+      "wallet": "RFAKE000300",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0301",
+      "wallet": "RFAKE000301",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0302",
+      "wallet": "RFAKE000302",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0303",
+      "wallet": "RFAKE000303",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0304",
+      "wallet": "RFAKE000304",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0305",
+      "wallet": "RFAKE000305",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0306",
+      "wallet": "RFAKE000306",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0307",
+      "wallet": "RFAKE000307",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0308",
+      "wallet": "RFAKE000308",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0309",
+      "wallet": "RFAKE000309",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0310",
+      "wallet": "RFAKE000310",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0311",
+      "wallet": "RFAKE000311",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0312",
+      "wallet": "RFAKE000312",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0313",
+      "wallet": "RFAKE000313",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0314",
+      "wallet": "RFAKE000314",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0315",
+      "wallet": "RFAKE000315",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0316",
+      "wallet": "RFAKE000316",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0317",
+      "wallet": "RFAKE000317",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0318",
+      "wallet": "RFAKE000318",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.912Z"
+    },
+    {
+      "id": "worker-0319",
+      "wallet": "RFAKE000319",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0320",
+      "wallet": "RFAKE000320",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0321",
+      "wallet": "RFAKE000321",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0322",
+      "wallet": "RFAKE000322",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0323",
+      "wallet": "RFAKE000323",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0324",
+      "wallet": "RFAKE000324",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0325",
+      "wallet": "RFAKE000325",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0326",
+      "wallet": "RFAKE000326",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0327",
+      "wallet": "RFAKE000327",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0328",
+      "wallet": "RFAKE000328",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0329",
+      "wallet": "RFAKE000329",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0330",
+      "wallet": "RFAKE000330",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0331",
+      "wallet": "RFAKE000331",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0332",
+      "wallet": "RFAKE000332",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0333",
+      "wallet": "RFAKE000333",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0334",
+      "wallet": "RFAKE000334",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0335",
+      "wallet": "RFAKE000335",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0336",
+      "wallet": "RFAKE000336",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0337",
+      "wallet": "RFAKE000337",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0338",
+      "wallet": "RFAKE000338",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0339",
+      "wallet": "RFAKE000339",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0340",
+      "wallet": "RFAKE000340",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0341",
+      "wallet": "RFAKE000341",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0342",
+      "wallet": "RFAKE000342",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0343",
+      "wallet": "RFAKE000343",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0344",
+      "wallet": "RFAKE000344",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0345",
+      "wallet": "RFAKE000345",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0346",
+      "wallet": "RFAKE000346",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0347",
+      "wallet": "RFAKE000347",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0348",
+      "wallet": "RFAKE000348",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0349",
+      "wallet": "RFAKE000349",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0350",
+      "wallet": "RFAKE000350",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0351",
+      "wallet": "RFAKE000351",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0352",
+      "wallet": "RFAKE000352",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0353",
+      "wallet": "RFAKE000353",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0354",
+      "wallet": "RFAKE000354",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0355",
+      "wallet": "RFAKE000355",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0356",
+      "wallet": "RFAKE000356",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0357",
+      "wallet": "RFAKE000357",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0358",
+      "wallet": "RFAKE000358",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0359",
+      "wallet": "RFAKE000359",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0360",
+      "wallet": "RFAKE000360",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0361",
+      "wallet": "RFAKE000361",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0362",
+      "wallet": "RFAKE000362",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0363",
+      "wallet": "RFAKE000363",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0364",
+      "wallet": "RFAKE000364",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.913Z"
+    },
+    {
+      "id": "worker-0365",
+      "wallet": "RFAKE000365",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0366",
+      "wallet": "RFAKE000366",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0367",
+      "wallet": "RFAKE000367",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0368",
+      "wallet": "RFAKE000368",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0369",
+      "wallet": "RFAKE000369",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0370",
+      "wallet": "RFAKE000370",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0371",
+      "wallet": "RFAKE000371",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0372",
+      "wallet": "RFAKE000372",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0373",
+      "wallet": "RFAKE000373",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0374",
+      "wallet": "RFAKE000374",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0375",
+      "wallet": "RFAKE000375",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0376",
+      "wallet": "RFAKE000376",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0377",
+      "wallet": "RFAKE000377",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0378",
+      "wallet": "RFAKE000378",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0379",
+      "wallet": "RFAKE000379",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0380",
+      "wallet": "RFAKE000380",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0381",
+      "wallet": "RFAKE000381",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0382",
+      "wallet": "RFAKE000382",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0383",
+      "wallet": "RFAKE000383",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0384",
+      "wallet": "RFAKE000384",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0385",
+      "wallet": "RFAKE000385",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0386",
+      "wallet": "RFAKE000386",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0387",
+      "wallet": "RFAKE000387",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0388",
+      "wallet": "RFAKE000388",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0389",
+      "wallet": "RFAKE000389",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0390",
+      "wallet": "RFAKE000390",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0391",
+      "wallet": "RFAKE000391",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0392",
+      "wallet": "RFAKE000392",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0393",
+      "wallet": "RFAKE000393",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0394",
+      "wallet": "RFAKE000394",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0395",
+      "wallet": "RFAKE000395",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0396",
+      "wallet": "RFAKE000396",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0397",
+      "wallet": "RFAKE000397",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0398",
+      "wallet": "RFAKE000398",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0399",
+      "wallet": "RFAKE000399",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0400",
+      "wallet": "RFAKE000400",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0401",
+      "wallet": "RFAKE000401",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0402",
+      "wallet": "RFAKE000402",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0403",
+      "wallet": "RFAKE000403",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0404",
+      "wallet": "RFAKE000404",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0405",
+      "wallet": "RFAKE000405",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0406",
+      "wallet": "RFAKE000406",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0407",
+      "wallet": "RFAKE000407",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0408",
+      "wallet": "RFAKE000408",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0409",
+      "wallet": "RFAKE000409",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0410",
+      "wallet": "RFAKE000410",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.914Z"
+    },
+    {
+      "id": "worker-0411",
+      "wallet": "RFAKE000411",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0412",
+      "wallet": "RFAKE000412",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0413",
+      "wallet": "RFAKE000413",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0414",
+      "wallet": "RFAKE000414",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0415",
+      "wallet": "RFAKE000415",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0416",
+      "wallet": "RFAKE000416",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0417",
+      "wallet": "RFAKE000417",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0418",
+      "wallet": "RFAKE000418",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0419",
+      "wallet": "RFAKE000419",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0420",
+      "wallet": "RFAKE000420",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0421",
+      "wallet": "RFAKE000421",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0422",
+      "wallet": "RFAKE000422",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0423",
+      "wallet": "RFAKE000423",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0424",
+      "wallet": "RFAKE000424",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0425",
+      "wallet": "RFAKE000425",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0426",
+      "wallet": "RFAKE000426",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0427",
+      "wallet": "RFAKE000427",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0428",
+      "wallet": "RFAKE000428",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0429",
+      "wallet": "RFAKE000429",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0430",
+      "wallet": "RFAKE000430",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0431",
+      "wallet": "RFAKE000431",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0432",
+      "wallet": "RFAKE000432",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0433",
+      "wallet": "RFAKE000433",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0434",
+      "wallet": "RFAKE000434",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0435",
+      "wallet": "RFAKE000435",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0436",
+      "wallet": "RFAKE000436",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0437",
+      "wallet": "RFAKE000437",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0438",
+      "wallet": "RFAKE000438",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0439",
+      "wallet": "RFAKE000439",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0440",
+      "wallet": "RFAKE000440",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0441",
+      "wallet": "RFAKE000441",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0442",
+      "wallet": "RFAKE000442",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0443",
+      "wallet": "RFAKE000443",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0444",
+      "wallet": "RFAKE000444",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0445",
+      "wallet": "RFAKE000445",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0446",
+      "wallet": "RFAKE000446",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0447",
+      "wallet": "RFAKE000447",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0448",
+      "wallet": "RFAKE000448",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0449",
+      "wallet": "RFAKE000449",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0450",
+      "wallet": "RFAKE000450",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0451",
+      "wallet": "RFAKE000451",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0452",
+      "wallet": "RFAKE000452",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0453",
+      "wallet": "RFAKE000453",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0454",
+      "wallet": "RFAKE000454",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0455",
+      "wallet": "RFAKE000455",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.915Z"
+    },
+    {
+      "id": "worker-0456",
+      "wallet": "RFAKE000456",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0457",
+      "wallet": "RFAKE000457",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0458",
+      "wallet": "RFAKE000458",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0459",
+      "wallet": "RFAKE000459",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0460",
+      "wallet": "RFAKE000460",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0461",
+      "wallet": "RFAKE000461",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0462",
+      "wallet": "RFAKE000462",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0463",
+      "wallet": "RFAKE000463",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0464",
+      "wallet": "RFAKE000464",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0465",
+      "wallet": "RFAKE000465",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0466",
+      "wallet": "RFAKE000466",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0467",
+      "wallet": "RFAKE000467",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0468",
+      "wallet": "RFAKE000468",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0469",
+      "wallet": "RFAKE000469",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0470",
+      "wallet": "RFAKE000470",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0471",
+      "wallet": "RFAKE000471",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0472",
+      "wallet": "RFAKE000472",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0473",
+      "wallet": "RFAKE000473",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0474",
+      "wallet": "RFAKE000474",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0475",
+      "wallet": "RFAKE000475",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0476",
+      "wallet": "RFAKE000476",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0477",
+      "wallet": "RFAKE000477",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0478",
+      "wallet": "RFAKE000478",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0479",
+      "wallet": "RFAKE000479",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0480",
+      "wallet": "RFAKE000480",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0481",
+      "wallet": "RFAKE000481",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0482",
+      "wallet": "RFAKE000482",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0483",
+      "wallet": "RFAKE000483",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0484",
+      "wallet": "RFAKE000484",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0485",
+      "wallet": "RFAKE000485",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0486",
+      "wallet": "RFAKE000486",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0487",
+      "wallet": "RFAKE000487",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0488",
+      "wallet": "RFAKE000488",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0489",
+      "wallet": "RFAKE000489",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0490",
+      "wallet": "RFAKE000490",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0491",
+      "wallet": "RFAKE000491",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0492",
+      "wallet": "RFAKE000492",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0493",
+      "wallet": "RFAKE000493",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0494",
+      "wallet": "RFAKE000494",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0495",
+      "wallet": "RFAKE000495",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0496",
+      "wallet": "RFAKE000496",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0497",
+      "wallet": "RFAKE000497",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0498",
+      "wallet": "RFAKE000498",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0499",
+      "wallet": "RFAKE000499",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0500",
+      "wallet": "RFAKE000500",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0501",
+      "wallet": "RFAKE000501",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.916Z"
+    },
+    {
+      "id": "worker-0502",
+      "wallet": "RFAKE000502",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0503",
+      "wallet": "RFAKE000503",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0504",
+      "wallet": "RFAKE000504",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0505",
+      "wallet": "RFAKE000505",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0506",
+      "wallet": "RFAKE000506",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0507",
+      "wallet": "RFAKE000507",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0508",
+      "wallet": "RFAKE000508",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0509",
+      "wallet": "RFAKE000509",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0510",
+      "wallet": "RFAKE000510",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0511",
+      "wallet": "RFAKE000511",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0512",
+      "wallet": "RFAKE000512",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0513",
+      "wallet": "RFAKE000513",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0514",
+      "wallet": "RFAKE000514",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0515",
+      "wallet": "RFAKE000515",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0516",
+      "wallet": "RFAKE000516",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0517",
+      "wallet": "RFAKE000517",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0518",
+      "wallet": "RFAKE000518",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0519",
+      "wallet": "RFAKE000519",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0520",
+      "wallet": "RFAKE000520",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0521",
+      "wallet": "RFAKE000521",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0522",
+      "wallet": "RFAKE000522",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0523",
+      "wallet": "RFAKE000523",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0524",
+      "wallet": "RFAKE000524",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0525",
+      "wallet": "RFAKE000525",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0526",
+      "wallet": "RFAKE000526",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0527",
+      "wallet": "RFAKE000527",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0528",
+      "wallet": "RFAKE000528",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0529",
+      "wallet": "RFAKE000529",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0530",
+      "wallet": "RFAKE000530",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0531",
+      "wallet": "RFAKE000531",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0532",
+      "wallet": "RFAKE000532",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0533",
+      "wallet": "RFAKE000533",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0534",
+      "wallet": "RFAKE000534",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0535",
+      "wallet": "RFAKE000535",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0536",
+      "wallet": "RFAKE000536",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0537",
+      "wallet": "RFAKE000537",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0538",
+      "wallet": "RFAKE000538",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0539",
+      "wallet": "RFAKE000539",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0540",
+      "wallet": "RFAKE000540",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0541",
+      "wallet": "RFAKE000541",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0542",
+      "wallet": "RFAKE000542",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0543",
+      "wallet": "RFAKE000543",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0544",
+      "wallet": "RFAKE000544",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0545",
+      "wallet": "RFAKE000545",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0546",
+      "wallet": "RFAKE000546",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0547",
+      "wallet": "RFAKE000547",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.917Z"
+    },
+    {
+      "id": "worker-0548",
+      "wallet": "RFAKE000548",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0549",
+      "wallet": "RFAKE000549",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0550",
+      "wallet": "RFAKE000550",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0551",
+      "wallet": "RFAKE000551",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0552",
+      "wallet": "RFAKE000552",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0553",
+      "wallet": "RFAKE000553",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0554",
+      "wallet": "RFAKE000554",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0555",
+      "wallet": "RFAKE000555",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0556",
+      "wallet": "RFAKE000556",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0557",
+      "wallet": "RFAKE000557",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0558",
+      "wallet": "RFAKE000558",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0559",
+      "wallet": "RFAKE000559",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0560",
+      "wallet": "RFAKE000560",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0561",
+      "wallet": "RFAKE000561",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0562",
+      "wallet": "RFAKE000562",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0563",
+      "wallet": "RFAKE000563",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0564",
+      "wallet": "RFAKE000564",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0565",
+      "wallet": "RFAKE000565",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0566",
+      "wallet": "RFAKE000566",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0567",
+      "wallet": "RFAKE000567",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0568",
+      "wallet": "RFAKE000568",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0569",
+      "wallet": "RFAKE000569",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0570",
+      "wallet": "RFAKE000570",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0571",
+      "wallet": "RFAKE000571",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0572",
+      "wallet": "RFAKE000572",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0573",
+      "wallet": "RFAKE000573",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0574",
+      "wallet": "RFAKE000574",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0575",
+      "wallet": "RFAKE000575",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0576",
+      "wallet": "RFAKE000576",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0577",
+      "wallet": "RFAKE000577",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0578",
+      "wallet": "RFAKE000578",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0579",
+      "wallet": "RFAKE000579",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0580",
+      "wallet": "RFAKE000580",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0581",
+      "wallet": "RFAKE000581",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0582",
+      "wallet": "RFAKE000582",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0583",
+      "wallet": "RFAKE000583",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0584",
+      "wallet": "RFAKE000584",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0585",
+      "wallet": "RFAKE000585",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0586",
+      "wallet": "RFAKE000586",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0587",
+      "wallet": "RFAKE000587",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0588",
+      "wallet": "RFAKE000588",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0589",
+      "wallet": "RFAKE000589",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0590",
+      "wallet": "RFAKE000590",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0591",
+      "wallet": "RFAKE000591",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0592",
+      "wallet": "RFAKE000592",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0593",
+      "wallet": "RFAKE000593",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.918Z"
+    },
+    {
+      "id": "worker-0594",
+      "wallet": "RFAKE000594",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0595",
+      "wallet": "RFAKE000595",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0596",
+      "wallet": "RFAKE000596",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0597",
+      "wallet": "RFAKE000597",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0598",
+      "wallet": "RFAKE000598",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0599",
+      "wallet": "RFAKE000599",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0600",
+      "wallet": "RFAKE000600",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0601",
+      "wallet": "RFAKE000601",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0602",
+      "wallet": "RFAKE000602",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0603",
+      "wallet": "RFAKE000603",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0604",
+      "wallet": "RFAKE000604",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0605",
+      "wallet": "RFAKE000605",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0606",
+      "wallet": "RFAKE000606",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0607",
+      "wallet": "RFAKE000607",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0608",
+      "wallet": "RFAKE000608",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0609",
+      "wallet": "RFAKE000609",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0610",
+      "wallet": "RFAKE000610",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0611",
+      "wallet": "RFAKE000611",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0612",
+      "wallet": "RFAKE000612",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0613",
+      "wallet": "RFAKE000613",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0614",
+      "wallet": "RFAKE000614",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0615",
+      "wallet": "RFAKE000615",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0616",
+      "wallet": "RFAKE000616",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0617",
+      "wallet": "RFAKE000617",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0618",
+      "wallet": "RFAKE000618",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0619",
+      "wallet": "RFAKE000619",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0620",
+      "wallet": "RFAKE000620",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0621",
+      "wallet": "RFAKE000621",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0622",
+      "wallet": "RFAKE000622",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0623",
+      "wallet": "RFAKE000623",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0624",
+      "wallet": "RFAKE000624",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0625",
+      "wallet": "RFAKE000625",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0626",
+      "wallet": "RFAKE000626",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0627",
+      "wallet": "RFAKE000627",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0628",
+      "wallet": "RFAKE000628",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0629",
+      "wallet": "RFAKE000629",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0630",
+      "wallet": "RFAKE000630",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0631",
+      "wallet": "RFAKE000631",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0632",
+      "wallet": "RFAKE000632",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0633",
+      "wallet": "RFAKE000633",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0634",
+      "wallet": "RFAKE000634",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0635",
+      "wallet": "RFAKE000635",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0636",
+      "wallet": "RFAKE000636",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0637",
+      "wallet": "RFAKE000637",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0638",
+      "wallet": "RFAKE000638",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0639",
+      "wallet": "RFAKE000639",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.919Z"
+    },
+    {
+      "id": "worker-0640",
+      "wallet": "RFAKE000640",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0641",
+      "wallet": "RFAKE000641",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0642",
+      "wallet": "RFAKE000642",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0643",
+      "wallet": "RFAKE000643",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0644",
+      "wallet": "RFAKE000644",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0645",
+      "wallet": "RFAKE000645",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0646",
+      "wallet": "RFAKE000646",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0647",
+      "wallet": "RFAKE000647",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0648",
+      "wallet": "RFAKE000648",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0649",
+      "wallet": "RFAKE000649",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0650",
+      "wallet": "RFAKE000650",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0651",
+      "wallet": "RFAKE000651",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0652",
+      "wallet": "RFAKE000652",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0653",
+      "wallet": "RFAKE000653",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0654",
+      "wallet": "RFAKE000654",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0655",
+      "wallet": "RFAKE000655",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0656",
+      "wallet": "RFAKE000656",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0657",
+      "wallet": "RFAKE000657",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0658",
+      "wallet": "RFAKE000658",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0659",
+      "wallet": "RFAKE000659",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0660",
+      "wallet": "RFAKE000660",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0661",
+      "wallet": "RFAKE000661",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0662",
+      "wallet": "RFAKE000662",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0663",
+      "wallet": "RFAKE000663",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0664",
+      "wallet": "RFAKE000664",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0665",
+      "wallet": "RFAKE000665",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0666",
+      "wallet": "RFAKE000666",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0667",
+      "wallet": "RFAKE000667",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0668",
+      "wallet": "RFAKE000668",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0669",
+      "wallet": "RFAKE000669",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0670",
+      "wallet": "RFAKE000670",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0671",
+      "wallet": "RFAKE000671",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0672",
+      "wallet": "RFAKE000672",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0673",
+      "wallet": "RFAKE000673",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0674",
+      "wallet": "RFAKE000674",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0675",
+      "wallet": "RFAKE000675",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0676",
+      "wallet": "RFAKE000676",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0677",
+      "wallet": "RFAKE000677",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0678",
+      "wallet": "RFAKE000678",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0679",
+      "wallet": "RFAKE000679",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0680",
+      "wallet": "RFAKE000680",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0681",
+      "wallet": "RFAKE000681",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0682",
+      "wallet": "RFAKE000682",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0683",
+      "wallet": "RFAKE000683",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0684",
+      "wallet": "RFAKE000684",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.920Z"
+    },
+    {
+      "id": "worker-0685",
+      "wallet": "RFAKE000685",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0686",
+      "wallet": "RFAKE000686",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0687",
+      "wallet": "RFAKE000687",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0688",
+      "wallet": "RFAKE000688",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0689",
+      "wallet": "RFAKE000689",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0690",
+      "wallet": "RFAKE000690",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0691",
+      "wallet": "RFAKE000691",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0692",
+      "wallet": "RFAKE000692",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0693",
+      "wallet": "RFAKE000693",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0694",
+      "wallet": "RFAKE000694",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0695",
+      "wallet": "RFAKE000695",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0696",
+      "wallet": "RFAKE000696",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0697",
+      "wallet": "RFAKE000697",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0698",
+      "wallet": "RFAKE000698",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0699",
+      "wallet": "RFAKE000699",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0700",
+      "wallet": "RFAKE000700",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0701",
+      "wallet": "RFAKE000701",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0702",
+      "wallet": "RFAKE000702",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0703",
+      "wallet": "RFAKE000703",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0704",
+      "wallet": "RFAKE000704",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0705",
+      "wallet": "RFAKE000705",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0706",
+      "wallet": "RFAKE000706",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0707",
+      "wallet": "RFAKE000707",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0708",
+      "wallet": "RFAKE000708",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0709",
+      "wallet": "RFAKE000709",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0710",
+      "wallet": "RFAKE000710",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0711",
+      "wallet": "RFAKE000711",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0712",
+      "wallet": "RFAKE000712",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0713",
+      "wallet": "RFAKE000713",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0714",
+      "wallet": "RFAKE000714",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0715",
+      "wallet": "RFAKE000715",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0716",
+      "wallet": "RFAKE000716",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0717",
+      "wallet": "RFAKE000717",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0718",
+      "wallet": "RFAKE000718",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0719",
+      "wallet": "RFAKE000719",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0720",
+      "wallet": "RFAKE000720",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0721",
+      "wallet": "RFAKE000721",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0722",
+      "wallet": "RFAKE000722",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0723",
+      "wallet": "RFAKE000723",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0724",
+      "wallet": "RFAKE000724",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0725",
+      "wallet": "RFAKE000725",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0726",
+      "wallet": "RFAKE000726",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0727",
+      "wallet": "RFAKE000727",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0728",
+      "wallet": "RFAKE000728",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0729",
+      "wallet": "RFAKE000729",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0730",
+      "wallet": "RFAKE000730",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.921Z"
+    },
+    {
+      "id": "worker-0731",
+      "wallet": "RFAKE000731",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0732",
+      "wallet": "RFAKE000732",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0733",
+      "wallet": "RFAKE000733",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0734",
+      "wallet": "RFAKE000734",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0735",
+      "wallet": "RFAKE000735",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0736",
+      "wallet": "RFAKE000736",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0737",
+      "wallet": "RFAKE000737",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0738",
+      "wallet": "RFAKE000738",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0739",
+      "wallet": "RFAKE000739",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0740",
+      "wallet": "RFAKE000740",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0741",
+      "wallet": "RFAKE000741",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0742",
+      "wallet": "RFAKE000742",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0743",
+      "wallet": "RFAKE000743",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0744",
+      "wallet": "RFAKE000744",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0745",
+      "wallet": "RFAKE000745",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0746",
+      "wallet": "RFAKE000746",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0747",
+      "wallet": "RFAKE000747",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0748",
+      "wallet": "RFAKE000748",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0749",
+      "wallet": "RFAKE000749",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0750",
+      "wallet": "RFAKE000750",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0751",
+      "wallet": "RFAKE000751",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0752",
+      "wallet": "RFAKE000752",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0753",
+      "wallet": "RFAKE000753",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0754",
+      "wallet": "RFAKE000754",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0755",
+      "wallet": "RFAKE000755",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0756",
+      "wallet": "RFAKE000756",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0757",
+      "wallet": "RFAKE000757",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0758",
+      "wallet": "RFAKE000758",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0759",
+      "wallet": "RFAKE000759",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0760",
+      "wallet": "RFAKE000760",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0761",
+      "wallet": "RFAKE000761",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0762",
+      "wallet": "RFAKE000762",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0763",
+      "wallet": "RFAKE000763",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0764",
+      "wallet": "RFAKE000764",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0765",
+      "wallet": "RFAKE000765",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0766",
+      "wallet": "RFAKE000766",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0767",
+      "wallet": "RFAKE000767",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0768",
+      "wallet": "RFAKE000768",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0769",
+      "wallet": "RFAKE000769",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0770",
+      "wallet": "RFAKE000770",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0771",
+      "wallet": "RFAKE000771",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0772",
+      "wallet": "RFAKE000772",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0773",
+      "wallet": "RFAKE000773",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0774",
+      "wallet": "RFAKE000774",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0775",
+      "wallet": "RFAKE000775",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0776",
+      "wallet": "RFAKE000776",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.922Z"
+    },
+    {
+      "id": "worker-0777",
+      "wallet": "RFAKE000777",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0778",
+      "wallet": "RFAKE000778",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0779",
+      "wallet": "RFAKE000779",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0780",
+      "wallet": "RFAKE000780",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0781",
+      "wallet": "RFAKE000781",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0782",
+      "wallet": "RFAKE000782",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0783",
+      "wallet": "RFAKE000783",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0784",
+      "wallet": "RFAKE000784",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0785",
+      "wallet": "RFAKE000785",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0786",
+      "wallet": "RFAKE000786",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0787",
+      "wallet": "RFAKE000787",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0788",
+      "wallet": "RFAKE000788",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0789",
+      "wallet": "RFAKE000789",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0790",
+      "wallet": "RFAKE000790",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0791",
+      "wallet": "RFAKE000791",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0792",
+      "wallet": "RFAKE000792",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0793",
+      "wallet": "RFAKE000793",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0794",
+      "wallet": "RFAKE000794",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0795",
+      "wallet": "RFAKE000795",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0796",
+      "wallet": "RFAKE000796",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0797",
+      "wallet": "RFAKE000797",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0798",
+      "wallet": "RFAKE000798",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0799",
+      "wallet": "RFAKE000799",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0800",
+      "wallet": "RFAKE000800",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0801",
+      "wallet": "RFAKE000801",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0802",
+      "wallet": "RFAKE000802",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0803",
+      "wallet": "RFAKE000803",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0804",
+      "wallet": "RFAKE000804",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0805",
+      "wallet": "RFAKE000805",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0806",
+      "wallet": "RFAKE000806",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0807",
+      "wallet": "RFAKE000807",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0808",
+      "wallet": "RFAKE000808",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0809",
+      "wallet": "RFAKE000809",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0810",
+      "wallet": "RFAKE000810",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0811",
+      "wallet": "RFAKE000811",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0812",
+      "wallet": "RFAKE000812",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0813",
+      "wallet": "RFAKE000813",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0814",
+      "wallet": "RFAKE000814",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0815",
+      "wallet": "RFAKE000815",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0816",
+      "wallet": "RFAKE000816",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0817",
+      "wallet": "RFAKE000817",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0818",
+      "wallet": "RFAKE000818",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0819",
+      "wallet": "RFAKE000819",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0820",
+      "wallet": "RFAKE000820",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0821",
+      "wallet": "RFAKE000821",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0822",
+      "wallet": "RFAKE000822",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0823",
+      "wallet": "RFAKE000823",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.923Z"
+    },
+    {
+      "id": "worker-0824",
+      "wallet": "RFAKE000824",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0825",
+      "wallet": "RFAKE000825",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0826",
+      "wallet": "RFAKE000826",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0827",
+      "wallet": "RFAKE000827",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0828",
+      "wallet": "RFAKE000828",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0829",
+      "wallet": "RFAKE000829",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0830",
+      "wallet": "RFAKE000830",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0831",
+      "wallet": "RFAKE000831",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0832",
+      "wallet": "RFAKE000832",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0833",
+      "wallet": "RFAKE000833",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0834",
+      "wallet": "RFAKE000834",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0835",
+      "wallet": "RFAKE000835",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0836",
+      "wallet": "RFAKE000836",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0837",
+      "wallet": "RFAKE000837",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0838",
+      "wallet": "RFAKE000838",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0839",
+      "wallet": "RFAKE000839",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0840",
+      "wallet": "RFAKE000840",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0841",
+      "wallet": "RFAKE000841",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0842",
+      "wallet": "RFAKE000842",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0843",
+      "wallet": "RFAKE000843",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0844",
+      "wallet": "RFAKE000844",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0845",
+      "wallet": "RFAKE000845",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0846",
+      "wallet": "RFAKE000846",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0847",
+      "wallet": "RFAKE000847",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0848",
+      "wallet": "RFAKE000848",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0849",
+      "wallet": "RFAKE000849",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0850",
+      "wallet": "RFAKE000850",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0851",
+      "wallet": "RFAKE000851",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0852",
+      "wallet": "RFAKE000852",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0853",
+      "wallet": "RFAKE000853",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0854",
+      "wallet": "RFAKE000854",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0855",
+      "wallet": "RFAKE000855",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0856",
+      "wallet": "RFAKE000856",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0857",
+      "wallet": "RFAKE000857",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0858",
+      "wallet": "RFAKE000858",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0859",
+      "wallet": "RFAKE000859",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0860",
+      "wallet": "RFAKE000860",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0861",
+      "wallet": "RFAKE000861",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0862",
+      "wallet": "RFAKE000862",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0863",
+      "wallet": "RFAKE000863",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0864",
+      "wallet": "RFAKE000864",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0865",
+      "wallet": "RFAKE000865",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0866",
+      "wallet": "RFAKE000866",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0867",
+      "wallet": "RFAKE000867",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0868",
+      "wallet": "RFAKE000868",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0869",
+      "wallet": "RFAKE000869",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0870",
+      "wallet": "RFAKE000870",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.924Z"
+    },
+    {
+      "id": "worker-0871",
+      "wallet": "RFAKE000871",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0872",
+      "wallet": "RFAKE000872",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0873",
+      "wallet": "RFAKE000873",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0874",
+      "wallet": "RFAKE000874",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0875",
+      "wallet": "RFAKE000875",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0876",
+      "wallet": "RFAKE000876",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0877",
+      "wallet": "RFAKE000877",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0878",
+      "wallet": "RFAKE000878",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0879",
+      "wallet": "RFAKE000879",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0880",
+      "wallet": "RFAKE000880",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0881",
+      "wallet": "RFAKE000881",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0882",
+      "wallet": "RFAKE000882",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0883",
+      "wallet": "RFAKE000883",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0884",
+      "wallet": "RFAKE000884",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0885",
+      "wallet": "RFAKE000885",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0886",
+      "wallet": "RFAKE000886",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0887",
+      "wallet": "RFAKE000887",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0888",
+      "wallet": "RFAKE000888",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0889",
+      "wallet": "RFAKE000889",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0890",
+      "wallet": "RFAKE000890",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0891",
+      "wallet": "RFAKE000891",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0892",
+      "wallet": "RFAKE000892",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0893",
+      "wallet": "RFAKE000893",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0894",
+      "wallet": "RFAKE000894",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0895",
+      "wallet": "RFAKE000895",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0896",
+      "wallet": "RFAKE000896",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0897",
+      "wallet": "RFAKE000897",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0898",
+      "wallet": "RFAKE000898",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0899",
+      "wallet": "RFAKE000899",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0900",
+      "wallet": "RFAKE000900",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0901",
+      "wallet": "RFAKE000901",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0902",
+      "wallet": "RFAKE000902",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0903",
+      "wallet": "RFAKE000903",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0904",
+      "wallet": "RFAKE000904",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0905",
+      "wallet": "RFAKE000905",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0906",
+      "wallet": "RFAKE000906",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0907",
+      "wallet": "RFAKE000907",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0908",
+      "wallet": "RFAKE000908",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0909",
+      "wallet": "RFAKE000909",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0910",
+      "wallet": "RFAKE000910",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0911",
+      "wallet": "RFAKE000911",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0912",
+      "wallet": "RFAKE000912",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0913",
+      "wallet": "RFAKE000913",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0914",
+      "wallet": "RFAKE000914",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0915",
+      "wallet": "RFAKE000915",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0916",
+      "wallet": "RFAKE000916",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0917",
+      "wallet": "RFAKE000917",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.925Z"
+    },
+    {
+      "id": "worker-0918",
+      "wallet": "RFAKE000918",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0919",
+      "wallet": "RFAKE000919",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0920",
+      "wallet": "RFAKE000920",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0921",
+      "wallet": "RFAKE000921",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0922",
+      "wallet": "RFAKE000922",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0923",
+      "wallet": "RFAKE000923",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0924",
+      "wallet": "RFAKE000924",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0925",
+      "wallet": "RFAKE000925",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0926",
+      "wallet": "RFAKE000926",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0927",
+      "wallet": "RFAKE000927",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0928",
+      "wallet": "RFAKE000928",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0929",
+      "wallet": "RFAKE000929",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0930",
+      "wallet": "RFAKE000930",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0931",
+      "wallet": "RFAKE000931",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0932",
+      "wallet": "RFAKE000932",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0933",
+      "wallet": "RFAKE000933",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0934",
+      "wallet": "RFAKE000934",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0935",
+      "wallet": "RFAKE000935",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0936",
+      "wallet": "RFAKE000936",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0937",
+      "wallet": "RFAKE000937",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0938",
+      "wallet": "RFAKE000938",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0939",
+      "wallet": "RFAKE000939",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0940",
+      "wallet": "RFAKE000940",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0941",
+      "wallet": "RFAKE000941",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0942",
+      "wallet": "RFAKE000942",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0943",
+      "wallet": "RFAKE000943",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0944",
+      "wallet": "RFAKE000944",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0945",
+      "wallet": "RFAKE000945",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0946",
+      "wallet": "RFAKE000946",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0947",
+      "wallet": "RFAKE000947",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0948",
+      "wallet": "RFAKE000948",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0949",
+      "wallet": "RFAKE000949",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0950",
+      "wallet": "RFAKE000950",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0951",
+      "wallet": "RFAKE000951",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0952",
+      "wallet": "RFAKE000952",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0953",
+      "wallet": "RFAKE000953",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0954",
+      "wallet": "RFAKE000954",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0955",
+      "wallet": "RFAKE000955",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0956",
+      "wallet": "RFAKE000956",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0957",
+      "wallet": "RFAKE000957",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0958",
+      "wallet": "RFAKE000958",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0959",
+      "wallet": "RFAKE000959",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0960",
+      "wallet": "RFAKE000960",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0961",
+      "wallet": "RFAKE000961",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0962",
+      "wallet": "RFAKE000962",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0963",
+      "wallet": "RFAKE000963",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0964",
+      "wallet": "RFAKE000964",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.926Z"
+    },
+    {
+      "id": "worker-0965",
+      "wallet": "RFAKE000965",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0966",
+      "wallet": "RFAKE000966",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0967",
+      "wallet": "RFAKE000967",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0968",
+      "wallet": "RFAKE000968",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0969",
+      "wallet": "RFAKE000969",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0970",
+      "wallet": "RFAKE000970",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0971",
+      "wallet": "RFAKE000971",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0972",
+      "wallet": "RFAKE000972",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0973",
+      "wallet": "RFAKE000973",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0974",
+      "wallet": "RFAKE000974",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0975",
+      "wallet": "RFAKE000975",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0976",
+      "wallet": "RFAKE000976",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0977",
+      "wallet": "RFAKE000977",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0978",
+      "wallet": "RFAKE000978",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0979",
+      "wallet": "RFAKE000979",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0980",
+      "wallet": "RFAKE000980",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0981",
+      "wallet": "RFAKE000981",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0982",
+      "wallet": "RFAKE000982",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0983",
+      "wallet": "RFAKE000983",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0984",
+      "wallet": "RFAKE000984",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0985",
+      "wallet": "RFAKE000985",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0986",
+      "wallet": "RFAKE000986",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0987",
+      "wallet": "RFAKE000987",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0988",
+      "wallet": "RFAKE000988",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0989",
+      "wallet": "RFAKE000989",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0990",
+      "wallet": "RFAKE000990",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0991",
+      "wallet": "RFAKE000991",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0992",
+      "wallet": "RFAKE000992",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0993",
+      "wallet": "RFAKE000993",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0994",
+      "wallet": "RFAKE000994",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0995",
+      "wallet": "RFAKE000995",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0996",
+      "wallet": "RFAKE000996",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0997",
+      "wallet": "RFAKE000997",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0998",
+      "wallet": "RFAKE000998",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-0999",
+      "wallet": "RFAKE000999",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    },
+    {
+      "id": "worker-1000",
+      "wallet": "RFAKE001000",
+      "hashrate": 0,
+      "timestamp": "2025-09-15T11:59:46.927Z"
+    }
+  ],
+  "created": "2025-09-15T11:59:46.927Z"
+}

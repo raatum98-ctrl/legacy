@@ -1,0 +1,5002 @@
+{
+  "gpu-thinker-1": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.858Z",
+    "signature": "4bc75ebcf3c188e7f0cf497defa8a60681ed6bf180a41c6434eae0223588cb59"
+  },
+  "gpu-thinker-2": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.858Z",
+    "signature": "caf87f19b42083c13056e441b6aaf32e2f59e60c899aa46e1897c7230a7a10f0"
+  },
+  "gpu-thinker-3": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.858Z",
+    "signature": "bf98115dcdf07d61eae7f02330ae3d4d1b1e5e3a5ae04a426b5c7f0a096c02d6"
+  },
+  "gpu-thinker-4": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "1c0d9ebd75470a9c3e4c61cadff2ea3f99b243f8f6d02eb14ba9b4c3526354b7"
+  },
+  "gpu-thinker-5": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "9f262152a405b0ff0a811b2388d4286d80b2cedb58cd72b8497d9856cca6a2ae"
+  },
+  "gpu-thinker-6": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "a2f8fa37b0fff18014bfa6d5d2b027b2373a57a2a25e1f3b644d5a32387155ad"
+  },
+  "gpu-thinker-7": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "7a50998f92f6abf29002c9369953c556b1dd97188b88fe61779aadb0ded04f7b"
+  },
+  "gpu-thinker-8": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "d220c4baf7e70af338f3c44031344445d5a76aaf3789e1acfaf77e979c99d0f2"
+  },
+  "gpu-thinker-9": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "08a129a46a97979babfa4c33db994e633088de6736850ce0e2257af3f897b89f"
+  },
+  "gpu-thinker-10": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "152ef6c9ba3192dc8d41e7238010de8fe731f54aa2937bf27f9aca045a3a5b0f"
+  },
+  "gpu-thinker-11": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "baff7b6c6ef81b6a77223d1e49b9ff7c1bb46e6b4bf277d5e82fc36aa1f57e14"
+  },
+  "gpu-thinker-12": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "6d9f3f2f1f33cd567596413f8d1545dab875d49c3c0177e81860503612860b7a"
+  },
+  "gpu-thinker-13": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "72f188dc4070875a1774cb72f558820ff8226fd0951df28199656109400aa936"
+  },
+  "gpu-thinker-14": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "e6454a54068efde4420d4f28440231514012d12686ec87f9086a596937bdfbcd"
+  },
+  "gpu-thinker-15": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "1f6f6371b62f7cbb90aaec597714acc2b46cda446a3962e022bf69fd3cd05c61"
+  },
+  "gpu-thinker-16": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "8bc8478851a35aad1c5ca65c7506d5c1257f1d6bfb05ae75a57a593520a40ba7"
+  },
+  "gpu-thinker-17": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "a189d70db0a44c08de3a890a135924280ff58e702b57d1da3e0aa4efc4421b1a"
+  },
+  "gpu-thinker-18": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "059b8c5b614e128ad3d27b9e7b650971c2d2a7020c427e4401725cfc78c0b4a7"
+  },
+  "gpu-thinker-19": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "3d5fe1f40880b80142173f2a13f5c8f47c0a02bdaf09350cc7fc09551ffb2287"
+  },
+  "gpu-thinker-20": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "2d3d9fbd23fb6b16c14cfc6515b2d373815ca335a744524ac2c382f226f4187b"
+  },
+  "gpu-thinker-21": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.859Z",
+    "signature": "2aacbd6bfa82f7118ad442724fc7e7834c42a05383e07cea599acd279d4e4d85"
+  },
+  "gpu-thinker-22": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "ef2a0fb026037b4f54a7abf67a1b28aa7714c330d9ff606752e2f7ec4f89932e"
+  },
+  "gpu-thinker-23": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "60280182f004c6944b2e553441d2f7438926ab2ac9ba5cad8ccb5d1ca8b18f71"
+  },
+  "gpu-thinker-24": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "ab9cea1f16a052f6d3abfd7342869a46b148095253e8bc64c5f9024a26cafb24"
+  },
+  "gpu-thinker-25": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "4917d1532a7ac9ee3103eb808fc24c256625f78ee69037c52e7b0662dce675b6"
+  },
+  "gpu-thinker-26": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "298c6d1f57d249d8202a503d5e77741526fe81d4d533aef864b37d3358916f2d"
+  },
+  "gpu-thinker-27": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "df1b398a4c8dec123de0ac62edfd001c3ece6f0b0d6dcf4afb9d459f6343860a"
+  },
+  "gpu-thinker-28": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "b8dcc1b4866784242444daf5270f2dbb9fa9d984800f5b8d524b2dbb542923b4"
+  },
+  "gpu-thinker-29": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "14b03f211a13ecdc8a4a11b3ff433c9eb397c3b06cbbd907761fc7e2198a39bd"
+  },
+  "gpu-thinker-30": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "d2a08da4a4aafcda1b7e254ca1543cb9e34c99da5781a019cfa2034e654eaefd"
+  },
+  "gpu-thinker-31": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "31a45dbd109eeb6fb354a97c23bcca461d394796aa7dd1a322faa7a53c0ba680"
+  },
+  "gpu-thinker-32": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "4cdf391b95d94ea72a29b01951e06307495f6187b93606f9868bf2ef41a8880a"
+  },
+  "gpu-thinker-33": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "24ecd720d51470236c8fa561a3c62a782399ffe163b8e929d73091491950417e"
+  },
+  "gpu-thinker-34": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "caccfb30eded0255149ea33adc6f0a531b78b59a1a1dd7313a084c67c512f5f7"
+  },
+  "gpu-thinker-35": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "b60282ca4db0b1ec107eaa29bf18351d62104df0a22cde37a77114b136ffbac3"
+  },
+  "gpu-thinker-36": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "1788af37051ed979a487a401d93cf78892bbd991776d2af28c169d1d56a23fc7"
+  },
+  "gpu-thinker-37": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "a663c8432ac6736ba94234e30025d4ac6f432748ce274eac2d7f46c12b39518c"
+  },
+  "gpu-thinker-38": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "bde167a55733d743ae5f809bc84d9b77a7841b764e23ce0c25a8d4233c5db45d"
+  },
+  "gpu-thinker-39": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "d913607ff7ea5d65568b5f83e8393cf1028f177dccb14e3d48fd1eb3477ba7df"
+  },
+  "gpu-thinker-40": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "bc1371867ef9a2b0751e53fbe59a1cef632f358162c83bbdc65bf01226a54095"
+  },
+  "gpu-thinker-41": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "f177b555e43532f3edaea5bbf46f3c376bdc092c3b2befa6cb9a37385132c0ec"
+  },
+  "gpu-thinker-42": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "9115343fac17541a8d1ff99ecf5a87d60d2307b6b3b77ec55a5a31e9373eca61"
+  },
+  "gpu-thinker-43": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "59b79da34aae999a378c198c2f5d07fbe3e4dabde89ffaf6713bce7e64661609"
+  },
+  "gpu-thinker-44": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "8d13cbb861525f21eeda4f08171608e2dd260f3af3b57c6ce02eb541ad6d926d"
+  },
+  "gpu-thinker-45": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "397c8d1e4e38c360896c5a29f6840c1326c0654514472edd30cb3688e80c2c40"
+  },
+  "gpu-thinker-46": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "fe34fde68bd9da73593528bd694e7cea579158b710ed42895ed24f51003e200a"
+  },
+  "gpu-thinker-47": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.860Z",
+    "signature": "43b1caa170d2b66e973fbdb0e36f282d9465ad6c82d2b77ac40393d2d868fe91"
+  },
+  "gpu-thinker-48": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "602ffcf26d0f6bece14034f8c8adbfa5205f209de155a3838f1461e7e50ccac5"
+  },
+  "gpu-thinker-49": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "b2c5123654a1f266076da89c9faf3d06d4affa888e92afe9221494812a183cc3"
+  },
+  "gpu-thinker-50": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "0b3a676f94eac3e9e29aee90e7c7326d912cf76882438d3d8f6700452e8c55fb"
+  },
+  "gpu-thinker-51": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "7080ada3ea6d8edfc49f175f3e61bc3361ba1d538cf97c317dd515c6bae43942"
+  },
+  "gpu-thinker-52": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "72e6d205321db9cb9c1631f17dd0015526585b5fa646dcee80767f61a7675363"
+  },
+  "gpu-thinker-53": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "68934c88b6ce8b04f73d7e5bd8499232ae6cf5ccb5a296e73b94629b89f68bf0"
+  },
+  "gpu-thinker-54": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "68beeaba03ce5738843c047aed94fe3605a0d7500d895f9300cf534d2b1ead46"
+  },
+  "gpu-thinker-55": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "a08213c709e718cff7f6c73e7e20777d9167727981c3d35c47906aad21e39979"
+  },
+  "gpu-thinker-56": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "42c46cda52a575d2fcd1b9c991140f44d48cb3c4fe7cdfe38666ec85405c4b8f"
+  },
+  "gpu-thinker-57": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "d04c3364bdaa9a402f79364688c9ca3f1fe8abe084ccc6a44d169a77c5c9cb9e"
+  },
+  "gpu-thinker-58": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "4afd198297f529283c022c109a69504b1504d07dd7ebf976a3945e351b046417"
+  },
+  "gpu-thinker-59": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "f81462a1778ff7e108e817a4045fe4cec57f37717e93693b9d5dc5fd3b161412"
+  },
+  "gpu-thinker-60": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "2ea684b8c6540e1a14d392007609bc9b73005c280b45de075d1f5773d9d9af9c"
+  },
+  "gpu-thinker-61": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "40a2a7b3cca2175b46496d00cbb0c651d9c409a2dfdb759bfeb21b62f91c13c3"
+  },
+  "gpu-thinker-62": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "2ff9845f40d9162ad5c884b9c8b8c169ae0fd556cafaaa9b14730ed58c2eb66a"
+  },
+  "gpu-thinker-63": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "61d2e75f133d1208dcfc6aa33035c98f375c48810a595bf228f8270ed04b833e"
+  },
+  "gpu-thinker-64": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "39af17fdb1b7da9837a71b773f074e5dbb538eaf9ef22fd5fc310d8fd9f8c3e2"
+  },
+  "gpu-thinker-65": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "5705f1c4bf49dc8c560094a4b5eda03b16fbc6c819b1ec45e6e96166aa12c3c7"
+  },
+  "gpu-thinker-66": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "0d6aebe2f2e8ea5b6375ec72b88092e27c36d8cbddcc5264710570b7ce9b2d91"
+  },
+  "gpu-thinker-67": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "5e96636ee6ab3f70d03c016bad7d396bb7f14fe64069bd313c3211c83c028e62"
+  },
+  "gpu-thinker-68": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "f402e5d4794416ae26910ea4f287923a908f484d305116359e1074661f366337"
+  },
+  "gpu-thinker-69": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "5cac1ca6666f4ec243011423662f33abd3b7d5e52f7a3b46c5b1e90acd5aef67"
+  },
+  "gpu-thinker-70": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "dee80afd9a94dab78c67cebdc3f3620146cd0ad7558040522164366972a82f33"
+  },
+  "gpu-thinker-71": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "4b7d141dbda5133113f48e4759ac34913a11782c21813708628503e5543ab9fb"
+  },
+  "gpu-thinker-72": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "394cdb9f54b98d5e0201747a95396ce6d1e18f2787a38d0813971118587e4d6c"
+  },
+  "gpu-thinker-73": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "c5253bb394299b075380a4b7cb6949343f02db31dfde544551685eefa52b004a"
+  },
+  "gpu-thinker-74": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.861Z",
+    "signature": "7805aa35afa82272c5e6504c5b8259530c002ce64e1a20e846ecbbd314649f00"
+  },
+  "gpu-thinker-75": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "2cf13abe38efe3abcb6fc2f6183f5b610957bc0e1e2c1704899339f2c811ff53"
+  },
+  "gpu-thinker-76": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "2016f7faae2a7653f8d855df76d49441fb80c4a4661e83195f65a05a1083e5aa"
+  },
+  "gpu-thinker-77": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "ea91931f9bbf7823b25cf8ab09f235273a467df1c0e72599b1c7ad7aaa9b006b"
+  },
+  "gpu-thinker-78": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "c0be259439ce28f67d0dc4a321161718dde705de476b1438311cd6888788aa8c"
+  },
+  "gpu-thinker-79": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "c0b624f4e4e692ab98b4151ebe76a2ad9874a8e9ec593557d1f5f187c74e0704"
+  },
+  "gpu-thinker-80": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "8b0854c73bab87f8552616ed542e71251e118d1f2ff4af4cc853d02b05c6f05e"
+  },
+  "gpu-thinker-81": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "65ebf9cfee71927ec58f4ba92e4e9f4a543c44f0aa56cb9eccbf4d04d58c4104"
+  },
+  "gpu-thinker-82": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "9ff57ef1969c2c2af73b48c9ace138b597433c04c6a252e7185dffaf5a1b0254"
+  },
+  "gpu-thinker-83": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "77db08ee6b56083c0a7251dff207adfaea2329461ca8c0cc82d6fbb074854a1c"
+  },
+  "gpu-thinker-84": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "a230cc68e62683b0bd43bcee418eb579917a1f66555205f5c08a7497d5fb848c"
+  },
+  "gpu-thinker-85": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "4d507b6a4d48abf17d258e696a5ccffb9dced18481dd1c3929868e872ca2db08"
+  },
+  "gpu-thinker-86": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "03d0acde43346ca34f7f6aae560492e9495c9152b0a9270e0d69a9666a7f9ac1"
+  },
+  "gpu-thinker-87": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "200fb006c57a5750d8d282cbb0b91b9024f09deca45d91ca54bcd37b15149177"
+  },
+  "gpu-thinker-88": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "ddfbf74030fd01a254f5c787785f252756cff88bd0ab9e9c122e09010a744fd8"
+  },
+  "gpu-thinker-89": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "c88002d9f5aa8f103e079c98a3d3d35d85294db90c5b304dc9611745a19dd4c1"
+  },
+  "gpu-thinker-90": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "ab8913a73a80fe88c2368946906e05ee14f1354138d0b368bc78f6b81cbd4b2e"
+  },
+  "gpu-thinker-91": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "9470a1d0220b227b23e7adf5ad45945def1027d81d42c74573a83a58221be193"
+  },
+  "gpu-thinker-92": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "0ecadcfeaa3fcded47976a53c7f82bb7e70dd9020c63e012f9e0f9917eecd516"
+  },
+  "gpu-thinker-93": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "237281367d58bce8bcbfb08b0d5aaff59e0c4c680639221f87d21af7c8f5878e"
+  },
+  "gpu-thinker-94": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "0fcf85b8dc0e30fb55990f6441ae289b4b5018e8113ae1a6cd40f8491df16b6b"
+  },
+  "gpu-thinker-95": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "65f195e66853fc0921ef33443ecba11f7951d5fc1b743ad42c161a49764466b2"
+  },
+  "gpu-thinker-96": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "3d9009bc1ab254564da6e3c0050b0b14bfceb1114847bf8516633357f582da48"
+  },
+  "gpu-thinker-97": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "95e9c31733bcd2e4cb7ed6643e796168dab61de2d098a18950a98f6c82ffdbcf"
+  },
+  "gpu-thinker-98": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "87193a9df664744833922281d82fe2c0b3f9cac0d10c0264af5310ddf2c52d9e"
+  },
+  "gpu-thinker-99": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "f88dde8b9c8627c0834bfd5c06d4c2d35d5b0822866d5cf247f2976db552e322"
+  },
+  "gpu-thinker-100": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "eba0450b3e10821c65136d66fd17d37f54457eee91ad34f79eff6761c2087f68"
+  },
+  "gpu-thinker-101": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "9157aae9ca05f63c175e5cf9f58ce834de834e48923a56e8b3152b764f253f1b"
+  },
+  "gpu-thinker-102": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "1c8caaf917dbcd881dc3d10bd554dc7121f79dfac43b4ec9597bf3d2c8642c30"
+  },
+  "gpu-thinker-103": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.862Z",
+    "signature": "1b4f2ca941f7751a5ccc0c7bceb8089500d9ab16b9ebda73feffe6ab8b3a68ec"
+  },
+  "gpu-thinker-104": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "9d4d2d87dad78e6108f8786603a379b62f198dc7bcf01bef5122380161ccbd7d"
+  },
+  "gpu-thinker-105": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "1ef7d9f7b43c83c00ea61c2b8112a488ab6ee35c57d48b6cca08895e4af86915"
+  },
+  "gpu-thinker-106": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "08822a58acb637538c600045c8231c1a33c0bee7dfb5150951d1dbf550d383d9"
+  },
+  "gpu-thinker-107": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "75246e5f6bce8040af320f39c6311066dc3727d5ddfafecabccdf8128f35bae2"
+  },
+  "gpu-thinker-108": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "8a3e57ca3947ab93679e7f7bfec1e9eee91443035f79cc8f504b4cd51b407d00"
+  },
+  "gpu-thinker-109": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "33c5b134cce975ad2459ca7b7075c9812ce5a56d0a5e3e1780b3d4c04fa69fa8"
+  },
+  "gpu-thinker-110": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "3db664e9e734e3625d7a3999d347bfa3042a7d12568e971b3d1df2675c023d0b"
+  },
+  "gpu-thinker-111": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "1e6e05eaded5a7f0012c196d1d1619018a906184719f8518e7c07bb940e0d032"
+  },
+  "gpu-thinker-112": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "ad1ce0e056e8523865ea4dc6326dd42bf80ed4485ea8172a20b97c88929d761e"
+  },
+  "gpu-thinker-113": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "274b083ba363206571c27e8a3b3b283b9179b079fe07db423a03037594bd9a90"
+  },
+  "gpu-thinker-114": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "0072075fabd72bf121a99ceb7adfe3dcc2dd20d588f412b415f30d16a906c9fe"
+  },
+  "gpu-thinker-115": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "82cf5391940daeea14bce45288b04e106cdff99cc07a6ad19e4088b7b97f6709"
+  },
+  "gpu-thinker-116": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "f575332a4f70716cd2eb3e90f1d29bc25434be9610746148256b6ee0b6ddf06e"
+  },
+  "gpu-thinker-117": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "0d453a265d195b8d7464023e49e52223e264fc5e4e9ba602a1c710881b0eb64c"
+  },
+  "gpu-thinker-118": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "c743cd95f34553dede0034e71da6a14c5f424f32015dfb3e8fffbc2b1f58ab87"
+  },
+  "gpu-thinker-119": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "90ea599731f434b31ad2b0afdf4b8519458f059ebfbcc92d0ee73e934e07dceb"
+  },
+  "gpu-thinker-120": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "040a12cc82efc4bb6196fb6ce7bcadbc93a603ec6111329cd23a8851ef5e1623"
+  },
+  "gpu-thinker-121": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "e4671a503dcda90b5e423576f57b6e56ccc422cd11e99176ed0e65026a2c863f"
+  },
+  "gpu-thinker-122": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "5b9939eaf526bb89bb617b68e025a2fead32b1ef84e8c4aba2967efc63a7f737"
+  },
+  "gpu-thinker-123": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "0833f55f2c38a982b8a0503e85d7a3ccc0b6433856d3c8d2a913c1fda2768456"
+  },
+  "gpu-thinker-124": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "81bc091f4a351df75ba28a20d5a5f5af9caf287be2d4a19ffd69bea4eb0d09db"
+  },
+  "gpu-thinker-125": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "fdb129646e36aff73a862ee6a82d5a4102dc4412dc061a694a9abbe09b163e6b"
+  },
+  "gpu-thinker-126": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "c46d382354b3a23ae275480e238e3e1a6f678aa7df6add7c330b64729637af05"
+  },
+  "gpu-thinker-127": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "aa4d934a89574b5dece9b589de13fcd9004c7aea83a1346f09325ffcc9874881"
+  },
+  "gpu-thinker-128": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "a42db383a2cb5fe37b6e63a6aadded28745ecfbef190ec6facaebaca5c822f25"
+  },
+  "gpu-thinker-129": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "ba604b556f71b8f03a751cc6da94755c7fc91523629da49a27bbf40214f786d8"
+  },
+  "gpu-thinker-130": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "36127d120bf4772d44a3beb9780a9a408a2ddfde064a5b89b5d6025763eeadc9"
+  },
+  "gpu-thinker-131": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.863Z",
+    "signature": "68c5d6b268c0b4d841c5e32dcd207b8ab1d0d95202482246ff77e1c7dc1271c5"
+  },
+  "gpu-thinker-132": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "714b6270a04e68167067b03c002bcfbdd5b44d246969ca5bd3d90be4edc9a00e"
+  },
+  "gpu-thinker-133": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "fe75c3645e0dd89142b0728cbddf45ec14d24368ca6bb8a37457a369f3a20394"
+  },
+  "gpu-thinker-134": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "c4619f1c35766b0583f27b0136beba56369254e8aadf654949712d5d29744aec"
+  },
+  "gpu-thinker-135": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "a18b84767e5acbc6962801d3949c33d79db2543cb2ba3599902be269298e7517"
+  },
+  "gpu-thinker-136": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "178b6fccc08d9b07cc6286e9cc166260de98b8456cbddf9fb1cb21a0348d7e7b"
+  },
+  "gpu-thinker-137": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "517b537afba9c04e8c2da84554d49e529b72fe7f18bc7778f6d6e3a882e9736d"
+  },
+  "gpu-thinker-138": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "d822b26ffc6dd55efa977b04f21fcd8fa3185e44df65c4ada245b6ee33e556d0"
+  },
+  "gpu-thinker-139": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "4cacadc82764c239fd3f35b15c0206ddaaa3d1d8610e4cb036c85e62cf7d9d8e"
+  },
+  "gpu-thinker-140": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "7ce46eeb36fe92e3fd4f89bf4041667a9226fa106c1f7b4f5b829df7fedd9990"
+  },
+  "gpu-thinker-141": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "1b992af000cabec644d1ceaa9d579d2405eea96404d7c94e168d4c419d607878"
+  },
+  "gpu-thinker-142": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "18d0f80f2a0d3768cb3874e4a857905ec393171ec2242a882e743e46cad9237f"
+  },
+  "gpu-thinker-143": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "8da556a8009f184f381cb46941560ee5c7b0efe7555b1b51fe85b4a7eed8a02c"
+  },
+  "gpu-thinker-144": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "da402b26ac5692ccf6ce7c59df6bceaef524d2d789d7aee2a45474dfca1fa761"
+  },
+  "gpu-thinker-145": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "6d57a935c0466f547db2e64fb0ca81a337ee55ce157c11d6374b05878518bdaf"
+  },
+  "gpu-thinker-146": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "4948e8a94e46fd543b30929e359d1219c29854f0a2facd0bbb0f7e8e14f1b1f5"
+  },
+  "gpu-thinker-147": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "2ffd6d304b875f7e20dfabeb3c6d5a8f36b570d43e9ae015c7f4e097d934d7a5"
+  },
+  "gpu-thinker-148": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "c52666789327418e75ce52219821ba9ea4250a5fa60db05c5773b0ce227eb905"
+  },
+  "gpu-thinker-149": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "34e6e7e131052e03ba0205988704e03fddc94309958488db78dc09a6626ac55c"
+  },
+  "gpu-thinker-150": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "00e04dda1c048a1965a35569f7fc948a72855e2156d2be7079cca627086c83a5"
+  },
+  "gpu-thinker-151": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "b8caf56b22465d226091e082c265532500b1c6c7239bc1baf08be3a7ceebf576"
+  },
+  "gpu-thinker-152": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "027df04bd4f198347b3161a45a165fb01cafff9333c81ebad56dfa3375908409"
+  },
+  "gpu-thinker-153": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "ea55d28c9c7faa51871d6adf6e133bd43986581b3b28cab5adc8b4ac201f3559"
+  },
+  "gpu-thinker-154": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "01a7cbec6d65defd04d492883ca94a73fa53a1886291056ec9baf78415d25679"
+  },
+  "gpu-thinker-155": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "18dea0429f6856107e97ce5540ce350a2c94e6dd4e70d4ce1d4ddb478fe64484"
+  },
+  "gpu-thinker-156": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "53d37d1121f4962d581247976e72cfb28517035716a611fbd94c8174d46aea0e"
+  },
+  "gpu-thinker-157": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "1fb3a58b6b46152bab2abf5942fed69b58b4bb6ac6fc30740153c83d1fcfbbcb"
+  },
+  "gpu-thinker-158": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "f6d315c1c45b6c15bdb528792e24a5a9817a5abe79190125373b394d287b5538"
+  },
+  "gpu-thinker-159": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.864Z",
+    "signature": "cba984b748f523689d663f132d48781d3dfb36a813d46f1169931642bb30cb42"
+  },
+  "gpu-thinker-160": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "e26ad4501b4b236c3a2b31c7b19a6c802611e68d7c19f04e4fad947a0f501863"
+  },
+  "gpu-thinker-161": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "f6b6ab0ead331f750508c348d737ce2ed5d2469e8f75311a4aab6bcd68917bbd"
+  },
+  "gpu-thinker-162": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "34f011aa0c3a99a6a0633c4d80930b7bc2d2fb2dc9529b498f13280c1485c9d7"
+  },
+  "gpu-thinker-163": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "c77957ce527e29f5c835ed6e9ca5e08e63b9bf62b80c1960ce57fafd781033ef"
+  },
+  "gpu-thinker-164": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "50c3a636d5441e5bc54bccf723397f2069eff6672c995188d1af82b7aa924120"
+  },
+  "gpu-thinker-165": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "dd741a5632f0505fa187461b187eab24f04cf944044f4ffb36ab5292432b672e"
+  },
+  "gpu-thinker-166": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "0392224646d02ac420528608c93c77d0ea4c8c40eeaa861a22690f924e37b0fc"
+  },
+  "gpu-thinker-167": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "ab94208d5bb88d0c929815bf0103c328803db0acb243b012d5f6b7b26041cff3"
+  },
+  "gpu-thinker-168": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "a4483b7ddf6bfe9225bb0383ddf192e74df8720f34066524f00d050a0438bd9b"
+  },
+  "gpu-thinker-169": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "ed0de46a90cad557ba744c4d16f948204dc7166bdc72a2403c854d417381bb21"
+  },
+  "gpu-thinker-170": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "b06097b2708a8368562814e94789cdc74216f25c1180c85f1e6bcf4daec81d6a"
+  },
+  "gpu-thinker-171": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "ce9b85e40cc1b82d38f037ccd8f869cd3298073fc482c713649eb7c55650de69"
+  },
+  "gpu-thinker-172": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "7b57b7b822871b4418da0f6dfa2607a40b7b127109a71a900f04073c8d1d54b6"
+  },
+  "gpu-thinker-173": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "a9e0999fbcd91c55b5c555693e558a895612ff7d7e6d935388478dd448152b6c"
+  },
+  "gpu-thinker-174": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "ac4a5396175b2dc74628a13e83c8877bdd8a32c38faafcc0ce8b3ef78f2c53de"
+  },
+  "gpu-thinker-175": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "19990daa666e642a79d352c2bed0dbc5285eb266f4790852db32af651061189f"
+  },
+  "gpu-thinker-176": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "8c1559205853501815147670219c7bea03040ab2172dc86ddc8e1ccd2310a360"
+  },
+  "gpu-thinker-177": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "cb7b43658ca981e9563eac7aba0af8feef1d3f0f65ee67c742e2024d0355a130"
+  },
+  "gpu-thinker-178": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "693a7802840d8b81313b14a3ea804d48f9ae73e059313c5371d8fa09597a43af"
+  },
+  "gpu-thinker-179": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "2792267f3a9509b5ae5f0ada4464b4937e78a98fb3011aca1415f50e1c438296"
+  },
+  "gpu-thinker-180": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.865Z",
+    "signature": "bb65d2eaa661ec281519dd43e5ca246d8eb20da31bc61583213b9ad74cab618c"
+  },
+  "gpu-thinker-181": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "14636623ee6cccd0b16f12af3da87b002a9ff16da3284c9c82b9ead2dc414ad6"
+  },
+  "gpu-thinker-182": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "1e92f25cf1c7877b915a4870f579d045d2c4f8d64dc65f1d342a5e3c04e9b35b"
+  },
+  "gpu-thinker-183": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "dc4c0acda03df6983669bdb77f7ca46ea70e2c1c26893a5dfe01c23645ecf3d3"
+  },
+  "gpu-thinker-184": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "872facb3ea484401ccca9a5bee5e9c8aaff28c14e18e4b139f299fd7ac491c5d"
+  },
+  "gpu-thinker-185": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "09da5905d2dc5072a2dbfa93ebcad2a636a554c9496d23c9fa2df30059e17402"
+  },
+  "gpu-thinker-186": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "cac6b1afd64bad3fff65f406edfc2de17d6039bd6275639b5e586e9a62f112be"
+  },
+  "gpu-thinker-187": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "6380505639284632b2d61b38ebb9379d0cd7e6a887a91782f9e10e7630e749ad"
+  },
+  "gpu-thinker-188": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "17d9dfe080ac0bbd5a1afecb5b5f55c3eebe67ee2ec120abb8ee83dc92ad4c01"
+  },
+  "gpu-thinker-189": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "4da468e8edafbab46dba0011c675d3d40518ce8214e4717cdd18ddee054e5cb8"
+  },
+  "gpu-thinker-190": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "5a9d6b8624ed6d6289e58f8e13c37dfe8cc14aa26bcb0618336c69e4f9123616"
+  },
+  "gpu-thinker-191": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "0e421fe0422c6b1de265b7ce37b38090e8b9c1dc49b56c00677888ec15cae1de"
+  },
+  "gpu-thinker-192": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "0eb3554fdf79f365286bc8e603c1e78a2918a67f622f040873a31530b3b503f5"
+  },
+  "gpu-thinker-193": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "bf56720ff8823743708aba06a879683ffd755c2580097efe9c9ac0b29a04d14e"
+  },
+  "gpu-thinker-194": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "f4ba643d8d2df274fbd76d078e77306311b4734b7fddc4895426fe62c64e9840"
+  },
+  "gpu-thinker-195": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "7d94f366f98c79a968ecb80f2ef7b3a0052ace4f3fefdacdef29eb28eb0abd51"
+  },
+  "gpu-thinker-196": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "ee0ce08bc1fb57e2689138397b14ead51b65ad88df489066a93c6b7538e69799"
+  },
+  "gpu-thinker-197": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "5c995e00612bd7ac7042315b741b4008566b3d4fdcf5b9a5699cc241b8f1c5d8"
+  },
+  "gpu-thinker-198": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "55510fafce976b08fb6b3ae276de87dcc7058054cf6f0b5bfe6f66156886a35d"
+  },
+  "gpu-thinker-199": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "acd145e78f0c5fed2fe2ae96ba9528f2bbeac2e89e92a14672453241260f057d"
+  },
+  "gpu-thinker-200": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "096da630504db6c107ebf2833470efd14a2c94d70de45bcb9d1a73d297852fa1"
+  },
+  "gpu-thinker-201": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "783e851bc5cb286cd76408b7f6eefba8e85936523a52a238c8bdf34ed6990295"
+  },
+  "gpu-thinker-202": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "343c8170c1361cae4970653cbf58fcd02fb00cae2a6dfe71a23e4eb6d28a5134"
+  },
+  "gpu-thinker-203": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "f38a97a8576c58ef49ee12cfcf91c51994e5fb3c8aef0f2af25061ca5ee20677"
+  },
+  "gpu-thinker-204": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "b8ea742b57ffe460b4a307ed936791706fc6cf0ff8c18d091af4f41307683729"
+  },
+  "gpu-thinker-205": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "b2129bf1896c3a658508c9d11a14af7b778a386e0d01aee729384aa0b00afd8a"
+  },
+  "gpu-thinker-206": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "0f70ac9e432a93104009ac4655777885c00e43558c908ee0c16c2d57d880d9bb"
+  },
+  "gpu-thinker-207": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "abe1e6e7658c35ea68711f96eb567f2b9775c33c9805b2dcf28d0601fd9fe91b"
+  },
+  "gpu-thinker-208": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "bace2a4e3ad6e730cedd800ca6f7a4a5492c77fcaf1e631897cb60fb6c711ad5"
+  },
+  "gpu-thinker-209": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "b2111c249b7ff958722e1fac852074f7c176f69ff9bd0c803db9a29b9da3009f"
+  },
+  "gpu-thinker-210": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "9ef2965c140be22f1501621346590181fc4b92f61d57885ba6940efd0051090c"
+  },
+  "gpu-thinker-211": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.866Z",
+    "signature": "76dd891308508a099e03c4f393df72b84f7848887ee1204fad3a3ea0ee7203cb"
+  },
+  "gpu-thinker-212": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "16317b0a161517c6e3a002fb5960a40fec704dabfe3e2ee4d25f503b290c9cd3"
+  },
+  "gpu-thinker-213": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "f3dfd89ba20df3ee1aba82891373cca54bad8eb4e506a95d897a6c837a99d659"
+  },
+  "gpu-thinker-214": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "ce99906d20af65a6bba45d14e2f21eb34f151579472ab7a335c8dd1cb99e99d1"
+  },
+  "gpu-thinker-215": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "9981098932ae6ba2827ed5e6213451d24f1bc5b2ac0b3cdca22cb61855a04c90"
+  },
+  "gpu-thinker-216": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "5247a62e0150bc8b3776ac0d501983f377d19c9f4bf21f9097eb37c147ef9d42"
+  },
+  "gpu-thinker-217": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "2be15a2bdb98865a7182bb0dcddb662dcd53b45c8ec2c5bdadddb5211aedc5ec"
+  },
+  "gpu-thinker-218": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "c7664e3d64ef21e8a9f517003cbf333a7608ce5c1e751eff57ea417679fb7a8f"
+  },
+  "gpu-thinker-219": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "9c8603e7a61cfd7307c3b7615fd6fd7c00b1ef373a3aaa76687afce7f0d877b6"
+  },
+  "gpu-thinker-220": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "4fffc04b0d876bde5b651615d8e958308ad4dd99e0193527c52379aaed2723e8"
+  },
+  "gpu-thinker-221": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "952cdf5c7757310712accb4831d3fc976918c6b074c7ae42910f3fe4fef0df02"
+  },
+  "gpu-thinker-222": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "dd6ea5c20aab460eabb1561c26a15a353d35c80a289a6b31536b1cb2012a7bea"
+  },
+  "gpu-thinker-223": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "cdc56d6165e94ebc124099eadd5b9da6862d44821a3216daf6918178b8c3409a"
+  },
+  "gpu-thinker-224": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "13dfb42335b730d5a472e1aa5bb792a10280f55711779901f4f13d172e882ee0"
+  },
+  "gpu-thinker-225": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "7bc3e29c67998dc596bdd0fddd059075aa03f05c99730ece9a9d9ca1a8fc4804"
+  },
+  "gpu-thinker-226": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "d278dd0379c38ea706857a11bd35db4f62a8011350ce199b837b35f7a79b64fb"
+  },
+  "gpu-thinker-227": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "0059583266f2846e4a2753348eb1f14482cde19f9b5255b175deadf52e98cc65"
+  },
+  "gpu-thinker-228": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "d8a5038f5a9cf03075acd464a05a513fe8741d76696be14fb37588772636b3b0"
+  },
+  "gpu-thinker-229": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "f3cce58cee44a847efd62732d4feeb1704757a57b7f0ccdb1827091ffa3023c7"
+  },
+  "gpu-thinker-230": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "242acfbfba8cba8e3d4bc10069819e9a6cac2493e3e08e117f4f8953f3929606"
+  },
+  "gpu-thinker-231": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "60394bc07cea291701325e072cee874144aa7f10ccd31581e0550bd3bfa0bf24"
+  },
+  "gpu-thinker-232": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "cacd488656c3f36c88bc42b9428a9fbdc21099ef635ec65647ebd1740edba165"
+  },
+  "gpu-thinker-233": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "ffcbe1b562c05dc1f277a24a53660a704ec18326965ec2d04c53480a54f5bbdd"
+  },
+  "gpu-thinker-234": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "20508923466b0093497de1e256df6a7ca216cf2832d6e3bcc9780df89ba6fc0a"
+  },
+  "gpu-thinker-235": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "e15a0427f4a1cf1a5bd6159b458025cc85ca8f93979e84894431c73dea02389b"
+  },
+  "gpu-thinker-236": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "5d039ec6ce28dc4573c9993ec5b6922da78c9ad14ec04926f1a017ae59f54c02"
+  },
+  "gpu-thinker-237": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "36bf76553deaf949cc5e68da6717a84c8c0e4d8b77e557a23075a640826174a2"
+  },
+  "gpu-thinker-238": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "564e68574dfa8c5827ec15928406ff0a6c448b84aa652c220b0036b1421b8158"
+  },
+  "gpu-thinker-239": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "64fb822668b6047b7b20e84ed9aaad13bac8f91ee23d2041069ad5271adf9bcb"
+  },
+  "gpu-thinker-240": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "75071d6d10b819213642e1958ee9d6710d67db8c4496f91698eb7da2aaf7d1d2"
+  },
+  "gpu-thinker-241": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "f36d72a695193ff8b3e35df4a102831b7e6a0ad9dbeae8e41ac59b76e60827ed"
+  },
+  "gpu-thinker-242": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.867Z",
+    "signature": "e7030e4af866d052df282807740021c61973c2f21332ed95f0d819e449db30be"
+  },
+  "gpu-thinker-243": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "8cfbd3a77e07d9187ecb5cd6578e6efe94883700931568641b2b81854230119a"
+  },
+  "gpu-thinker-244": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "515319e62ede612f854118c891bdd7ec381ca5e00288a21cacc88a7d49700644"
+  },
+  "gpu-thinker-245": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "c55da49d19044323c8dde5f758deab8a4f189888dde1af0c485be714be2216f1"
+  },
+  "gpu-thinker-246": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "6352a5aa299cab9b8d266d678380e25559a7316a3b328629ef7fe2467f2b1a8c"
+  },
+  "gpu-thinker-247": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "7a23fdc576c6ce0dc7f51668ace733a2b3ebc909dfc2e8e18d78f4883cc0a57e"
+  },
+  "gpu-thinker-248": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "cf04fb0935d534680769536c380bb477260bcc374120193cf6cc1a0d0212312a"
+  },
+  "gpu-thinker-249": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "11bb20fc0c212ea28bc9e95e1ac9f2d0cfe939f7ab0989a03ad92bf8f6ea3f63"
+  },
+  "gpu-thinker-250": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "ec33fcb0133e63214b1b6054708728098083bc312682a9f23fa2b1705c6bf890"
+  },
+  "gpu-thinker-251": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "7303ac9c31b66c33db03e31acac17324ef3dd0deb6389c4d49f0762724ffc5f7"
+  },
+  "gpu-thinker-252": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "96461a492d9a9c6703880cd9bb73d6765be55d73b2ea4aaaa5e0662cd2e01b22"
+  },
+  "gpu-thinker-253": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "25c87ae2a586b1678af970a8e8d9c3a1aa9682dd86ef6624f2d7b0f1b18e7658"
+  },
+  "gpu-thinker-254": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "814694a06daf0acc648925d6437ab769c9df3fd7b700252f91be086b073d17ca"
+  },
+  "gpu-thinker-255": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "6e663778b1a5b2811b2c053edfeedb392c83db158dac6133a17afb098f7ac2bf"
+  },
+  "gpu-thinker-256": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "8038a7ebdc792522167690b68dd0147935551a3feb3d21d749b014037c004a38"
+  },
+  "gpu-thinker-257": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "cfbed6cd4688554711515088a4e0812846fdbd81471ed7a5b70191d084704f03"
+  },
+  "gpu-thinker-258": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "d7e5d3ef51219d2eb3b3aea26f06d6af5bd92a738ec747626d346ac9ce9511aa"
+  },
+  "gpu-thinker-259": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "4e21705694fd46344a1d6d506d28202ef9c745336ac3dcd4f2df63b93c5620ef"
+  },
+  "gpu-thinker-260": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "f8003ef8735eaecd73c1a0098b802e62e9202ba87e202ab4e73896344518a208"
+  },
+  "gpu-thinker-261": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "030b2e5785afd3be3898c4909b5f2fdb9bd842985c13bd4908588c19317dfb56"
+  },
+  "gpu-thinker-262": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "ba9c6a8394cc869fceff005c54fd7b1288c10a94b67d84821ecf1fe4d07aa9f0"
+  },
+  "gpu-thinker-263": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "37ea72eaf1fa420033fcee738e88f4d12646f1fe856fa5568a5a80c251383e06"
+  },
+  "gpu-thinker-264": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "6eeff72fd10917f9d931318bf468c5f3515dd74776c3c690ad89123c90dc7989"
+  },
+  "gpu-thinker-265": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "a0fb4d5deb2fda923803490fca05ea4ac36352284ad970e24da2bc197b52ae72"
+  },
+  "gpu-thinker-266": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "e17b172b67e385c7f8ed23124991cb4716bd110add33cc545da59af8226cef0a"
+  },
+  "gpu-thinker-267": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "689d12f5eda5f78dae7a1980c6214b9035ad085d199e8bdd689d931a3ce39151"
+  },
+  "gpu-thinker-268": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "97def81bc3215fc9a0494b8acf3ade68533b6cb974154774769487adf40d78ed"
+  },
+  "gpu-thinker-269": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "8d8fbcc5555166139dff1ef242b767cd37ce6776e6178df7398e936efbf54ad3"
+  },
+  "gpu-thinker-270": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.868Z",
+    "signature": "36aefeccbafb747bd6dc5f1a57931cfea76780df9ab329dc2da1b9a97236fc8b"
+  },
+  "gpu-thinker-271": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "5cd150ff0d40fd46edca11d4bca973cf88f07619e82d3674a06e2c3a29603eb7"
+  },
+  "gpu-thinker-272": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "917e0800a0497cee91dc3d61ecf1ff02d7fb4197229e590531eae7fa625054f1"
+  },
+  "gpu-thinker-273": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "39ae9b327aca462c8f76ea71b914280db705b1fbab93741ef9ef689dcb2d918b"
+  },
+  "gpu-thinker-274": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "e432b9d95c15d2752e6482ac6e8757d150c72f2fbe0290ad61ac13d1083162ff"
+  },
+  "gpu-thinker-275": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "175aefc07b3ba9cd76f20e1763149ff2e97bf62f850f6282aed582317d0eb568"
+  },
+  "gpu-thinker-276": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "b410d6c4186fd6076d9e6102a2d6db71583e1859ecc8c62fdbaebd2f486cf3d2"
+  },
+  "gpu-thinker-277": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "66e75b1910383016e083080bad541073d0add67e9628789961d6ed5017d3d565"
+  },
+  "gpu-thinker-278": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "4d0c6cc500a9828e4eb962ba0572749ad1334c4a4b23729a8ea6190618194fd2"
+  },
+  "gpu-thinker-279": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "6482cff0ad1b082721af6974c35ea3b4f35af10893f9a4308d780698ecc22e51"
+  },
+  "gpu-thinker-280": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "faefb24f66978a1a6bd6462a25bf0617ffc23853fb31fc0357611fac28e5bc85"
+  },
+  "gpu-thinker-281": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "795b0e769cbf53a0fbd14e67eb09d3cb7f9c383706402679c49346f4faa6e07b"
+  },
+  "gpu-thinker-282": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "c3d87d02139cbbb79dbbe034b8a53cca011842b093b53ae29c45031556eebd8b"
+  },
+  "gpu-thinker-283": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "3cf8956ff8db185003b1cce8285f8e81c5089ab52a2ed9bf6410d6a834315cab"
+  },
+  "gpu-thinker-284": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "0e20d7ccd141241e0ad6dd144c4ee5ff2e02e1ba2dbc883c1092d8a00f26fee1"
+  },
+  "gpu-thinker-285": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "7540307425c2b3576980500450a517df3c88cda295e513a0fcce4d1647eb4c61"
+  },
+  "gpu-thinker-286": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "e6f0e298cda053ea0d0cf9374d61046b83c73b72e146c53e9179d471ba5216a4"
+  },
+  "gpu-thinker-287": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "aa72e618136f2f9abd29a4f7aea2d93540d07e160b1bb77db074b1a566febf8b"
+  },
+  "gpu-thinker-288": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "dcb3fb7f2d0287c8e9eee739202e357dcd223ae20c055daeaee193a3fdb641c1"
+  },
+  "gpu-thinker-289": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "c1fae77db58e9208cd0d21e4911a1ecd9666448176177ece4a558c0d327a7105"
+  },
+  "gpu-thinker-290": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "3595269ac2106c42607b11e92d6a8f0b3717d8da538cad3c9a154ef8c0b3b7cd"
+  },
+  "gpu-thinker-291": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "8524f3557ceddf23a9384293e60e660216835a27e1755a3ad28f4650cfa1ae69"
+  },
+  "gpu-thinker-292": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "610366f97d1218c9b20cb720875ecb6f68143d0acc45285efc6054664701acba"
+  },
+  "gpu-thinker-293": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "216c8f9182671b6056140cd9b0e1c8ba6c56b444d50f7ff5b133a6125111cca5"
+  },
+  "gpu-thinker-294": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "927fc79badeb33602d4342ea680a89ba699575010815f9998fba80ce2665e92f"
+  },
+  "gpu-thinker-295": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "3779ece10843a07ed55b39d698e339053c8380a3032f8b1b50669ffb2ab47a2f"
+  },
+  "gpu-thinker-296": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "8336d6f595e2eb1c412b4ca6b318dc33c25ea1a3212dc9400ff382be586eb54e"
+  },
+  "gpu-thinker-297": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "edfb667a4689a1942e9dd909b30549ece2d02033e7ea83a1088e50869c3180d9"
+  },
+  "gpu-thinker-298": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "027fe1919631f0001784ac14e342d0439115b4b6e1f784e00bc8f3855abfe623"
+  },
+  "gpu-thinker-299": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "2bbbbfbacd916d0279e1d81653c640c78272d1c6e558ec8910ba7e8174092778"
+  },
+  "gpu-thinker-300": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "68c0bb26d82169886cb37f4014cbaf09077943111bf01902b2b7d57d67c2e8f8"
+  },
+  "gpu-thinker-301": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "16789786ca56648f9a13bb45d5fc6e21da422adcf431d2bb24193165722347d4"
+  },
+  "gpu-thinker-302": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.869Z",
+    "signature": "ab7baeb1bf76d838983b3dad7945e516e22b08f267dd228b89ca4a67e3664c6e"
+  },
+  "gpu-thinker-303": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "745f79800b0fb76844df8a919138a5f176d96e898c72b0705f32fb673f1a56f8"
+  },
+  "gpu-thinker-304": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "5198f74f17e60bcb31601513200205b9b2886a35bd34dd5f00abe71aefd57b3f"
+  },
+  "gpu-thinker-305": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "9fa6d2df9523c7526bf1b060cf03614c2d25915c49f99fa992bc7c20ed6abad2"
+  },
+  "gpu-thinker-306": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "85c4ceffb27d8559af882955c94a9e315b18acdaf196e21ede44060478c08737"
+  },
+  "gpu-thinker-307": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "3444f4dd158e515491dc9d2ab4d508e34605120d10c8d0dcc6419ba5de207ae6"
+  },
+  "gpu-thinker-308": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "7cc3ac5f5622324748bcc4252f94de863c3ceaf4ba9b33896b590cad340bd93f"
+  },
+  "gpu-thinker-309": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "da39f5f65068dfd3594ecf0d8ee85a10227209dfea45a3a1cca51d9685ac3658"
+  },
+  "gpu-thinker-310": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "921a4355b5266da461b3715e76b38a8795e8daf9795ec148ad291403ba5ba0ab"
+  },
+  "gpu-thinker-311": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "22c9917182334ca3c4560d29990c41dcec6a06c5b6c88a390e29a531a1ddea3d"
+  },
+  "gpu-thinker-312": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "e42c49ad2170f084d455568ded2960843b7a9af429e317d40db13df33950ae83"
+  },
+  "gpu-thinker-313": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "280b35b1708bcb20d953872b4dda0133715ac7675d52676e4a1dd2af64d71e51"
+  },
+  "gpu-thinker-314": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "fc0fdfb2188a43f640dd8ee5951b1224a6c745a01776cbbef028979116bcbaba"
+  },
+  "gpu-thinker-315": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "7fd968c712059c469504e095a50ac049355070da98611879dfd20f20a9a4f822"
+  },
+  "gpu-thinker-316": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "63fa1b2a66573fa4950021e492485e3ade701cd2a3a47695b110322f5414263c"
+  },
+  "gpu-thinker-317": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "26243b4d83bb0110c12132e48e2efc8a30a20a4b6765faf629a163d4ec1974a4"
+  },
+  "gpu-thinker-318": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "7e5d77b091c3117d106d041710acfc8076f3824f413fa126401d39c3a423c356"
+  },
+  "gpu-thinker-319": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "ab27c58c059832c8ef118a157810285c45dfc1d3cd1b1bc8a71c10f51859d90a"
+  },
+  "gpu-thinker-320": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "7758e41b91ce12eb06872c4d15709dff218cefcdee9ed9330250c656bfa6c703"
+  },
+  "gpu-thinker-321": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "bf9ec9f5612762cff3d6dee9ae74b1ad5601e1d45640fe63cc793dd6d868282b"
+  },
+  "gpu-thinker-322": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "cfb92455790f8478805970183801e160e6a1a4e272cebed817434bed7315934f"
+  },
+  "gpu-thinker-323": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "08c5cfc789365ba67e12ca4b1a9896c3f05006699306eec9a3a6f203928da9a4"
+  },
+  "gpu-thinker-324": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "c33477c1910bacee557a6a5b5505d72f9ae3a73940ca08e1dfae8238f7e1e282"
+  },
+  "gpu-thinker-325": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "f749d5f560009ffba0bf7f9f0ac6f42e55804d89134314d7410a7c2526e46e81"
+  },
+  "gpu-thinker-326": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "dc70d159e9c639096afc6af41f3da824cf940e7eec85a66589af1e66b8b2f67f"
+  },
+  "gpu-thinker-327": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "d93e4f4299de97d50e34f2881ed39541799e4bf2e27ce9c8e2a9e956c7616eae"
+  },
+  "gpu-thinker-328": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "8cb640d0dfe4c0fcbf6f633003d2de6495ac3bc9f4ab3646c8429bbcf06ec69a"
+  },
+  "gpu-thinker-329": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "1c16f0873af6e1862564f9c59b60efec4ca3f33b7a5bd0dc1b6c4709286dd439"
+  },
+  "gpu-thinker-330": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "5e4071a1bb6499b60b64f779f4380869c4201942986fbf74b149c2307de85252"
+  },
+  "gpu-thinker-331": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "d106b9393d161aa7df985585aa958e855b3d0e52b7bc2eadad677a67a9e95172"
+  },
+  "gpu-thinker-332": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "10b6cab43396353d3c8f52bf0e90cb900e8fec6ac2a55f2a0a9ebb361b8937cb"
+  },
+  "gpu-thinker-333": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.870Z",
+    "signature": "2d6af3fdeda4bfa2c97b7d36aa05ede0f820760addc6594215a6c99fdb9979fe"
+  },
+  "gpu-thinker-334": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "3a1b8d0477e3f29a82a6fc20561f2576c0e53ffeeeaaf5e03f64fb8b53032124"
+  },
+  "gpu-thinker-335": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "1183dee7aea7987bccdb7ff5d00eadf43b832b7303e34890fa1f67db2aa53567"
+  },
+  "gpu-thinker-336": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "5b372bb8bb7b9488622cdd229fa218651cfb6a64891208170856d01b1842bba6"
+  },
+  "gpu-thinker-337": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "96f7b7a7d4e3f1fcc562d8b8e964d544e2174180190a553e504bed4159dbb949"
+  },
+  "gpu-thinker-338": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "f36f84ea60613544f3d226ae752c75651861d85a226976a03097cb1c5fb40dc1"
+  },
+  "gpu-thinker-339": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "3310e1a68333ce99e08c56b5076c47144478bf62c4aa8023ce7cd32e40fbf372"
+  },
+  "gpu-thinker-340": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "28e1dd3415e01ab4624e9b2106aae9ad2b7b91261756de48d60c25cb806f4916"
+  },
+  "gpu-thinker-341": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "a4e2a598e163f20ce5b49a14c9e298250ab37330df64cfa2f02c20fbfcf7f3e1"
+  },
+  "gpu-thinker-342": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "97c13e01acde55abf6a1eff2a69939c24022cdede448ccbeea96a79f67b051c1"
+  },
+  "gpu-thinker-343": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "dfe8f29403233cbb859070981447bd86f37ede7d81cf25edb761c88eb8d51179"
+  },
+  "gpu-thinker-344": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "476156037f3e951700eb4c4a4d922c2f3c96baaa7f5796343c67839327452466"
+  },
+  "gpu-thinker-345": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "8636316f8cd80602c7332040cc33bac42274a446db1d1c47d79d7762cccd7560"
+  },
+  "gpu-thinker-346": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "9cb25f1217b968cd9bc3835d66d94f33d97c670eb3316e1202785a86e9004708"
+  },
+  "gpu-thinker-347": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "dd6283b5c41b7f203b1203fd986dade45949808239974aef2f9663ac7d61e3f5"
+  },
+  "gpu-thinker-348": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "673958cfd970783722c67f4baf85f7bcb8c22bc26023732855048680402f355b"
+  },
+  "gpu-thinker-349": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "868fe0ae15af3a6db7bd237e7d9179100df92f7f4399a7759c384fe553e77008"
+  },
+  "gpu-thinker-350": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "322af7248f12a6497beba04a4747caf02f5e1da34233034277b3f1c23258dda6"
+  },
+  "gpu-thinker-351": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "bc386c4526235a7ef42e7747a298efff3e63fc3ee9528ec607b891a6a5a9b4f2"
+  },
+  "gpu-thinker-352": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "bf76647fa0f1b789f63e5813813e47e3437b4a1c5d730eabe1b894fe4809db14"
+  },
+  "gpu-thinker-353": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.871Z",
+    "signature": "eb9eb977f5ed4ac1a08394dd338bcdbe7503b503d14562c272f4ef6f4c6bcffd"
+  },
+  "gpu-thinker-354": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "a8979b71e984c4cc5f5ced2d3cdf8ec90bb87c58dfb69ac2dfb4bfc026f5949f"
+  },
+  "gpu-thinker-355": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "5fa9a6c7290b756e0f7b2dee7e80478747d4b92c4b84168823d63b90c2a5ae19"
+  },
+  "gpu-thinker-356": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "7dce64f6cd58173fdaedbbd8b8f3037575ed7b5738584db0cb062953b9045ed9"
+  },
+  "gpu-thinker-357": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "4a6b4a06f1a416032cfbb184ee14b00a05181fcd9efaf01fb21844cf5c1ae230"
+  },
+  "gpu-thinker-358": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "2c2678fef94c516d54b9b66290667510339aa0a56197c154c32cb68dd628e195"
+  },
+  "gpu-thinker-359": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "8dc51cf3218afb0112be19d8d6baf6feb77fc9f4887b7031d06e5179a24b0700"
+  },
+  "gpu-thinker-360": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "4594403dd0d784ca43228d201dfd604e80143d8ab234c77335823d2a3d519db2"
+  },
+  "gpu-thinker-361": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "6a99c5a07beb04a18be81e57e65b59c8d1aa9106bd7c4055feb6dc1c7fe30ed7"
+  },
+  "gpu-thinker-362": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "16d9fc0619b7ccc0fada3111a7f2f74234712e370d46d90ea983a7da7af65818"
+  },
+  "gpu-thinker-363": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "62bb81127c9c062577a47f1549efa158c0030e0918ec80332536db2336700f87"
+  },
+  "gpu-thinker-364": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "ee25c3c985f181a0a683d8a1c0e1b5394dd174f5c9bc2d19f137c320176f7024"
+  },
+  "gpu-thinker-365": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "405a90f884e4bcad8fbb475824659c010b3ef16e50940cacd6d3df8b52a4747d"
+  },
+  "gpu-thinker-366": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "4aa7671c8c0c604a2505bed60f42783d53d9c2f53b6f82875605a78e72b186e3"
+  },
+  "gpu-thinker-367": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "2e63c623fca7bfc544ad432da69bf0027a2199e0594e5c6e075749584d8980ef"
+  },
+  "gpu-thinker-368": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "c6aa0c3532bba088bbab7b5418ced85c49cd9358a473d0377d6739cd6d4983c9"
+  },
+  "gpu-thinker-369": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "3371e062805a9d1138d86647bdadc326b6ef6efd51504f80e6c793c3e945e3d1"
+  },
+  "gpu-thinker-370": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "4b422396f24e1c8b0278f448aa240499a4ca6e1974ccc5026457b09fdacc6553"
+  },
+  "gpu-thinker-371": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "07fb94a97e720aaa0bcf98887c5459219db5725f0081ae5e59af4996245f2e00"
+  },
+  "gpu-thinker-372": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "605efc56fc1a23320d4b722b3e7e20a5f9fab83d3e45e24701fdd7d649ec6f82"
+  },
+  "gpu-thinker-373": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "da358b20b64a470091c41ae25133f768092ce50f3891f5a7eec092f8e37ec2ce"
+  },
+  "gpu-thinker-374": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "fd9ea1969208b151eecb354e145f4369337843ce1d53ef1a6a15398444e05f24"
+  },
+  "gpu-thinker-375": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "2ef0384d3028d59d372df12b9eccfc204db9358cf9c6e6e9e6e1222bcc4eb445"
+  },
+  "gpu-thinker-376": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "f0533191dd087ce306b8a500e017841d2bbfe73de8caec347c32a80d6820e8e7"
+  },
+  "gpu-thinker-377": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "e993af312d4aaa82db1f3be193d1f50f7b91d3ca13154dcf10b694d2a0bc02a0"
+  },
+  "gpu-thinker-378": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "90ac934f9d764ba072bd365a44084ce92dcef702d556a032842067368c91962a"
+  },
+  "gpu-thinker-379": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "da21cfaaf0dd38f9ddf0f000e0d1dea20aa253367fa6f45608d867e07e207914"
+  },
+  "gpu-thinker-380": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "a642881e2f6f83a091588eaf1c08fbf828ae380eff482d089df65e750ae8fc89"
+  },
+  "gpu-thinker-381": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "3a898e659e70ac97d60bec6301e27e2b5806f68fd8b3521019b037132dee4433"
+  },
+  "gpu-thinker-382": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "a96ce222d6a1e824037bcd0d932c7cd125bd28158303c578e2a500ae29a15bd4"
+  },
+  "gpu-thinker-383": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "b665b478867383a2a7477cccbda71263323383be44170b4622988ae8160d9d19"
+  },
+  "gpu-thinker-384": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "27c23e37f6cdab0cdd5f0f4f591796465cb63afe9bf66d7f61c7306504794748"
+  },
+  "gpu-thinker-385": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "ee0e9ba74f6375d4c81d7d0c7245a05c822b37ed7c49a6528fd19c15da3629c6"
+  },
+  "gpu-thinker-386": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "368255fce0c7b7db56e78d3a4fbc0837fee49ecbc4a00845e2d4d3688776dd5b"
+  },
+  "gpu-thinker-387": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "84f63733922814c2fabe677eca605a3d20c4842fb4aff97646a32ac25876be91"
+  },
+  "gpu-thinker-388": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.872Z",
+    "signature": "5be3defe6b362b6e88a03752b35017553f5b6ff78f75aa6c6fe7ce469320d799"
+  },
+  "gpu-thinker-389": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "7a1014f8c3eec3d4d906a371156c531727ff2fc2725849706ebfb00de6968d71"
+  },
+  "gpu-thinker-390": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "5c3caddd081e317c7596b163b519d1363c702b61b2b0874240bf7d7fad3ab4b7"
+  },
+  "gpu-thinker-391": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "f1d27ec90eb7a7af39e7149f34fe24dca1a5016680ef3b667946c8dce3880b43"
+  },
+  "gpu-thinker-392": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "fb8a58bb26e6786816845aa0c8ec2b9ad262c62599578aba63c86e2cfaffcac3"
+  },
+  "gpu-thinker-393": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "1823119d9c25cbcd89ced716fd8050d7c5459133491030eae4cf6843aa7e0505"
+  },
+  "gpu-thinker-394": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "8e606acce08053c4773db7dcb52479ea17d10a5074c0200a248f1558b0b38af6"
+  },
+  "gpu-thinker-395": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "9d8e40a3aef0c24391950593b395d0b5d2a5c4a8d2c95b79bd60654163c44e8e"
+  },
+  "gpu-thinker-396": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "83d1f2ad5f3d17aa1336bebbe480563548c53dbd0114f88e4043ea2ac6f2fa7a"
+  },
+  "gpu-thinker-397": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "c89da61f1e01f8376d236d0af2361368f92ee90f401fa3da2b132932808fbde0"
+  },
+  "gpu-thinker-398": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "a7f0f4858410267b8a6054f5e75b011554965ec1985e663a9dfedf3fef39f65a"
+  },
+  "gpu-thinker-399": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "3c5c4567cb38fef1c1a50dada962d50cc6574f42a656c5e3bf09a57840308d96"
+  },
+  "gpu-thinker-400": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "040d3d2ba82c34a4aaf486680c1391baf320a615dc8a4a5b2c52a7035ed054a9"
+  },
+  "gpu-thinker-401": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "4dc789989371f7c9c7c162f402e8b2302140ea8aa8655f70224f8d63c638a9c6"
+  },
+  "gpu-thinker-402": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "114262e5ed992059cabc86767febbcebfb1c040c0a13529d802aee569af5e153"
+  },
+  "gpu-thinker-403": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "daf24d02ffb8e06cad6ff94c818c10302e13e5a3a5ddfd6b6c8c67f9e39d0471"
+  },
+  "gpu-thinker-404": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "792a2976f111c4ba6444f85f01d548c71824a0d60d12ab87e361cd46e3800484"
+  },
+  "gpu-thinker-405": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "fafad27bb1b62599ddbe7f57065d8c9396a616d8ac983428a0a4584399b75891"
+  },
+  "gpu-thinker-406": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "70c1ae2d026d8b9d2e5fbf6e55f00c151be8f0e398edb428d84a75c4177e67d9"
+  },
+  "gpu-thinker-407": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "bb1beee8f614d5178349691fc1d1e182fa7ace536cbedce6367e8ae2f5e2f3e3"
+  },
+  "gpu-thinker-408": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "396ba44cc900ada6e59c07e6c070c889505954e978e2431c7b8c172f9c7d382c"
+  },
+  "gpu-thinker-409": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "15b9515472c20a03bdb6088c69fc40cf4b61dc76dc16c92e7becb84de4c4ebbb"
+  },
+  "gpu-thinker-410": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "f7a52705c37ecb6121eaea1e2a02b6db803cb11bd49eeb13259025631fb5307c"
+  },
+  "gpu-thinker-411": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "4f32364245c4ec53e7f520d8e0ba5ca90fc9e4ca0bc6e80fe4110a50fe2e08de"
+  },
+  "gpu-thinker-412": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "fcc8035d0c0e11c67f0bdabd2174cf306f4cfd3082ebd666e74e32ce4819a92b"
+  },
+  "gpu-thinker-413": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "a2dae39aa13921dbfaeeda790502ee269750a5fc6d3d0e1edde36ec7d1374c3d"
+  },
+  "gpu-thinker-414": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "9199e05a83b3421c8b1d963e7a3e5a88bdbf6026a43a18a80c6962daf5876c4c"
+  },
+  "gpu-thinker-415": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "34974861e671eecf0f4dc7caeabc2bde1fc1fd9bf66d5ea3077ab0842197dbca"
+  },
+  "gpu-thinker-416": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "e5f4cfc2c462a882788bc00460685ee11c58920978c2a6692fa1f48ae94e5e38"
+  },
+  "gpu-thinker-417": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "0bee87a0c7591f34663d791ec5258dd822ef32f73f6ec7f3fbdf04e4f808a09d"
+  },
+  "gpu-thinker-418": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "67a7d7c15d4a5cf83589ad2d99516200243e051d5bf1e1727a91d0174ef5336e"
+  },
+  "gpu-thinker-419": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "0ee54b8b5caff020149f7ae135cf6448a17c4a6bd0cc063ef5b7c7c2dd97bfe3"
+  },
+  "gpu-thinker-420": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "a5503bdbe933c2ab41414fbed8256e3ce513461df22a03258b8ac10e56827845"
+  },
+  "gpu-thinker-421": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "0a5d37aa6e1c1dbe6bba9238bed8dc357b0382e5db11ee0377dbd1e32dfb0403"
+  },
+  "gpu-thinker-422": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "aaac323ea4273ca166337c3fbace6d3be46ea7994f86de945e481f3576702c74"
+  },
+  "gpu-thinker-423": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.873Z",
+    "signature": "6bf2c64157ff8108d61d21a87ac4ecef604ca6d60d51eeb0136d804f61ddc7ec"
+  },
+  "gpu-thinker-424": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "dd052187f3c7d5987880f150c2b111a586860e6572c5b437740b6bd227e8bbca"
+  },
+  "gpu-thinker-425": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "df06d82970ab10fa97b26f14b660cac52e5652d1b84ac9c74a9636691f556645"
+  },
+  "gpu-thinker-426": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "8ac0aca567c10fe3767f205f9509551b3320d5ac453a3cbbf6d298c75abae1dc"
+  },
+  "gpu-thinker-427": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "85e556aa370f703dac0d5e49512e9f065d6a11862a4fb1a7a5acf6caf864b0b1"
+  },
+  "gpu-thinker-428": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "d617d3ef9b9d407daf499855345526fed20c3aee750f9f2ed2fe59f4c225d97c"
+  },
+  "gpu-thinker-429": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "51e9634f25adc4227461016d77ec20946d79eb1c2be5a19211745a2dbe4edc62"
+  },
+  "gpu-thinker-430": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "872e4367618e205fea58c5bcebca99932044eec64274b8ea6030aa88cc0c3fb2"
+  },
+  "gpu-thinker-431": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "cde142a120466cb590ec6a5dba7420dd3e5092519f0f399da5418573cb83d98a"
+  },
+  "gpu-thinker-432": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "14363139e1726e256b68460eaa4a541b60370463d6b85452c7277112aeecd28a"
+  },
+  "gpu-thinker-433": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "b305ecf33f34315afffdfe4aa04e03218fdee57d20570a00a4009a3457f1a92c"
+  },
+  "gpu-thinker-434": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "45f5c854f971015c2512bf4a4aafaf743ff66154efb817cde38253c91b26892f"
+  },
+  "gpu-thinker-435": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "286cf69b789a7f9c049679960e880403584bb2871cd502acfd0910eb988a21a9"
+  },
+  "gpu-thinker-436": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "b0c0c46d199d6c77389f094508845844f212513249054c28d2c7626453337924"
+  },
+  "gpu-thinker-437": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "f2a0deed8f6f35186678e079bad320d6b9ca183e541b30ff56eeee8556f6419a"
+  },
+  "gpu-thinker-438": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "ae7da37ffab7751f8bd45ff8a2b6cfc4db23165af0bd035a7a7bbf43235dddc3"
+  },
+  "gpu-thinker-439": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "59427cce5375be27d4931d0385bc58fab0d289c51e83976edbb7535ababadfa1"
+  },
+  "gpu-thinker-440": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "93d351b0434985454c7baced421d71da52d6e898138c00683925432f7013c332"
+  },
+  "gpu-thinker-441": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "02806fe7e01611c60d1f274b324f630269e525c23464691ee1c0fa23c8102492"
+  },
+  "gpu-thinker-442": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "1833a80a39de595cbec5d1c7179b3d62b7ba0b0644d9c6dc6034f9332d74191d"
+  },
+  "gpu-thinker-443": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "520c8d1f02a987c41aa76dd15291eb6d742e21e20b5102a6430423e59efb334d"
+  },
+  "gpu-thinker-444": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "3dfc5c3e461f9873d81109bcda950da1b4a7e61048912e5d6c188f6ba95527b7"
+  },
+  "gpu-thinker-445": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "32834a24fc600a67ac840cee7c6a2a868b36ced565bd3ef42c4798069179c3f7"
+  },
+  "gpu-thinker-446": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "f7190fa8fad34197814a3e9fecdfd5743a0607857cb961640b023193b047c4f6"
+  },
+  "gpu-thinker-447": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "392ac7fb2d4dae64b9faff5910c43aef8954da7e3aaf4f994ca71758492f368b"
+  },
+  "gpu-thinker-448": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "3bcca0292caaa5dc9eaab3dfd504c856074407cb3ffbf7a1d9061c6c6252dbdd"
+  },
+  "gpu-thinker-449": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "1b13d7e7f934af27d1c3ec580741092cf4eec62accc486f7c264b75736a718f5"
+  },
+  "gpu-thinker-450": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "72bc6924a43f674ff2678d6e53dc39c4035a6b09ac08c1941d9c5ad15ddc8b78"
+  },
+  "gpu-thinker-451": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "f6cfba05e5642b26959497e25fcb24b277e14763c38d0e76701bf26358ce6bea"
+  },
+  "gpu-thinker-452": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "cedb04489a3f10287c9d8573d7d106afe60595b0b21f6378c3b64a17190c8316"
+  },
+  "gpu-thinker-453": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "c448080abad718b22395a4d382ca803910db57af79657bf9ce09f1925d35e3e0"
+  },
+  "gpu-thinker-454": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "757f7b68bcd2347cafdf51090c0374c3c96981a47470860ed82ef41044f9f7d2"
+  },
+  "gpu-thinker-455": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "93d597141e6b3e6a9a5370a5c4a28aee22affa98291e13fa41716989b0d8d433"
+  },
+  "gpu-thinker-456": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "4b88d2fadbde4a6dfb61b16c8f65b12538a1f15674ddbe13f7317967e12c7505"
+  },
+  "gpu-thinker-457": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "86009a4f406d895e006bc6ccf8c883d86b81e973f3e9347328217cfb630a5044"
+  },
+  "gpu-thinker-458": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "1da9e08e3eac2bc1a9b8671afc3a7d823151c26764b57cd111dcfdc76d3a93de"
+  },
+  "gpu-thinker-459": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.874Z",
+    "signature": "96809e60d29b060ff8798667ba092ae3e23213fc2b878a20b2213b6334bb0189"
+  },
+  "gpu-thinker-460": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "3969f7feac3f5cb9e16c52db1978ef7a603c2457d7babec3d0c4488c58e6e488"
+  },
+  "gpu-thinker-461": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "09077b88986660cb7afebec1f0add238f3ef652f8dc91280acf5cac598a6fd24"
+  },
+  "gpu-thinker-462": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "6aa6bf1369c4c72227491daded505503c8c192ba7b82f1ad2b63c9d4c6586b6b"
+  },
+  "gpu-thinker-463": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "3e6da7fab010c201da532731b209cbc1fab14dcf59e9f3ed2900b930d387e3b2"
+  },
+  "gpu-thinker-464": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "b8b10cedbbe02fa2346b6c52cee2f6bec86091937947e5c4743ebfbbafc061b7"
+  },
+  "gpu-thinker-465": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "f17de945d89b6a937383119034186315c19968970ce3262e0b2594253f470257"
+  },
+  "gpu-thinker-466": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "3869de11e435046ae295b5045fcb8fb8bdeca2c59a984e6b0d14e5b53677a168"
+  },
+  "gpu-thinker-467": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "9cf50f735a9499acf260fb1544d892cfc429756bd7bb9356ecb32c1955a5c7ff"
+  },
+  "gpu-thinker-468": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "92100901bc37d73491d1f4091afd7b5fbc489a09096d75e9d0ec7cb9670a26e0"
+  },
+  "gpu-thinker-469": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "479f8345f17f87f206a020c6297e620d6541fe9eb9af4607aa69fd4c2e7eeddb"
+  },
+  "gpu-thinker-470": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "7ec0fdddf53d0cfe71193841a39ae0358786cdefdbe7ec7c884d546a55e56606"
+  },
+  "gpu-thinker-471": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "527ba84ca344c0d3af29e93a7466570542d2fc0fb3eaca1e23bc5fd26da0cbce"
+  },
+  "gpu-thinker-472": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "8bd1a4e0cbc484c02717e2fe1759c936681b8a12d9960e1689ef6ce4ea707464"
+  },
+  "gpu-thinker-473": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "12ef028935a46e06d6b7c100eeeb1fa3174440ac9e481057b8e0672909b1439b"
+  },
+  "gpu-thinker-474": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "d7d98f409bd885387fcc94fde47103e238d9ea474682e30f6ee69c818282c94b"
+  },
+  "gpu-thinker-475": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "2074bf7273a945197a19ae0f787a5b7959a3c8cdda29f4f9421273920cedae10"
+  },
+  "gpu-thinker-476": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "b4bac9ce32a50d59df47dde5a27e38f384ed5d07d674b143bf559965c54d1e87"
+  },
+  "gpu-thinker-477": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "1285097c3a5ae9b77e9309c3d3fa9863f84dfed65e762011201f06f2bedb75cf"
+  },
+  "gpu-thinker-478": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "6930e3e7a947333d3b67fa0983ca4acd2309597642d196997a6f9c2bfb952cc0"
+  },
+  "gpu-thinker-479": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "be15cc0ec773d08ddea9595b9cf5189a0170b839f201b816742cb3a578ab764f"
+  },
+  "gpu-thinker-480": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "8176e4c259e52ebd76038b98d4f272731a0e14c260d596b348b7b15b0be34577"
+  },
+  "gpu-thinker-481": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "a23d07db167b55368271d136e7c180643f75439d8b00a35d3ca12ccf1ff1c378"
+  },
+  "gpu-thinker-482": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "5d50497d3c66630cc97c679bde096da1d6e612d69947a5036d20d8e9d82e7b17"
+  },
+  "gpu-thinker-483": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "1961ca7207705b61f52ecaf65f0f3c77d7ead3dfd100c0114fbd08cc1f44e093"
+  },
+  "gpu-thinker-484": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "cfb8d56af021ed82d4fa664c270cb2af719cd9e9681e2ab662cebeb660e4b368"
+  },
+  "gpu-thinker-485": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "2aabb8e76b3734d77fcdc3a4235ff22033bf495d04c68a83b3218ba7983ea307"
+  },
+  "gpu-thinker-486": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "3dc1682f0f1465897536109d72b36bd55f61588d4ac70100cb719151b5aad427"
+  },
+  "gpu-thinker-487": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "ff4ab19e5016a056a2ff3b9b288334598a453d6d2e38c463dc39a42cebbf6681"
+  },
+  "gpu-thinker-488": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "ad069000bf27897af57f2797c8e4d8b3eab6e445a73e5011d249bfc48aafb059"
+  },
+  "gpu-thinker-489": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "3bc7649edd01884f4f6f51861a0ccb7f34b8094461696122ea3e0af70deea50f"
+  },
+  "gpu-thinker-490": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "c592377486465da332894b33e1597adefe73de50b2c0be26970770f76fb3833a"
+  },
+  "gpu-thinker-491": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "31b8314d124b8e0260f3b559ffaeb2e7352fa39004a007de34fda0c789c0d7fe"
+  },
+  "gpu-thinker-492": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "de32442bf57725889f3cd05f08d1512a5c55c7e047931de3abb8a13df7dec1a2"
+  },
+  "gpu-thinker-493": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "53886ccd6200af6f41d05817b096477e19a83b95a9c25d52554c284b8aaabd81"
+  },
+  "gpu-thinker-494": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "90a46ca48924bc151d3d0b6ff0713ae73f225114c9653ea75cbfde8b043d8bd9"
+  },
+  "gpu-thinker-495": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.875Z",
+    "signature": "3e20b0ec730d0a1755bdf7dae134778f353c7ae28596ed0e04fd1b11ca7fd099"
+  },
+  "gpu-thinker-496": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "a7e113e2ab3cf0aabfc35babdb5f91af4687fb29cdb816f6b50971426567a137"
+  },
+  "gpu-thinker-497": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "208cd95e8baf1ad33818144d3e96394805b292253f08431839878e773a73d3e1"
+  },
+  "gpu-thinker-498": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "ac5686e405278d5462fd9f4dfc4448ad892b389f510f76596037fb269f401242"
+  },
+  "gpu-thinker-499": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "a38c3c5fdf302f75f7c9f3f1aded04450d8d905ac322fcef3c0c5cdf741a7909"
+  },
+  "gpu-thinker-500": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "a50c701c07920ca0703d79112a102e97fbfe78925ab9026bed8dcf69271ef6be"
+  },
+  "gpu-thinker-501": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "2b932cc8d72e6ccdf30378ee7366d768715db36526b76dd08886dbf3889c7180"
+  },
+  "gpu-thinker-502": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "2c2d0f0e7ce578833f9edcf52573ca66df6fd9e00e665ce302276971b11ae7da"
+  },
+  "gpu-thinker-503": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "ba93b58a47275e06ee10d3b10824ea4448a3147352188c89035aef6a5bf9023d"
+  },
+  "gpu-thinker-504": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "e7162819ab5f206be7f6551196e6d23ce28cae163ed2e761992b522b174ec1e3"
+  },
+  "gpu-thinker-505": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "387dcfc5cd232deb63e429bf3db6df7796137012ba04f130d535e749c7369175"
+  },
+  "gpu-thinker-506": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "56cb934c64596c3c3009dac96706c5995a55a9739629ae41edbfbc75af45ecec"
+  },
+  "gpu-thinker-507": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "45279e01fc9970e27c58fc0743ac506f48f1ff495d520ea1d8e79ee2bc8973d2"
+  },
+  "gpu-thinker-508": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "f85ab137b4ba35c9d5a288a36d5ac8827f8a6e37997958a2bac0984f1e4d8282"
+  },
+  "gpu-thinker-509": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "2816751de2c487586651c1c7b77b1980b976fc19b343a0e815adf71c05d9caaa"
+  },
+  "gpu-thinker-510": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "7bf221f43a67475177de5dea959cc588d7298dc9ee82278e1e8a7aedba0a5c17"
+  },
+  "gpu-thinker-511": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "f6aef928bc654bf8cee68661bbc140fc96be68e55b6254a99758f7711540f9e7"
+  },
+  "gpu-thinker-512": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "776b486047c27f444cc8402072ee6dd3b3276811271d55a49e587d68a65594d3"
+  },
+  "gpu-thinker-513": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "3f09b18a93b2413fea06045d161d906873158e00be67a0ebe8da11b14538183f"
+  },
+  "gpu-thinker-514": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "04a3791e72738aabf24736ce3729e2b92209e5bebf5c2122c10dbd0432681ff8"
+  },
+  "gpu-thinker-515": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "6566d131ff033cf115bb71a2970cc7538b0e1280b5c9e62c35ca6dfb71835ba0"
+  },
+  "gpu-thinker-516": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "ce3b838f2d4dc47512c0dec02f5986bdf486c05212e91d9720accc440d6eb4f2"
+  },
+  "gpu-thinker-517": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "4da682f9650bdcbbf8b0a55c38b15082f3ef04a792801c743de1ebcc5e18ef05"
+  },
+  "gpu-thinker-518": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "79783d94cdfc8fc9d8f2bf1d71632056145ab7d5fab8c2de05e984b459a6bef7"
+  },
+  "gpu-thinker-519": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "bbb73524a481d4e7e89fba19793348d8054eb6589b43b2d0c34de6ba9887a12e"
+  },
+  "gpu-thinker-520": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "99a131655037d1fe3c1b8367c7062f090832aa812d1863806186b9673c511657"
+  },
+  "gpu-thinker-521": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "8e62a09d0ab5b51a1cc29c1a21820244df72c72676b1195ab040908e5f88d6bf"
+  },
+  "gpu-thinker-522": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "ec6a7904c0f77a0b57b232bd65783c181711276cd6700dfc39bb74862aa48a3b"
+  },
+  "gpu-thinker-523": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "556523782d15800ff7e3bbf7015378d416f5e254bafb057ba4c653cfdf5b8285"
+  },
+  "gpu-thinker-524": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "6e73d2bc8657bccd0e87284dc220adf05a99c986e6a979933a49e98f11db051e"
+  },
+  "gpu-thinker-525": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "2aeea6065c9ac8c33076cacb83d2ca04e9466ac4fc4753e7c51e1390ab7d7b13"
+  },
+  "gpu-thinker-526": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "1b67250b7ef30ed7d4711a5778eaf7ff0c835f04c88ae10585b1b3388b394939"
+  },
+  "gpu-thinker-527": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.876Z",
+    "signature": "fdda247ada0263390832d8703273d3cc2083377f7e7b573916d6d90f7509fc13"
+  },
+  "gpu-thinker-528": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "733b6e97e79ec6256d5975d929f44c33d82982973996cac3d556482690d1a7fa"
+  },
+  "gpu-thinker-529": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "1006ff08093e03eb172ad109f9a5a53a32f06ffef1979c70a042d8df05b880b8"
+  },
+  "gpu-thinker-530": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "6545ef2bcf006b2553ad84796e561c10168a460fd0f24c71da4abc33606237c9"
+  },
+  "gpu-thinker-531": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "e889161a6a7ea5b167a987949ac4a0f1310bc6c4151a8d7731aa7fe111c3d164"
+  },
+  "gpu-thinker-532": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "9ff13054c0df7b62d7bad3dc01c0b2803d481b74dd9312e81faf89a0cf0381c2"
+  },
+  "gpu-thinker-533": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "9ab3fc8c108fba58331fd10f97cae6919e2ff2ec589d0ed260223fa56fd5ffdf"
+  },
+  "gpu-thinker-534": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "5a07252e47516e0b877113f04ee516e0fbebd2f33ae2ef2ad8320fa71db93482"
+  },
+  "gpu-thinker-535": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "be2066c75f0616acdd10b8cf3f18cd49bb7516cb19bf2ad1a4ca7ed88c9c12f0"
+  },
+  "gpu-thinker-536": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "79a594ad66777a70c3fc33b9c8f800f2672e9c2e8e70d3af6b5b25159d91c612"
+  },
+  "gpu-thinker-537": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "814d0ab56f874b852e64c2d229f837e0f101727417ae83996a6ef14a74a3f0fe"
+  },
+  "gpu-thinker-538": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "c3554b366a439a24ae4be39602dca117c1c748d36428b6a41d9e3b4fd99aebe1"
+  },
+  "gpu-thinker-539": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "7364ca07d8e9cf027d720842f36626f5a383a464a2ea553acf7c9eb8a0fd8a82"
+  },
+  "gpu-thinker-540": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "dfd2138fe676a873b52687df73a207a73bafa750c26727eb946c92f88a6e27f0"
+  },
+  "gpu-thinker-541": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "8b47674441c6f2a14f3c4476641dc69d2b5ded9c10fe6f478b9c4ed109a3290a"
+  },
+  "gpu-thinker-542": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "e1a30d15b57525d8d045c5f921f74e9ef111d3abe3950e40db50eb2dc4ce0311"
+  },
+  "gpu-thinker-543": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "fc48b57b77a8494228a9c198428c670c49bd490c87e77a7f64cf5aca240e5488"
+  },
+  "gpu-thinker-544": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "bfa4a7f049bd68da9b3dea00f254c87da3cb88ed41b3ff7067914253895f3d29"
+  },
+  "gpu-thinker-545": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "6a75f6497a0d35585c1f861bd6154f7fa9aaa411e60e4c4d94dfd2b3a97a408d"
+  },
+  "gpu-thinker-546": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "07912b1425395afa4888f0fe2dba43411c5effb0dbbe03f07ec149e997765e87"
+  },
+  "gpu-thinker-547": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "d5d6221cec1b7f0508055084492e50d7f223bda724827e41fdd8cc8a874b87fe"
+  },
+  "gpu-thinker-548": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "12b6d5d81169978e6294c039b6b4b5c1fe55258a01e02cea16941a6b6acc720b"
+  },
+  "gpu-thinker-549": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "17ceea05282020c25b303778ec9cf14afe86fe492fc198f08de93ac8d1b74a6b"
+  },
+  "gpu-thinker-550": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "a03f699122f45f8b186b560b5b56e019e60ed78ec522cc8fc7d20e25352d12bc"
+  },
+  "gpu-thinker-551": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "391b97a8593813b5c99e60bfabf0a5764d8149437eb12c430dd96e8a21091745"
+  },
+  "gpu-thinker-552": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "a101610490211f40a650a0de6358525db1c2accfde0db3723a238a357d30d93f"
+  },
+  "gpu-thinker-553": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "98adf098aa882505ed321c58999319186ccdf6391a67eada40940dc30607d6fa"
+  },
+  "gpu-thinker-554": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "74e3de016d9411017088f68069529c993576afa9cb5a2a9f2d567365b581dc40"
+  },
+  "gpu-thinker-555": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "be564ca9eef61cbc01a34017d26f18d58022bf6a77f651428b62f247df51b797"
+  },
+  "gpu-thinker-556": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "edd693a3d0e1a6b1ac1882c951e9014a4c9cc95591f2c5d2425634b0b77f0b1e"
+  },
+  "gpu-thinker-557": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "d4d003d6ef1f446dd6f6bae21a9793d564abdbe4ed79626490b0b8cae7c4d8dd"
+  },
+  "gpu-thinker-558": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "ce2eddb0d65381e0e0b25c7aa7844767ea05358866162504102b47994a0083eb"
+  },
+  "gpu-thinker-559": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "9660f0e609c0e49981ba6314f9d84242f657d0684346a554ca3902faffe62dd6"
+  },
+  "gpu-thinker-560": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "b94a8390d48a1e67b850aa6e428e8994a56113753b5ad1289b2e485ef093703b"
+  },
+  "gpu-thinker-561": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "bbf956560ad08f2daaa34f25d59f2f932c94a2cfed40ac398ee7d055109ab485"
+  },
+  "gpu-thinker-562": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "bba8734bcb4eaa5d2cdba89b1281cc68db8d8a20c4b8c822f87303617290721d"
+  },
+  "gpu-thinker-563": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.877Z",
+    "signature": "97b8bf38ebb8b681e7127a0e1dd3477c8a9d36873d74d3604e514647f8c2f710"
+  },
+  "gpu-thinker-564": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "2d27f2cdc1374b8d96b722c1d1712a7ee73d331aeaf788d71aaedeaf3678d698"
+  },
+  "gpu-thinker-565": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "1dfabe7c26f66c01a405b713007c5d3f1766d8ae3e47fa5715ef28e510eca7a8"
+  },
+  "gpu-thinker-566": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "aa1ebfecd78c8ff403b7a8c881b4af7bc2d079481d3a64af386b49c87e4b945f"
+  },
+  "gpu-thinker-567": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "b947b51a053c6d7e7b349b67bd5a29921a48162a586a07b6aaee97dcea47b9e8"
+  },
+  "gpu-thinker-568": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "8c18ce3171631017d726c4774e90f3bdece9bd84b8d56d51d4ac7dd7925be2b0"
+  },
+  "gpu-thinker-569": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "19ee2de92fcfde55c4db4ab9b8b8ee834ae19d5aff5d7ec28a18ec99622e3379"
+  },
+  "gpu-thinker-570": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "d1399c041800af16a0948c0970e250cfb6377168e58922e07b9544c3c2a68735"
+  },
+  "gpu-thinker-571": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "893b74e2c7dacf9085c5b80801547e775137b35f9f056196632a4deecf2572e5"
+  },
+  "gpu-thinker-572": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "23b4ccd678264417579ad348d0ac565c3d729319debe2f3a47647d0fb83b9d9d"
+  },
+  "gpu-thinker-573": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "b42f71e396fbc615dae4b100e15194b41f15c06eddd03633376a4b2295e3d73f"
+  },
+  "gpu-thinker-574": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "636d59819ffbcf812db61d2ded677e5e226f0cea8ee621bd4587ec8d88a118f4"
+  },
+  "gpu-thinker-575": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "c280ee93b098adab78fa02e8efb6d8f7eeb6f67aa667ce053b251609fcebbb81"
+  },
+  "gpu-thinker-576": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "0790cea7a18a19dadb0c002d2ab067d10146b2af2dab26b40b1d5c784c412b72"
+  },
+  "gpu-thinker-577": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "5eadcd1747773b9372041cb1ef5f5ceb7d59ebd430fdaca3c0f249561b8c779a"
+  },
+  "gpu-thinker-578": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "35c063e5bcf8ab360fadf6cc8318a1c26ec511f24342c98788232427ed5b3406"
+  },
+  "gpu-thinker-579": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "a370ed9b2e547a91d0f5b1f1a19dbe95454fc68d01d881ca7ccd83f7c3355c42"
+  },
+  "gpu-thinker-580": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "b1a725bc20b06eb94260e4375ac104d2888b76fcac3b3a667a6ad2ee43c8f997"
+  },
+  "gpu-thinker-581": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "188b54f23439f02ebc5348d2040e0ef28ae718acce141cc833be1d2fc2882e01"
+  },
+  "gpu-thinker-582": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "6087f30d281dde9f9b41523621a741ce72be3e423bb21831642d8de43cbb86cd"
+  },
+  "gpu-thinker-583": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "a2ccf35eeb4c5311805beca629cc9bb276b9d1fca69c2d316bae4dd6dca91a45"
+  },
+  "gpu-thinker-584": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "9b55838589520bf4ab38229ed051bfc004ddfd31e28743ea7c623dc83363420c"
+  },
+  "gpu-thinker-585": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "db1a4df3321c21c99c3b09e923c37d78214c933016564b58c0a4f2382b8ec995"
+  },
+  "gpu-thinker-586": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "5d45379804bdd1dd3fa75d9e2c293b37160d0bf086c3f7ddcf110e4a6af1db22"
+  },
+  "gpu-thinker-587": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "7b5008b79a61a283d192948a435ec7af521e4695ecca9d1e390610c96f7d4d0a"
+  },
+  "gpu-thinker-588": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "2c0aba02cfbe698e85662e56494411188f41a793e6b5d6bae4cc1f2dcb5ed032"
+  },
+  "gpu-thinker-589": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.878Z",
+    "signature": "fbb45709f6c613f06ca80570e3e5e73074ae02b3f5383b0d134d68cc1b81fa8b"
+  },
+  "gpu-thinker-590": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "d1ddf102705c5d2314f384d11b21cfed16c72c4457cda5372e9ed1f76d3ea048"
+  },
+  "gpu-thinker-591": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "177478bc782097f6a857627c561c890e76d30cf51894db080698c35cb78f230c"
+  },
+  "gpu-thinker-592": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "b203a5673b8664cf2e8189621af6aecfac90be987f5bee98ed685c0b043f91bf"
+  },
+  "gpu-thinker-593": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "649c16608e478060a07b8874d3da94666fc891895c1cab0bf4d0cd9204f728a2"
+  },
+  "gpu-thinker-594": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "9a5de4e1bfd7ca3116a3e5eb3ca32a5c42bc5276ac1ac714632143b8a5952380"
+  },
+  "gpu-thinker-595": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "b7a287f459e9b745e024dba38efd9596773d184dc35ec3dfe5e6c9462f1515e2"
+  },
+  "gpu-thinker-596": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "eb281f1efa34fcf276a5900c2d4fdab72c65163a9096534b574178f9cbd433a3"
+  },
+  "gpu-thinker-597": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "7506ba3e90dab92ecf9c3a86e10ed3746b4a97c500f805324302f18fa1c8caf9"
+  },
+  "gpu-thinker-598": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "c9dca3373b105787b5f821d749305c13ebb5e9853efb2a321106a0d84e22ddc2"
+  },
+  "gpu-thinker-599": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "29edcf6a6d67cdf346b36844c5e42b841cc295472923c9238384e05908f46a87"
+  },
+  "gpu-thinker-600": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "ebedd2cd447451cea495ba8e24b78f1a4a0ba9e1dae334a9ac447755a68bc190"
+  },
+  "gpu-thinker-601": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "c4201b7b32837d46adbe610b2a9cd226676b7367e6eaa8f2e0271104a170b8d0"
+  },
+  "gpu-thinker-602": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "bd9e0c2c5d871e58a366ce7ddf0e72f961f2d5f2a0b83b7b942d3de1cb7b0822"
+  },
+  "gpu-thinker-603": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "df0a0f4353c7f6a23d99f871c5c520874715906fc39367c97cf3cb153c0b29d1"
+  },
+  "gpu-thinker-604": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "af75db329084039514b2f787df8cfa35dd16e0cfb47efd58595ba74c5b51e6bb"
+  },
+  "gpu-thinker-605": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "c7830a1c36314134bd1800d9df007e48ab6bdaf01a8826fa48242248457d7313"
+  },
+  "gpu-thinker-606": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "6e8261b46391a9529a3ee2fb3de10daadc044d73e0f7817641eded52b59a4ec1"
+  },
+  "gpu-thinker-607": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "c601038f7987c7b135437f76afd1ef4afa68705e2328294679a3f2183e885467"
+  },
+  "gpu-thinker-608": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "ff37dcdfaa8007777b366117262c38fe071c57218660389401ae726f9016e010"
+  },
+  "gpu-thinker-609": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "65a1aae06d0eb19d6f81be4d36e037faf7f58053e9dcda2280bab4f1aa1f88d3"
+  },
+  "gpu-thinker-610": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "2e3df2244ecebf8943dbb89b99a6f417fe3d22772a52b9ad3e5a13c2c72310aa"
+  },
+  "gpu-thinker-611": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "07d67497615cdbe1cdab3433beee3f8cd2d55cca9017d89dee35e9952e7e8cd9"
+  },
+  "gpu-thinker-612": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "bdd57ba7be035e554448c6920c9d35faa7087c57b1df9bb09af8edb665324542"
+  },
+  "gpu-thinker-613": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "20c5f8f8412cf8c71a87325e7b7696a67e02c64026e832943b243b53e997b6b4"
+  },
+  "gpu-thinker-614": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "e06669655d4a2803214be9faa90d0fbd42735b703ee6e9711910a1981083a327"
+  },
+  "gpu-thinker-615": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "eba9c369808a0738447d8f6a5f7a4f85dd37e961d0a4c1c3ee97ae4de3877fbb"
+  },
+  "gpu-thinker-616": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "253892ccbd20e87ece122c5d0b25729b364f42e1ca03ebd7cf908cc693799d7c"
+  },
+  "gpu-thinker-617": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "6f7d5c74c38f87182d7156a27736691b0ddc38abb8cec32aa98d2b8b855a6b45"
+  },
+  "gpu-thinker-618": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "7ccd6e82b00a3e56f17d9faf4a13505ecdb4eaa6c88884c24d4355f2282dc1c9"
+  },
+  "gpu-thinker-619": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "a7f9793c46fe0b6111824cab3e81a06fe5ee011a88d64bc214e8d0d765a7b8ea"
+  },
+  "gpu-thinker-620": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "3ff0b6ed01ad97c49b08a6fddfb44f66aad7040399e83376196049e264496e23"
+  },
+  "gpu-thinker-621": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "2c8693963201e5132a85c0291990d21217dc2e3462a3119a766a4577b810a559"
+  },
+  "gpu-thinker-622": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "db8232eb7ec5366569a2c46b5db83f641a0487ceffb305066e032bd528519e01"
+  },
+  "gpu-thinker-623": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "d364f6f54029dd345b9ecd41c4e878cd092181be6c3aa0d97107a176df331a84"
+  },
+  "gpu-thinker-624": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.879Z",
+    "signature": "555499e3863e8458b3039322eff731f8e088cd57d3c922403d385b3b12977d58"
+  },
+  "gpu-thinker-625": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "fba80d88d05419c6ce3b358759f8c851e775d097d636dc9615d28cbcbe254d7a"
+  },
+  "gpu-thinker-626": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "a1de573a05135668077de94df744a94a6d2081b4a38f905c439948726e863523"
+  },
+  "gpu-thinker-627": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "fbf0b82237925fa326fb64681515305b544da238ecc629364bd3411ab3a147d9"
+  },
+  "gpu-thinker-628": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "0232c7f848777b3a27af66c82cd6af6dd3072baecf4f19c9fcbd7b444435662f"
+  },
+  "gpu-thinker-629": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "564e4edf9b247db26e2b51d9aab689ddc19aeb6696e5a69a680cfef8db372827"
+  },
+  "gpu-thinker-630": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "81234feee41fec353908d3982c9d7ada8b7e4767605266bd6fe2ab2ee30d73b2"
+  },
+  "gpu-thinker-631": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "99a7faf58755b0fff4dd065146c59d2052e070e133955d621d8b3181e65b4f81"
+  },
+  "gpu-thinker-632": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "d6fbc2562835c2e74f29a81b46c644fdf957a69883b80358aca1d4352655cc02"
+  },
+  "gpu-thinker-633": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "0aa17d461db67b707cdc8368fee08b049d58e4c9ad66a287da493f200497efb4"
+  },
+  "gpu-thinker-634": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "1966e6677ba1913e2bf75041245dafbc32cf6dc84503efe65ff4cb80eea8710f"
+  },
+  "gpu-thinker-635": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "27d248c0968c13039929d232b090c648b11e2f1558b88c88b4e00c708c691719"
+  },
+  "gpu-thinker-636": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "b5538a4ec8c1c2bb8ebe262149604467a1ed491bd2b0ce202a38a19dd2aa3fee"
+  },
+  "gpu-thinker-637": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "287a68600ccf1d9bc1eb0d9ce58b0dc450b580e1cdbaaa7fa3c6c548d753d1eb"
+  },
+  "gpu-thinker-638": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "1961a89c5f7087b14adf90702122ad75ebcfb2609574734c9e94f9985fb1a2e5"
+  },
+  "gpu-thinker-639": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "44d8ff8105566ac71e54fda5c04ee52d6a808cde5d73d29e4d5defb806921f46"
+  },
+  "gpu-thinker-640": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "e83f29a957dd2a5291e2ec3ea449427889d8f0fd2405aedd6316c699a7e8c2f7"
+  },
+  "gpu-thinker-641": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "9392b5eed5d8d2598353f2705e2976d547d12b5f12adf8c230a4473aed22978f"
+  },
+  "gpu-thinker-642": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "9844d38cfd8895f9e00bcabcac0e3ef982f4613350b0747a3aa043de3baa6d4f"
+  },
+  "gpu-thinker-643": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "f3e113b22aa32fb021f1c77a96535f5f513b4372cd2871f4634c945aba419312"
+  },
+  "gpu-thinker-644": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "c31647cae26d1a34ffad63a62e528cadf7fdafbde5bdc82c1ff6376b27ccb757"
+  },
+  "gpu-thinker-645": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "e4b77b5571eef8d5663f949e308be812bea8530ec780489611780d463f14bf49"
+  },
+  "gpu-thinker-646": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "8ffe0085175c812b43f78396af8c3cf7a2aa6239ff2786813c6be85ca349fa27"
+  },
+  "gpu-thinker-647": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "cafb96a4acbec3d48771efd9d202c6c6f917eff0158f2d1ca363927b22b674ba"
+  },
+  "gpu-thinker-648": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "abd5a297af3750ed624161cd177754c0347fb6e0cded129ca7684a7fd6576d26"
+  },
+  "gpu-thinker-649": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "3a543d5ac151b426ecdfb38262651eae543afa568d653faa2a3cf9ff342da5bb"
+  },
+  "gpu-thinker-650": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "1c42da475240d6e4d97d1a4d38287021f327a808e9f68f71f72b7853f4b5637f"
+  },
+  "gpu-thinker-651": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "7afcce23e23a62a368e8527bd45f04f9fb8f719d56e88127ad57584e89347433"
+  },
+  "gpu-thinker-652": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "a2724aa5c2f7ead1e8ceb73710a5f12b7be6fa3ff76273155d71529c28a339f3"
+  },
+  "gpu-thinker-653": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "28b0dc355643b0170d603eb38883723b869126125b648e2ec2fcd4935639c974"
+  },
+  "gpu-thinker-654": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "54ef482cee4b59a7d4f3b909da5c5f718499f7e90f1afbca97aa3cc8e1d24e17"
+  },
+  "gpu-thinker-655": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "f4d91f9695d52b0ab8b115b8683cce1ed22e2878aa9ecc7c0811663e351071b9"
+  },
+  "gpu-thinker-656": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "bd289fbcd2aa3a21a0768af1bbd8c306e8fd006936aa432f1956070239af2147"
+  },
+  "gpu-thinker-657": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "73728fe30511c608a99ebdefa24fa2a7a94f74e791c5afa6f16d7e8924125659"
+  },
+  "gpu-thinker-658": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "68057708b6ce434334f08ebc26b61746134956a4ca8e5c1b7f07fee880186088"
+  },
+  "gpu-thinker-659": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "ad322bbec9671de4fe6e6bb9a865937ad27bc4ab15672c59413eda1ca0ec9990"
+  },
+  "gpu-thinker-660": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.880Z",
+    "signature": "933370031fa741358023fef4babf99dd4a6a8cf96ba2d259d5938b763d9f7a7c"
+  },
+  "gpu-thinker-661": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "3c2c773e93a6e0028c4c28a081ec9b40679d650e697bc50fd6f49eff063ecde2"
+  },
+  "gpu-thinker-662": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "fb600a2756e6af0f43815859aa2969787822cbee8b70150889d1d4c365940885"
+  },
+  "gpu-thinker-663": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "762eebdea51cfd4f02e30b4e1aa7beb9b25e69c8500598a317ab72f8d250af9e"
+  },
+  "gpu-thinker-664": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "42a2ed575ce2dd108afb21917a9896606e7021e2eef6153dee97f490786a3b7b"
+  },
+  "gpu-thinker-665": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "0897fca4206c053579c985873690354ac663a424d309f3fe2160076e356a351a"
+  },
+  "gpu-thinker-666": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "e379ea4c5573633f961c47d43e9cedfad386ab716422f449201df02a4f7b2115"
+  },
+  "gpu-thinker-667": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "b45c26909cb0f50ff49221039624d06713c77e7eceade1794ca2d8e43f7dbb5d"
+  },
+  "gpu-thinker-668": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "eeeda4ee1cfd562580aa557ec081d26f9ecae495049f838459a55cc1a7455c2e"
+  },
+  "gpu-thinker-669": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "639ce4e4102e7a418d1e14aef42da898a4ea4af985e084b6cfacab02d781a0c2"
+  },
+  "gpu-thinker-670": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "f9ae5597c03523fbb68d6faec52a07bbabb147c397339bc093da6fdf77241abf"
+  },
+  "gpu-thinker-671": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "4d08acbd09ab1b70ef273894e623ee56a496672f6618ffcc9f176ca07e21c002"
+  },
+  "gpu-thinker-672": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "1ff1f88d78a48f00747a4040f9e8d283e5cf9e7ed337c8a1eef78f48e1e95a31"
+  },
+  "gpu-thinker-673": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "c99f781c13838fdbd4c6bf40fb109338d9e560df9cb6d8f2e3f875e7692e110a"
+  },
+  "gpu-thinker-674": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "35f7aec739e00a00aec7ae77c4c962a9602f88d66734ab1c8e65dea6df9bdabd"
+  },
+  "gpu-thinker-675": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "d53f3ac3b8df1669a684766c798f7affc09e640a477d66c0409145be9cd69a5a"
+  },
+  "gpu-thinker-676": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "197cf93f5d16ac9174af8c308c6f87740b9638c680e829174bca7a22768f28b4"
+  },
+  "gpu-thinker-677": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "83ca92d1d2c9e4ea6f3089cb420395aa4b45b7495aabf7db716747cb3de941a1"
+  },
+  "gpu-thinker-678": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "493b5174be7e1dfecd7783ce70929a2e76e8b4b6b6f55511a612ab7f7ec90185"
+  },
+  "gpu-thinker-679": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "a5167a8144b41c5cdbf750bc14f6a6c5e1b1845261c03dbf12f4992078736903"
+  },
+  "gpu-thinker-680": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "04c8a0ea93924349e71db91d3520a2501f41694e41da816dc1811ca2ca487c8b"
+  },
+  "gpu-thinker-681": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "b83ccf066d7bc9e89ec5bce1e6c114e38fedec3807bd9313f451c6e4aea86af0"
+  },
+  "gpu-thinker-682": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "38c6e0c18856474ef8b96aeabdb26d7351038a1e78856b9d28282112df2fa2cf"
+  },
+  "gpu-thinker-683": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "2b03ca06b713e363def5e93819d15127226a7d54bafdd303769aba89745a01b4"
+  },
+  "gpu-thinker-684": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "018bbfe76958148bb2f5dc995c37c580c5724b5053f9aa2a5e6292efabf5f7d5"
+  },
+  "gpu-thinker-685": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "4bcd28abb0ad8e499af92ead63b329b10db84a080451ca4a78f02adba4016ac6"
+  },
+  "gpu-thinker-686": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "d0ec17b45605b608ba4d98c46835e60864ec970979dc746a66d219489b834c94"
+  },
+  "gpu-thinker-687": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "1e2291f03814fe63bb6f347ec1ebdc3c1ecbcd43c57619c4894cf4080087c5ef"
+  },
+  "gpu-thinker-688": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "24149ce23c5a77545200197487054164481618bd4730062dd7de121a5779cc82"
+  },
+  "gpu-thinker-689": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "ee413bddaa406cfdb22309c559309ba0e8c41220423c1194835bcd75b863360a"
+  },
+  "gpu-thinker-690": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "f1f4da9869ba5c614b9b9346ddc2b3284fd211bd8efbd2a178b77eadfecc6f96"
+  },
+  "gpu-thinker-691": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "dc82cee9f76b77b3c6ffa46108c442304e393973e8261c3be4606336fe4b1206"
+  },
+  "gpu-thinker-692": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "79d4373107f4d5a3a79ee7a28fddc73d2bb151c8246e8a0e9aa143b0befde408"
+  },
+  "gpu-thinker-693": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "396ae3771fbfa33463ecfe5f9769be363da529dcffc636205ae5bb2b7df05275"
+  },
+  "gpu-thinker-694": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "e8a85dd008bca0cd1473e8c94e11cfaaae34dfc40163b10609acc5c255d09ae9"
+  },
+  "gpu-thinker-695": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "d300f4bc1da7a12e66dba80a565358e9c167cd1bc28d3b7f4969dba33d8762b2"
+  },
+  "gpu-thinker-696": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.881Z",
+    "signature": "ee41891d5e0ce616895b3b949f667f1e3d38a58fcbbfa54046d0478c91e5993b"
+  },
+  "gpu-thinker-697": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "f95930d860ff708b0d6b662b7deb389e19e965e33d5feb03160147cfcaa6d31f"
+  },
+  "gpu-thinker-698": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "5739b15f7dd581cf554a2b668c102f74c537b29af20466cb6d2ee993b05b2666"
+  },
+  "gpu-thinker-699": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "a81c8f5d268a277e61efa2bce7a603d4f6ecfa442775fae55f1667bde09dc7db"
+  },
+  "gpu-thinker-700": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "d45a8d6385830c44f56ed367405882676e9fcbed85689084aeeaee477e5c1c39"
+  },
+  "gpu-thinker-701": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "934c5e80d9b99f95faacab8bc675e93ead3a3b9f4932fdadb32a0c2aa342cf2c"
+  },
+  "gpu-thinker-702": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "1d12db8c22b07a2609f9c984850b6fa6ec20e29f6bf33c5cd5c760d28dd16af8"
+  },
+  "gpu-thinker-703": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "afc46e63946e90697c19f01c7c9bd92ad8655e7920fe11e5d7a8b140557505cf"
+  },
+  "gpu-thinker-704": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "05f56b65e69187c2edf209f23379f65c31400bcc775052c1b10d0e9f7206f170"
+  },
+  "gpu-thinker-705": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "cabbdc6a0cee115ad9427054ba8c26e973c882ee496943c590ee56e65babbe07"
+  },
+  "gpu-thinker-706": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "68c58e84431501c2eda4f0a180fef07545d67faa621de5605d1ccf9499b01d5b"
+  },
+  "gpu-thinker-707": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "1553af4bef7ad52ee01e0a5498aa8abe364b2fd8da2db8fc5a257f68ea8b18a4"
+  },
+  "gpu-thinker-708": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "86cc9eaf61c74aac536bf4d9c97a7d086f5db9041eee845293f07ff37702798d"
+  },
+  "gpu-thinker-709": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "13887cddf4c49186cfcc62aeba939cb1489916988f1f241d94dad048519717c4"
+  },
+  "gpu-thinker-710": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "75d16a07bc2a4e4bc05ff001209d98c2d5b6d9e74d23333038bd3d9eeac1b502"
+  },
+  "gpu-thinker-711": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "b444c92178d89d0ba487dd16d7579e30eb37c25717efe68cde4b6adb7dc560c8"
+  },
+  "gpu-thinker-712": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "313c22815aa48c199611594b93c56864621a7e4cd56f734dd0e0d04267e58a8a"
+  },
+  "gpu-thinker-713": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "a40b1856c24359ff62bdc0509f59554a872cdcb0b8944be37b6799791a41b675"
+  },
+  "gpu-thinker-714": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "0c2766f53e23e0d23ed78c3a70b0c7dda22ac8c0ea564ee64879a5ab11d5a891"
+  },
+  "gpu-thinker-715": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "2e8ea1177b2d608e66dbd4671349636373c4be07944c451f492bd17a2ad4bb8a"
+  },
+  "gpu-thinker-716": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "5d24b4f96f26ea8ac15ee3335361dc65b90981ebe52b5caed194496ec17a52de"
+  },
+  "gpu-thinker-717": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "59368468231cbe5a3306a0bc046081f85e4b02ca7ffebfd8222745cc95cf176d"
+  },
+  "gpu-thinker-718": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "be21cd00df254b5fd4301febccaa073bbff8361a46b52fe4b39251563390546a"
+  },
+  "gpu-thinker-719": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "037435877b283d155e6da226912d86628a0787687133e8536475358ff33c2ed7"
+  },
+  "gpu-thinker-720": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "94b5f4772fe33137947a3cdeed09e0efadcd7e92c29c33c7aa54323455029637"
+  },
+  "gpu-thinker-721": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "5219817547362abb904b850e45930b65e7a8da71ee49395d14f2a48f58c03217"
+  },
+  "gpu-thinker-722": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "65d33cadede903216f2e1073ce01d21e7d4a4be569ba388f18849b743df5e6b5"
+  },
+  "gpu-thinker-723": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "2827d6a9f31bdee4cb8110a121f7c74d157e15aa5a4987e172e77735b73bdfb6"
+  },
+  "gpu-thinker-724": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "2373221dba6f2db8f3bac6b165de8abb6f73dbb0bea45288229d3b617b439c87"
+  },
+  "gpu-thinker-725": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "91ded4c15ce4bb378ba9f5173328f377bfab67a43a2ebf4bf1d7a2aeef50714e"
+  },
+  "gpu-thinker-726": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "bb35c4828eeeeddc3ef49bddd7ab079db8d79aeac73c987524bf0b1771b04ecf"
+  },
+  "gpu-thinker-727": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "c9c7b110c8deaf94d03fb3340bcc2a6014ab8b9b2223debb1f99356ae5a8f343"
+  },
+  "gpu-thinker-728": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "dfac4d32dd28d2539c303cc0bb9cdb31ea700eb4c30e4252c3a28cf1dddf994b"
+  },
+  "gpu-thinker-729": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "7e6d29ac89aa1398eb4bcaf46ce9aa2ac22d2c14e258e1bece3efd7aafeca57c"
+  },
+  "gpu-thinker-730": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "3975dd4c71a62f9d56b77138606bd6ff802c2c35713bb9109d666c20204701b9"
+  },
+  "gpu-thinker-731": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "1dc24841e425c6670cff0a37e54db9d64e7cc7d6b04f9459eb49e292003a7da3"
+  },
+  "gpu-thinker-732": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "d04488462bc1c3ca9396ee36081ac37a2cbd4a17edcd7f8cd309ea7e1fe2bb60"
+  },
+  "gpu-thinker-733": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.882Z",
+    "signature": "4013e4acc21b5f52499adb19eaa9e75917e839155918e0d045e36d21a9203190"
+  },
+  "gpu-thinker-734": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "bc8756ff9bb0359406f6a1d1778045b86cba1e3b15318ee9fcea8ef2a149fafa"
+  },
+  "gpu-thinker-735": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "4d2f11e4c529228ac9882398ef3705e580d68520e548d65e84c33b30e03ca6e3"
+  },
+  "gpu-thinker-736": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "29a95422167c7f942e1c18bffa81403230063baf70912f9c72883633e78c3eec"
+  },
+  "gpu-thinker-737": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "3ae14801d478e76159100a2f23cf41cd6b235e81bfd5ce8860c294392b3144d5"
+  },
+  "gpu-thinker-738": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "f4b085383d30c8e1d3795db1e38d2532fdb93ce6403afb0827336892b78f5cab"
+  },
+  "gpu-thinker-739": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "a1cb5dafc76cf335c35c552c7f015981b694a98c53267b2753a6411edbe003f8"
+  },
+  "gpu-thinker-740": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "76f78a73e47dc0734337c014c24d3e0453a7dd32e4c29b8bc192e33f1c883333"
+  },
+  "gpu-thinker-741": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "3b5c3c231b4afd24b60b0ecb72e90c41129a285b5bc9195e25860db24d671d67"
+  },
+  "gpu-thinker-742": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "c84283875de9dadac7bb57dc5a47d8e15e88cf285212c6a718e4a55a0536413a"
+  },
+  "gpu-thinker-743": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "15d7e345ab6a57cda6cf168cf5163298652b985af6bd967620c6e84cb8e72184"
+  },
+  "gpu-thinker-744": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "bb2b8557eb70e121ef6689e3938d692b877be31c562f848559301fe7dc160c51"
+  },
+  "gpu-thinker-745": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "9b3b54007dbfbf9d82ddef400b45d823bd13f3f820ee05d2c5ed3ab401dcdd5e"
+  },
+  "gpu-thinker-746": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "21dd4435d044a6c0180363c83849db1cbd75482853e4d4efd09003b1d39ba01b"
+  },
+  "gpu-thinker-747": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "31ad7f579f7173540d34731a0ae529fac447dfa9bf2e0f05d9203048a656193c"
+  },
+  "gpu-thinker-748": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "19612c7d4d7b9711bdc3a02c7d764d50b76d35fd420910c96ee182e127f6b770"
+  },
+  "gpu-thinker-749": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "6f3101df1f8dae429019d95e7b58c7e4cd9870ad6bdf73c0887016869d4b6245"
+  },
+  "gpu-thinker-750": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "f1aead0f5a66a3a2a9eb76a0ce797ec04746fd8c4629477564f6db10cb01d9cf"
+  },
+  "gpu-thinker-751": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "3337107c10283dc4079990566166638b8969784940d258f009d9cc1132350884"
+  },
+  "gpu-thinker-752": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "db1f277ee60df34c728c9d41369388b418b5dcd17467562e6e5b4b63df5b1315"
+  },
+  "gpu-thinker-753": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "1738cfe6b811b2ba126cebbb40fc0108633c56955cab528463a8143d8442b12e"
+  },
+  "gpu-thinker-754": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "e770a0f13c378562b71feb50320a2ed537e5907e6156f9290a9b2003c82cc708"
+  },
+  "gpu-thinker-755": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "e92e69b345854e244352ea6713ceaa6737488d02396bc3d00135c6b04bf15b10"
+  },
+  "gpu-thinker-756": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "b1c16818a1aace334dcf25f7616b1bb9a908e065837b67fe4b3878de7c4b6a69"
+  },
+  "gpu-thinker-757": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "3a9c46c4582507b6e9fbde28c2de408e0e6f54aaae8d6dc413b288b79eae06dc"
+  },
+  "gpu-thinker-758": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "19bea2bc29cc17976f17658eb9241d38dcdd5b429fb85f90130576bff6c98230"
+  },
+  "gpu-thinker-759": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "04263ebed7e2c58e342059eaf1e593edb4cadd4136fc9d7df56583fa03067be2"
+  },
+  "gpu-thinker-760": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "ff188d6666a350f7f77f5687d9d4fc0f19c0541ca56e609802f7fa5dc3a13056"
+  },
+  "gpu-thinker-761": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "b11c6dcce308a0799c53eb7f7b0ca589e7b9b75d765a3a4a84103337560d9f8d"
+  },
+  "gpu-thinker-762": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "86cc81e1b4a22d950e1caf7a61ef941f087be88435343197eff0c2dde7c63b14"
+  },
+  "gpu-thinker-763": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "4f78e4b5e0e922bb14edfaeea3e2d9f1b7ae86302e8e4dc7dcc19294ab685b94"
+  },
+  "gpu-thinker-764": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "4c7f3ed5f4bcebd0a8d7ccf5e4dd5507f8a667cd2bc555a019ab762d941d67e6"
+  },
+  "gpu-thinker-765": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "2ecbd02e5155adae18760f64ea326b767c1be80d5533a7a376cc47eb5fa0f5f9"
+  },
+  "gpu-thinker-766": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "2c00a6401630a6aa80c0c24af4ef1f5ae7fd75a43a932c709ca8c316836af8f6"
+  },
+  "gpu-thinker-767": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "fa25fdd7e7326278b7e9844519d2d99409871b464b40e56da5f0fcb1966267b5"
+  },
+  "gpu-thinker-768": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "b420b17e67b9d6c8ce4baa93621cc6109f081050df760f42e17f83a131f6ae0f"
+  },
+  "gpu-thinker-769": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "694d8d889aa3e5db03a9bc11408a049ec4cce6a9d0199a039056761b480473f3"
+  },
+  "gpu-thinker-770": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.883Z",
+    "signature": "dca8170ea66c67d0086810c600fc46d8964def6335b82599ed5525ba400bfc0c"
+  },
+  "gpu-thinker-771": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "b1f754e687d2290396891656dd2e4fcdf6a962f197416acf153be210e7e00b1f"
+  },
+  "gpu-thinker-772": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "9774ed04efe51b6844b1932ff3a870adbc24bc0a1cf75dd0f4c67577dbc4e7c4"
+  },
+  "gpu-thinker-773": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "54d42509cdd395e9ceb1b3cc566a82586a3f89b322a5c07f762a72c27ea99048"
+  },
+  "gpu-thinker-774": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "df5a4a35d403a0467b44fe43c02572d623863915ca6ac5d620b83e2a8d6f8a76"
+  },
+  "gpu-thinker-775": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "86a25ea5489563ca6be95eddfc285e97035934186fe94dbd1734aea977ae6d02"
+  },
+  "gpu-thinker-776": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "98f290beb76f321e271b179a296d563ea470a5703c0871fa92fd1b425950d1b1"
+  },
+  "gpu-thinker-777": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "3fc849af05b9009a5f478142735aad642a06265c528449d4add2e9b01eceaf89"
+  },
+  "gpu-thinker-778": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "53e6b0fea272c78602cfcc8d1e32c617e513cae0b890b8087a2890f39705ece4"
+  },
+  "gpu-thinker-779": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "bef88e0209a631093f96f845c833fbb9da2ca3ec986075425ff3022399867c21"
+  },
+  "gpu-thinker-780": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "c570ab28f0c5e560a47122182ab29e17b1c140796f3609622b5cbc992934e992"
+  },
+  "gpu-thinker-781": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "34b791355d780bcc29749573a3c3eb1eee85a389293ff3868cb5eeee3f0ff292"
+  },
+  "gpu-thinker-782": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "faeed38a89d5e8d11fe831a012a850e1c17c55e4e12d565d2dc759e6585167c9"
+  },
+  "gpu-thinker-783": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "6d3c7d92cd4d1db33c2a5154439d3090307248fb44e2ac8347f6aa419b05ef96"
+  },
+  "gpu-thinker-784": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "cf738ca379dd8bdda57df5c6a4490292238e72bc92ede942323387a4c9f40450"
+  },
+  "gpu-thinker-785": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "d0b9907c7618e096a354e4abab85110a51f0f4684164ccbb732dbe563420b828"
+  },
+  "gpu-thinker-786": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "b77a6148859e3083a8e38556d3a3729cefeb4fce28490de548702c8aeeb80d11"
+  },
+  "gpu-thinker-787": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "5320e7ae1edfdf6d538db716417042507428aa9e54cbb654e1f06e3a456d86db"
+  },
+  "gpu-thinker-788": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "13b0a2c24dcb757c82b7dc35c008b31e57a18187983306957c49731dfdf2de30"
+  },
+  "gpu-thinker-789": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "b733e57ad08ed2319602421569c3bc5f6cb66c7b50efc7857d58a0169f5a83d6"
+  },
+  "gpu-thinker-790": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "56370021c226dc0cd1b6d78e6ad2874a042970a21a373f80630cd2a4f85b6961"
+  },
+  "gpu-thinker-791": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "f22c5fc647c0fbb262e2e80b97ea219670e70339cbd53770cf6d0f5c49839c27"
+  },
+  "gpu-thinker-792": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "b75d759530a3afdd017aff6d0144a9a256afe71d50061d3121fe4054156074cb"
+  },
+  "gpu-thinker-793": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "8624d6873bcff23bb60f77a539caca29a675d1a4f88ae53a184df915175f713c"
+  },
+  "gpu-thinker-794": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "dc5ea7716a69f0f7a05c4556e9504b09ee590045f482035f6d8b7715f54a1798"
+  },
+  "gpu-thinker-795": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "3941fa2dc7061c63cccbc4414893c1496f09ae04c6d38ad40234b8f53b391aaf"
+  },
+  "gpu-thinker-796": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "d1790f1ab62479806df48bda9c2a330d535e496897853caa6f4fe34fd946b4ba"
+  },
+  "gpu-thinker-797": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "4d4c5cc06b16e1e29b0d5aafc55d7e6225ba54b9fecd0ce92779a0136e88ef9a"
+  },
+  "gpu-thinker-798": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "d32d2aec80fc10b04807a29bd08af71a2906a13296c6023f17b0b19ed359fa71"
+  },
+  "gpu-thinker-799": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "35c4a30967520f3ab7d7c18061d9c3ca17685c471911ca7690ab97abbdb93eb8"
+  },
+  "gpu-thinker-800": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "d7c7bf7ff0a6dce209b70075d7cca59c022dac962ab45298d7d6eef2f9d6fc09"
+  },
+  "gpu-thinker-801": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "2ed39ba5fdf7485caa01ef43ff4b29611a8c03885b3ad0b5f867839cd24cd6e3"
+  },
+  "gpu-thinker-802": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "2c83b77fc7d425094e6297137696c9a5fecf00972e58e01917cf213f9c02d6d2"
+  },
+  "gpu-thinker-803": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "2782bb4c535de092f5ae0e9f3f88b06110823e338be27033c570a37a8bdc5c5c"
+  },
+  "gpu-thinker-804": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "84b41cf9b12ccd2914792b0ee77afbc4639cb6b1ab3cfe41a7ed14775eececd2"
+  },
+  "gpu-thinker-805": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "1a55ee80a253d70c1b98984b185e8d20f259448ec9c21cab90b3a57ee7c22ce0"
+  },
+  "gpu-thinker-806": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "fff5deb69cb100b923f2dce8144c8ba8868fc39e66f66024527ec63172a327db"
+  },
+  "gpu-thinker-807": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.884Z",
+    "signature": "cf668481cb806f9b0e2b3b405b49ffa951791e9dee2e93c9733098391fc50747"
+  },
+  "gpu-thinker-808": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "3322b2367d576a4ddd9c05a8bca5498a7c255676e47b38b06e3a4b6b8e5098da"
+  },
+  "gpu-thinker-809": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "e23659d40d291f9117b5cad635cb280a40663c2210b610010be3cd2f836ee282"
+  },
+  "gpu-thinker-810": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "6ff855ef95a4a5f79e9c25c794b0c6fe2c485780e4bfac1bf05aca0fe603bbbd"
+  },
+  "gpu-thinker-811": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "6553f86ccb333a2d525f4bf0ad695e9823de062844da671beca09b6bb341207f"
+  },
+  "gpu-thinker-812": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "38b4283b637fde6e0e704d632a71bf1d21017b72b4d2eafa090554cc010546c5"
+  },
+  "gpu-thinker-813": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "572f55fbe86e95790de0554aeac1361aa75c557358f51ea1250dbe6835e62b22"
+  },
+  "gpu-thinker-814": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "fa546e3f2fb80df0b66c041e9655d5a4a5f1d1df4ef4dc62c352a60c9b06cd83"
+  },
+  "gpu-thinker-815": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "e051dd10f9c529a95fe035eab754902bbc6d16e835cd1f560c32ee6613b5ebe5"
+  },
+  "gpu-thinker-816": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "079816b27ca29b4f98ad8a94102fa4201438909c51c94509a923f6da62963dca"
+  },
+  "gpu-thinker-817": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "0bd3b33582cf4153574400051f6dfda70451611ea387a7e6213b63344216cce8"
+  },
+  "gpu-thinker-818": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "df0d5cd2e2c4f7b31612a46109d149f7323544cbd328e8f58b8e29fb6b3599d1"
+  },
+  "gpu-thinker-819": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "1c53db02696cf00d0a048c6b9a8dbaddb4ebf73e689d98933e860081f3d9f6af"
+  },
+  "gpu-thinker-820": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "bd3bf0ebb8b11ae33a6694111d1d496a771251f61fdd3bf6166d2eeef9cfea2e"
+  },
+  "gpu-thinker-821": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "14257e08d7b07a84ff6e6db62c5226f01d83c7c1049d9999f73268bee5a9dddb"
+  },
+  "gpu-thinker-822": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "1c0f36f352bd0111ce27ad84d8eadbf82613b00debbf65599473990b3c5981b5"
+  },
+  "gpu-thinker-823": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "7953cbd42a4c241293798a7c718eb10eaa1d52c98b60c1961a4bdcc53f86f816"
+  },
+  "gpu-thinker-824": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "4f8e11510e98b68ad44ce18ecc8940a47898117a1d3d6465eb8f3fccafccd052"
+  },
+  "gpu-thinker-825": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "42431e7874aa5364321e87cca35af60532214e26ef5a53c7fd8f0b62f0a6713c"
+  },
+  "gpu-thinker-826": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "a7bbdd586ff9963d5aa13ac0e195b602f3740339670eb1e720554a38b09de96b"
+  },
+  "gpu-thinker-827": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "7597ee1bba8716bde05ec3adf3429eb49bbad9283fdf317e99b222fc5cdbc54c"
+  },
+  "gpu-thinker-828": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "bbc04c30a0c30ea7a2f2e56c0fbc83f925ef3de58690389c75af79d999040439"
+  },
+  "gpu-thinker-829": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "2ff04e69c20bed6b7977861bbca73d4fba495a3058c8e2e61feb81e4e3922c9d"
+  },
+  "gpu-thinker-830": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "e196ea9b87643954d416694fc5f6f9764fb8997a8dd58035039d7f287c95bd88"
+  },
+  "gpu-thinker-831": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "39895b870521ec364db6688b425534782586c1fa2f179eb3371b9578bea342d3"
+  },
+  "gpu-thinker-832": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "e540d84db08413b97ac9d6cc32ab7ea76ea69e467854afab1fb5e82d912e0464"
+  },
+  "gpu-thinker-833": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "6df3014f3c46a2dedf8b517a6cea6263e855b03d509fd03cb43e6e6dffaf0b6b"
+  },
+  "gpu-thinker-834": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "30592a7b28098f227acf6a665c0fb0e60e7d8800442feee9585c1d2ac3c6d813"
+  },
+  "gpu-thinker-835": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.885Z",
+    "signature": "cacf298a7f2f8e407f6469bc4979a5b35e735931b2577b555ff1e343328a766e"
+  },
+  "gpu-thinker-836": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "04f645b3d8e56eae5154d19187b3d7568b6da7d2a2b48c280f0319871562b346"
+  },
+  "gpu-thinker-837": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "e8b23a68e5b74bc80d9f086a3efe95c96300b03d9c070b1884d002a5fe7b5d07"
+  },
+  "gpu-thinker-838": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "0afabf9d606d1b5c60691452117cdd10cf9e8860b20e5890e2e02ca9c1826f5b"
+  },
+  "gpu-thinker-839": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "933b5dffedb600e1d759e7b5f6da8cf0e6a73247a7bc95fae992b2b2396adea0"
+  },
+  "gpu-thinker-840": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "23ca071d9f5492e5bca49b49071389ada634591037fa3341879cdc06c28ad3f9"
+  },
+  "gpu-thinker-841": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "230fe99a51640300705827e91b98cd2e4c2a6740a513837406e506307b6df4b0"
+  },
+  "gpu-thinker-842": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "3f8d6c14c236cdf7e7293872be9e0bcff405ba287bbba2526c86cb21a385e6c5"
+  },
+  "gpu-thinker-843": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "d9a2eda656cf03ee4f88b090fdccb7a060edc79ceddbd93cf09e58be0337d0b7"
+  },
+  "gpu-thinker-844": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "bbcf15217ed721a699577b75e7774b1f7b63c3deded7898e9314eca9ec5b5147"
+  },
+  "gpu-thinker-845": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "7c53a558f91bca6b5981afdc0319a6faa37b792a52f54b0b9f089dd69fd4927c"
+  },
+  "gpu-thinker-846": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "2f231357af221e322ce11e8e9451a2752f0a692f42eca166918d20d9a29f2eba"
+  },
+  "gpu-thinker-847": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "dc79c059c5f25342b692a680c928ad5147248986a4943321414e1c01b73918c5"
+  },
+  "gpu-thinker-848": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "2d7d963966e26e404bb4a4f28951d2b11d1de8ab0d1916c0f3471b64c2e75eb0"
+  },
+  "gpu-thinker-849": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "b2feeef792967629b8a9e64124bc877635e72d3f70e8b8305923acb7799fedc9"
+  },
+  "gpu-thinker-850": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "e9cfd7ae115c28b8ce86c04e73382ba3fb5f597a991d8ba696607a68e8c356ac"
+  },
+  "gpu-thinker-851": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "3c1dc726da3aca682d4fbfdcc45fe79345213d9ebe25170b4a939ce00cc6e735"
+  },
+  "gpu-thinker-852": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "64a2f61a800585242857215264ddc70557ce37fdbf1ba1e543132546a4dbbf21"
+  },
+  "gpu-thinker-853": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "b945d97fddc84cdb6fc16ad4c1486cadb76821901be257d9d4723c4ea830e554"
+  },
+  "gpu-thinker-854": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "4517ee99421ea352aa4ee8a507c1fa8f2c6804b9aa6eb251537aa4b84028812d"
+  },
+  "gpu-thinker-855": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "07685180570f8c91c93573c51fd3f4a01637dd571b2e03525719cd84d07380c1"
+  },
+  "gpu-thinker-856": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "1002b5407a8b27991829069980d0380339cededa06bae31ba17c13d198100fe4"
+  },
+  "gpu-thinker-857": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "f4ed3af2063b125893445dca1dcd42b5bcffc76e055fbe70c168e5362ca91cb7"
+  },
+  "gpu-thinker-858": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "9688d7ff68efb02b8f1121e571f72a7a8ffad6fd945dd9ec70e497e7d7b7dee7"
+  },
+  "gpu-thinker-859": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "dd47cb1e8040a92d4d96ff4bc276ec5724bfd2b86a4a391a66ff6e0ad6ed85cb"
+  },
+  "gpu-thinker-860": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "2defbef37cff2b05b03b79c9a4ce92db30ce0b027d37789aa01fdd26474f95a3"
+  },
+  "gpu-thinker-861": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "726b13676f2045427fbd0098c8aedecac7486f152282b4953306a75266b86c13"
+  },
+  "gpu-thinker-862": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "36009c48a7f32c60e08d6c7c2c5e4af8addf4063acb4f4cb85ae559d02d8135c"
+  },
+  "gpu-thinker-863": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "3b691dd0eb4eed6eebd601df67ed7f5cfcd73b20d9b6ac90dd596af18bf0c9f2"
+  },
+  "gpu-thinker-864": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "b5a4f99661f4d08daaf3af6bb8e0c24f5d1a1c55e910fd263da0ed7038544805"
+  },
+  "gpu-thinker-865": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "f97ec208de0e79f7986ab764a8842c10ba8ec1dfef6e083782321453453ad105"
+  },
+  "gpu-thinker-866": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "ab5345c0591317ea19a05450ba085301259c5a717e3a938038084ecdfa709740"
+  },
+  "gpu-thinker-867": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "514ae8f2199cbab77bfd121a6fc04f82a523a62c29b7294517ab95fe2f58e7e8"
+  },
+  "gpu-thinker-868": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "26b01b1ba6944ea998d0811582d8ce975798b03b79cbce41eef3a63358c7fc3b"
+  },
+  "gpu-thinker-869": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "97ba45abc6a4a117fd42a1fc7300ac33eb92d834cb3ee85b32f644d7423fc843"
+  },
+  "gpu-thinker-870": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "64ff43cb60619d92efa60d0e7c0a9ff0bfe0cba81e4fbe9c84c5ce983d7b5138"
+  },
+  "gpu-thinker-871": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.886Z",
+    "signature": "db5db25a7c8f7b00339c310156efb2d49d0eabeef0ce0feacfa20481440f3a4d"
+  },
+  "gpu-thinker-872": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "175f64a2d9307355ead80e2216a91dff1e40ae785d078e76b8e74e9e7fc0ff16"
+  },
+  "gpu-thinker-873": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "67012cd8499a3475622987b5f56fda3620fb3e0b2924e1b0dd783d2f9201f665"
+  },
+  "gpu-thinker-874": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "c477a8af267aa96df7087096ea80b22dcff74bf7d1bc733e930301be2f528f9c"
+  },
+  "gpu-thinker-875": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "bcfc200111dec7e936d6844866fd605f184474c2036b65287b1ba5986ef99167"
+  },
+  "gpu-thinker-876": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "159e25b8d8307e274bd5fd86687977e405e2275ea3aa0fd664cb33381aa36ec8"
+  },
+  "gpu-thinker-877": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "3e1a5d8f27528ba78cdc9d6d2ffbab122ef6064aea2cca7396c2eaf54a15262e"
+  },
+  "gpu-thinker-878": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "e7a27ae6ee80b522fd0c756151f407623d09c90c98cdc3921695763894d4c099"
+  },
+  "gpu-thinker-879": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "a8d41204c50dcc059d311dbcf43efbb5d6c7d0b28a480ee7a39c223955450c90"
+  },
+  "gpu-thinker-880": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "e9443c11565abfa126ba112fa45102d1b94ae6df771163988a1ca63543b9de49"
+  },
+  "gpu-thinker-881": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "00a5838d97dfc6fea46ecc1ae896ef07ddd630ed4f0458db1c7d1166b86b89d1"
+  },
+  "gpu-thinker-882": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "27c75a76072fde60add3c28823ef950854d04c4e804482bee29af33dd61a2501"
+  },
+  "gpu-thinker-883": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "2b6f06430cce88225545bbde6ee666d649777a9e3127d61a81f2687d8015dd16"
+  },
+  "gpu-thinker-884": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "aec9959abf8cd3c259ea95d3064038b62dc6db7d289905bead5ec6250565e01c"
+  },
+  "gpu-thinker-885": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "b0e94c4b422d626a06e3854e78c856d316beeea660592769681bdd53cabb5f8b"
+  },
+  "gpu-thinker-886": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "28de2061f6d8fed88142386e96d9e75328f92994ad7dfe3a542cf30eaaa96a14"
+  },
+  "gpu-thinker-887": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "dde50fe97a94759a606c3dfcfcb387f96b69bf6c2c21c462f1cc2c519884e192"
+  },
+  "gpu-thinker-888": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "7ba1dc5762fd624ae7d84c5aa9a7177c923debc358c5da0090bddad1709aeb6a"
+  },
+  "gpu-thinker-889": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "0dd60279ed39521fb1c18b077f6c55819d73fdead1cab68ebbce2afcad4c23c0"
+  },
+  "gpu-thinker-890": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "86c35ff476c8f3efb9f834542504aa233d909a8954b45db4f5219569e08aefc9"
+  },
+  "gpu-thinker-891": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "1192b3e149c0fff476af645125b9234251e056324806cca1a15ce6fafabb7280"
+  },
+  "gpu-thinker-892": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "93b69fd2d4934c30e25e9e09f63657fb6ee73cf53410eb6cce549bca0511c784"
+  },
+  "gpu-thinker-893": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "2551b50db74278d6c236c9c0110aaccea6af8c1ec39a08ec249d410969f05e84"
+  },
+  "gpu-thinker-894": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "0a87c59772d09f9d37f25c2bb287a7fda65c5b634bf9cea003ec78ce96e94d73"
+  },
+  "gpu-thinker-895": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "17557714857bbd3275731ef1bd27c75718063d5eeb351671f7f9190683db6743"
+  },
+  "gpu-thinker-896": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "d8c5a4dfc98a217b8603e44aa407a71979772f51bd7c4a61c7b648b1b1390e5f"
+  },
+  "gpu-thinker-897": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "02d5c4ee342a560316c3745919d685aef5db972fc08049d559d5af8c9327e30e"
+  },
+  "gpu-thinker-898": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "4674f999c15bb5a639c753bd53cb55103909bc9fdb661234ee50691e5a9e5ff0"
+  },
+  "gpu-thinker-899": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "cc357a40884fac5442299749e9e38f02f4f1c6a4f50967990d88cfde627239d3"
+  },
+  "gpu-thinker-900": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "74f72095ac793bc2dd7d590e1550e316e680d5ac60c09ec0d28098dc39aca0e6"
+  },
+  "gpu-thinker-901": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "772fcef29ad6bf865c3792b426511c25b3d8a566a2b0a83947c7e05f9c942801"
+  },
+  "gpu-thinker-902": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "ba6eb8822d49c0a17d58b0b0840a7a89c5be4ebe0f5ce56e21f9be9414903d12"
+  },
+  "gpu-thinker-903": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "0db6f2760f7e24e627ef6426715d5bc51ad05fc510709d1e085fe4fee10c0bff"
+  },
+  "gpu-thinker-904": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "817c97e44915298f9946c2bf67576114e21012356ea40006be499768b301510d"
+  },
+  "gpu-thinker-905": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "349b50ea8c8fa90069a3764ff169f3f3b8aea42f891c7de2df99138fab761589"
+  },
+  "gpu-thinker-906": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "f8e2e55626fc387558e4550f54532de5051e02fd7db1001c7a7f67ed73eb983d"
+  },
+  "gpu-thinker-907": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "f5a12d00c845d44801892f28321b0f2703b34f23a16fd1f9ad7a157953d9ead9"
+  },
+  "gpu-thinker-908": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "add74a50f5a97ea53a78037603fa369b1ea6e1800bbe74b96cd60afb354eaaac"
+  },
+  "gpu-thinker-909": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.887Z",
+    "signature": "f19815b069a12043bd910a20a0c9e9e218efc27f47ea0eb86146e3078f8b63c5"
+  },
+  "gpu-thinker-910": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "925de39983bc8ac7a527673bee8ac22e5d4cf75accc2fd57fe108c6d1658d1ca"
+  },
+  "gpu-thinker-911": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "f0ad8565b888f85216b694eef28d43a9e8cf5aa03f76d813b3381fab74436731"
+  },
+  "gpu-thinker-912": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "17198687b8232bb24e07258c89e2dab40176b9a93fb2f829e5517aa7ada6b14b"
+  },
+  "gpu-thinker-913": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "cb1cced9502bc17c5b81336c2be77f30f87495435179bca19d94fb81753ff621"
+  },
+  "gpu-thinker-914": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "439fcb7b7ddf6b675a9554997e42df726924883b6b4dc2d9b733b7411d1a9586"
+  },
+  "gpu-thinker-915": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "42159b4260ef5bf34f8cae8593c150b3ad160d9bc1317346e094f1a0bb969fce"
+  },
+  "gpu-thinker-916": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "5c5ae099eb43780baacdb908bfceeeeb4d55b4043d7f2189d7639b9cff1be6eb"
+  },
+  "gpu-thinker-917": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "0356f5839547cc1078cd810b4fc6bfa339a93183453fb9d77e313c2180d4eb3c"
+  },
+  "gpu-thinker-918": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "14e1c8b0ddabcc099b77c387600873a90fefe4d79dbd5693329916f112746581"
+  },
+  "gpu-thinker-919": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "b925e652c1264e0d31a62cc884893b74bba85b663a6292ad13944903806821dd"
+  },
+  "gpu-thinker-920": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "9c956a40e70ffb987ec96e3244363380b445088da44b22bbc74e23e995b263a1"
+  },
+  "gpu-thinker-921": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "ae1e27921dd1fa1d4dea388e6c0492b800e227509450f471708da2cb1e6801a5"
+  },
+  "gpu-thinker-922": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "ee9a793889bd1086d201f3f82b879fe06c0e8df09cef00c73ea95803374553af"
+  },
+  "gpu-thinker-923": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "9207f116a23ab0d5f37b8ba48b6e2a0aa009e9d3b0ca071011d66c59875fe840"
+  },
+  "gpu-thinker-924": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "195c9fc50ef7a98db603eb8b7f4e6e5f602f3c0dbac18935046f8524c557408a"
+  },
+  "gpu-thinker-925": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "c2e0f70bf65edf1a2a444ad3ae6ec479bf5e247c68bdee372522548077fd1d01"
+  },
+  "gpu-thinker-926": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "b8fe8d2aca861aaf0701374ff673a831fed1015ae337b1420ba07d46257f50d3"
+  },
+  "gpu-thinker-927": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "90959f295c289c90e2ab5319209ae0c92894e43e2fd579249b8eacd5f675d3ec"
+  },
+  "gpu-thinker-928": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "2e7b89fd6dc0ee58796e74a20ada1e19f8470fe71c58125e626a5c85478f5a5a"
+  },
+  "gpu-thinker-929": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "e98890a9db4c5460266874e31fea3406d034958bd1a287aa14e4cf26c4991fd4"
+  },
+  "gpu-thinker-930": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "734da03c0e9a60ff1c1fb57cbccfed23ffcfbb14a76681c1f4d3a4da3afd990f"
+  },
+  "gpu-thinker-931": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "6737290677ba971af835528ca627b2a87d139c9a072a26b7e0a487f55103f49c"
+  },
+  "gpu-thinker-932": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "0e8884d6913e08840461574a845dc4f2cdd586913aa098c0a5ab54d6a4ed1a7e"
+  },
+  "gpu-thinker-933": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "9892cc6a03c1c61b74e9c5d130f101f84da9add7675cacd511bf69124b88e096"
+  },
+  "gpu-thinker-934": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "a54ac0c9875770d092957e7c925264902a6c37b88f943dd64acaa1367a1179c0"
+  },
+  "gpu-thinker-935": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "bc97daf00986840889ad68a82f6df1e3b01e012ac77c8e14f3f18df8791ba23b"
+  },
+  "gpu-thinker-936": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "a54181783eb61a83c27bd8d688c61c8ae9605def41e24588be47b455c12d8f7a"
+  },
+  "gpu-thinker-937": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "f41638760f1b62123d52b568f9e361bdc224aa64749ee93c2dbb597c93e18aa1"
+  },
+  "gpu-thinker-938": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "6c2bc19d66fa724827657a861d5847e09205d11be71a0b2b5a48dfc3a06b058c"
+  },
+  "gpu-thinker-939": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "f7c317999d604ca77abf9c5281adb65496d6ca9992b1187ace68eae53d0cbabd"
+  },
+  "gpu-thinker-940": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "00e385d6746ed8012e4c171b80a5e77ddf7a5ba673380f822659adc1e8200719"
+  },
+  "gpu-thinker-941": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "7be5b0399d263b99db36de15266d22f4838a821f0572744427af57145b2e1c8b"
+  },
+  "gpu-thinker-942": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "847e2244a255e81fb11d861fbaf92409e36a53f2058816d213a5469b270f4363"
+  },
+  "gpu-thinker-943": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "3575738a86eec324d08c31727b980cc49ff3d331e2d978d3c4ed1972ace3964d"
+  },
+  "gpu-thinker-944": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "7ba318f1fa6923a85791bb511db3acf3c009e17e08ffaaad6a39875fb5d873d4"
+  },
+  "gpu-thinker-945": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.888Z",
+    "signature": "63733e8a18ff2d0abc0058de9290d75ed1afc8e90e86d2637cddb2423d393432"
+  },
+  "gpu-thinker-946": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "0a4a2ce7a1a315cfc16428feae4cfaccae59aa11fec06efb39bd6baad50217e5"
+  },
+  "gpu-thinker-947": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "265d1e7dc8c6e549621e74acb9b03a91ba67849f678a956db95d47f1fc6f7f21"
+  },
+  "gpu-thinker-948": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "db8f156b56a3260208f359a2223697e603ba98535d44457aedb90dbadda2505c"
+  },
+  "gpu-thinker-949": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "f4d8da6245d2725ede1b9eb1cabd8f774f95f06577118108e68d6a92d80b630f"
+  },
+  "gpu-thinker-950": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "97338b3db20030e3b6c4d4e970bbd06621c4d29e03f718de961e6783bc83700b"
+  },
+  "gpu-thinker-951": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "071e3f78e3f54b526b190002c4f80f784f72b43b1fc83d2b2156bd1cda0346d0"
+  },
+  "gpu-thinker-952": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "692b3d0bb7adc1225806203af5555cfcd05df007fa691d680dad5a0116132635"
+  },
+  "gpu-thinker-953": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "8c241594af6564815c6dee8a82dbb3f277d870d9373de13bc63d0f27b260d36b"
+  },
+  "gpu-thinker-954": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "1f08e3bc525f72f676f2b9731423d7920972c3aee13655d135624710447f83d8"
+  },
+  "gpu-thinker-955": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "2f567771649ecf2e57e5795105eade06eced6348272fdfe5a6669b6600cca1f7"
+  },
+  "gpu-thinker-956": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "cc5fb2234ab1585c151602c163e1dd16065d280119107cd30d5294cb0bc20a8e"
+  },
+  "gpu-thinker-957": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "f5426d93bcbc85ba2aa396bb653cb0889a51a4e3bca0c2edcb22b6395ff03047"
+  },
+  "gpu-thinker-958": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "80e2a0348ec4455ec46b1f8242d2e14a310e2159d4c1c09cc83cf8d99d3cb09f"
+  },
+  "gpu-thinker-959": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "f7a786027baf0916de22eca5a7b6b62f721c3d07e975f39fa506817fe6b8c56c"
+  },
+  "gpu-thinker-960": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "54f8bbec2716ade25693f64ca8d075d82740fc8be7d7fe3d1bcbe8c93ba58806"
+  },
+  "gpu-thinker-961": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "fcc5fe85f875e53d47e89d99a19fbacdcc77500d0e9da26a1f4a1e7c5e5bddaa"
+  },
+  "gpu-thinker-962": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "2ecfd8ed8bc41ec6dc7ddd6ab19dd636a309c83497006c49b08c04812bf31510"
+  },
+  "gpu-thinker-963": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "96e77fc33bbdc076b270e4f7a137bc43aed4fdc2173675154efb148d76ce1d54"
+  },
+  "gpu-thinker-964": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "ae2ae2d108a9b6c3f69d80f2eb7013597c06abff27988e27e75caa5b3392e9dc"
+  },
+  "gpu-thinker-965": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "f6e5d24ef580fb7cb542cb2571d559222d57d5bb0dfb02ee389e8e0bf79c64a3"
+  },
+  "gpu-thinker-966": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "d442bf995328dfc070feb3eb8080ac2a0f54420f473d0acb79b3934a5642c4c8"
+  },
+  "gpu-thinker-967": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "f2f03ae97848bfa5ac88065db10a71992cf90e6f8000936ed49b5e02eaf9e805"
+  },
+  "gpu-thinker-968": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "d0b55b8ee908f2380dbe920c8d41cd061a957ee64a86582a538b524b6a7d3bd5"
+  },
+  "gpu-thinker-969": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "417d20f4b32fc83e07c38f13b1db02de62fa26e449fbaf4e6abaf6d70070e1b3"
+  },
+  "gpu-thinker-970": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "5b21db83a7d3e730fb6692f594ff1ae1997ccadfab3d0ad52aa8050b264d862b"
+  },
+  "gpu-thinker-971": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "ee9a7e104c30b4f2d591691c6d47a962b40e6b358efaecf722d58bcf51009d1c"
+  },
+  "gpu-thinker-972": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "b8aaf83e6bc542035ea5f105936af738b560ed928a841ea7bfa7ff60c8b539d0"
+  },
+  "gpu-thinker-973": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "ffd06125bdb533407fa7bb2c935f44928f9b82e63eb9e15070878f33f2a07bd3"
+  },
+  "gpu-thinker-974": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "6f2aaef0def31022ca08764f817fbbe08e7ac36227de8cbb2712bc4675105c71"
+  },
+  "gpu-thinker-975": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "64b4f1209852487e3071a359257f3cd95c1e528ffeab482f25d6be7730bf0ede"
+  },
+  "gpu-thinker-976": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "7866013d04752f63a1f239af05b5c37d08e466ce99e98f211cbbf7948dac7863"
+  },
+  "gpu-thinker-977": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "b3ade22eaa3fecaa96ff854720693547dcbf76d4a683b914ae13037e4da67dbd"
+  },
+  "gpu-thinker-978": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.889Z",
+    "signature": "733cfc96b3564f48a10f0ab2a226f9a7cd700914f7259bc5a1defb24e6b0d707"
+  },
+  "gpu-thinker-979": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "1c2195438e3222e29e9a37979000c0d7e96b0619a604519debdf91273488ee87"
+  },
+  "gpu-thinker-980": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "90e803dd0f801071d7e88f8a4623c08c1e14f3481fc60f3ded2120b7b8dc5563"
+  },
+  "gpu-thinker-981": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "8af389ac59f02ad7d407481bb8e39a80b5274fb4b6f5a71b8670bcfe7a009d14"
+  },
+  "gpu-thinker-982": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "84e70dfcbe5df045469d0dce0688633094a7a19f9e989049b82a7772fb323f26"
+  },
+  "gpu-thinker-983": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "94f45e360a61c9488e8b53e9a72da2dba07db78f041c6cde19032cd982c52216"
+  },
+  "gpu-thinker-984": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "39a4a3dd862f8e9d479448c3fda465f7ccc585c27b4bce66292ef86d2f2e5575"
+  },
+  "gpu-thinker-985": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "c4f136a9ff9353be5f506059caee898bd6a1cb912607a5b8c1e1867a8d87d9d6"
+  },
+  "gpu-thinker-986": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "2ef14016086ff5e49915273b22d5ed4e84157de428e11945540acfef2484a271"
+  },
+  "gpu-thinker-987": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "9f39458d9f7d35297a68d25430d828593d08f37c24c0d7a05d4f79cfa402c248"
+  },
+  "gpu-thinker-988": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "873802eb43df1ad911acbe29e46d332169e8c1e70e179e09ffc6bbf4ad07246a"
+  },
+  "gpu-thinker-989": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "ce8ccce730aa50f338caf295673123b6ca246c3fb8784787152afc2141ddbce1"
+  },
+  "gpu-thinker-990": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "ac5177bb5eaaad8ec7af4395bf03f6b78cc58495d6488740967ec8af6606620f"
+  },
+  "gpu-thinker-991": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "051aadf2c1b35730deea5ab427a0b1385e329482f4632bb44391c89937fa4af2"
+  },
+  "gpu-thinker-992": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "e48a4694070a3a42259ffda273a7850b5be9f7cfeeec49c618b31c230753ee2a"
+  },
+  "gpu-thinker-993": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "4792f528d9cbb9d5191b34d72f64bde6b90e362df4cec57fa8d6f37fbaa98ea1"
+  },
+  "gpu-thinker-994": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "cc915ccf13c7e20f57f8a13174973ea8d53d3c1a9adfa597409fdf41d27dfca4"
+  },
+  "gpu-thinker-995": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "cc4ddd07675d6cf10d1edf80fad53bcd809ba5eff34d0fef055128243d1e1618"
+  },
+  "gpu-thinker-996": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "7e6f9f75bb18647ce37461fadce62ef18791b1632af08e322df615f9611dd269"
+  },
+  "gpu-thinker-997": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "c601c360b80a528733259fb685d17b3f29cba8de34df8f2546f1ddba89cafa4b"
+  },
+  "gpu-thinker-998": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "ecfc47f18de5b04abc061c1b64b4112cebb01d8ddd41de3c191343a09f50dc90"
+  },
+  "gpu-thinker-999": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "df287543bffb1c6742efd086f3f24e9786bb74d2e00b18909584a34f30742cfb"
+  },
+  "gpu-thinker-1000": {
+    "reward": 0,
+    "timestamp": "2025-09-15T09:19:09.890Z",
+    "signature": "d18a8aff8de76060626a6977efb5e1720931503ae2fddfd3c2fc651982219e13"
+  }
+}

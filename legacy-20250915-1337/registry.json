@@ -1,0 +1,6002 @@
+{
+  "gpu-thinker-1": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-2": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-3": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-4": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-5": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-6": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-7": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-8": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-9": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-10": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-11": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-12": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-13": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-14": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-15": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-16": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-17": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-18": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-19": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-20": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-21": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-22": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-23": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-24": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-25": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-26": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-27": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-28": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-29": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-30": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-31": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-32": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-33": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-34": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-35": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-36": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-37": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-38": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-39": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-40": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-41": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-42": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-43": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-44": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-45": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-46": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-47": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-48": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-49": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-50": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-51": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-52": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-53": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-54": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-55": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-56": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-57": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-58": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-59": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-60": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-61": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-62": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-63": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-64": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-65": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-66": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-67": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-68": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-69": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-70": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-71": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-72": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-73": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-74": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-75": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-76": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-77": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-78": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-79": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-80": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-81": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-82": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-83": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-84": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-85": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-86": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-87": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-88": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-89": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-90": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-91": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-92": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-93": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-94": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-95": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-96": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-97": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-98": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-99": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-100": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-101": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-102": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-103": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-104": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-105": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-106": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-107": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-108": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-109": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-110": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-111": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-112": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-113": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-114": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-115": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-116": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-117": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-118": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-119": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-120": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-121": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-122": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-123": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-124": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-125": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-126": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-127": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-128": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-129": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-130": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-131": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-132": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-133": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-134": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-135": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-136": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-137": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-138": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-139": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-140": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-141": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-142": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-143": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-144": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-145": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-146": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-147": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-148": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-149": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-150": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-151": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-152": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-153": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-154": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-155": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-156": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-157": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-158": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-159": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-160": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-161": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-162": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-163": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-164": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-165": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-166": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-167": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-168": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-169": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-170": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-171": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-172": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-173": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-174": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-175": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-176": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-177": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-178": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-179": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-180": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-181": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-182": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-183": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-184": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-185": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-186": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-187": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-188": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-189": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-190": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-191": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-192": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-193": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-194": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-195": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-196": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-197": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-198": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-199": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-200": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-201": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-202": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-203": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-204": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-205": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-206": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-207": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-208": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-209": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-210": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-211": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-212": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-213": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-214": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-215": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-216": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-217": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-218": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-219": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-220": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-221": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-222": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-223": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-224": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-225": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-226": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-227": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-228": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-229": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-230": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-231": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-232": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-233": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-234": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-235": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-236": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-237": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-238": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-239": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-240": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-241": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-242": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-243": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-244": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-245": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-246": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-247": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-248": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-249": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-250": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-251": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-252": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-253": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-254": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-255": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-256": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-257": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-258": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-259": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-260": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-261": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-262": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-263": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-264": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-265": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-266": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-267": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-268": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-269": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-270": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-271": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-272": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-273": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-274": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-275": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-276": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-277": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-278": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-279": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-280": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-281": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-282": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-283": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-284": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-285": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-286": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-287": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-288": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-289": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-290": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-291": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-292": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-293": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-294": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-295": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-296": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-297": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-298": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-299": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-300": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-301": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-302": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-303": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-304": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-305": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-306": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-307": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-308": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-309": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-310": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-311": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-312": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-313": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-314": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-315": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-316": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-317": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-318": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-319": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-320": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-321": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-322": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-323": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-324": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-325": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-326": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-327": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-328": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-329": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-330": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-331": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-332": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-333": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-334": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-335": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-336": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-337": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-338": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-339": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-340": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-341": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-342": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-343": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-344": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-345": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-346": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-347": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-348": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-349": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-350": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-351": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-352": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-353": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-354": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-355": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-356": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-357": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-358": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-359": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-360": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-361": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-362": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-363": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-364": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-365": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-366": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-367": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-368": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-369": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-370": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-371": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-372": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-373": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-374": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-375": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-376": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-377": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-378": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-379": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-380": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-381": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-382": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-383": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-384": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-385": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-386": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-387": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-388": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-389": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-390": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-391": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-392": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-393": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-394": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-395": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-396": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-397": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-398": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-399": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-400": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-401": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-402": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-403": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-404": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-405": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-406": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-407": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-408": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-409": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-410": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-411": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-412": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-413": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-414": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-415": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-416": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-417": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-418": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-419": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-420": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-421": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-422": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-423": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-424": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-425": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-426": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-427": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-428": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-429": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-430": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-431": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-432": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-433": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-434": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-435": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-436": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-437": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-438": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-439": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-440": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-441": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-442": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-443": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-444": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-445": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-446": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-447": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-448": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-449": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-450": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-451": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-452": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-453": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-454": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-455": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-456": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-457": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-458": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-459": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-460": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-461": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-462": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-463": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-464": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-465": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-466": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-467": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-468": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-469": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-470": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-471": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-472": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-473": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-474": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-475": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-476": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-477": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-478": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-479": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-480": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-481": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-482": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-483": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-484": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-485": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-486": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-487": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-488": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-489": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-490": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-491": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-492": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-493": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-494": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-495": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-496": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-497": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-498": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-499": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-500": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-501": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-502": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-503": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-504": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-505": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-506": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-507": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-508": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-509": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.568Z"
+  },
+  "gpu-thinker-510": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-511": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-512": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-513": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-514": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-515": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-516": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-517": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-518": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-519": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-520": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-521": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-522": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-523": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-524": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-525": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-526": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-527": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-528": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-529": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-530": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-531": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-532": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-533": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-534": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-535": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-536": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-537": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-538": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-539": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-540": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-541": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-542": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-543": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-544": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-545": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-546": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-547": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-548": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-549": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-550": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-551": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-552": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-553": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-554": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-555": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-556": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-557": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-558": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-559": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-560": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-561": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-562": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-563": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-564": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-565": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-566": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-567": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-568": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-569": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-570": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-571": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-572": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-573": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-574": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-575": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-576": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-577": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-578": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-579": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-580": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-581": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-582": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-583": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-584": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-585": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-586": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-587": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-588": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-589": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-590": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-591": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-592": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-593": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-594": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-595": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-596": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-597": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-598": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-599": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-600": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-601": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-602": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-603": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-604": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-605": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-606": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-607": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-608": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-609": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-610": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-611": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-612": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-613": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-614": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-615": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-616": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-617": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-618": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-619": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-620": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-621": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-622": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-623": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-624": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-625": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-626": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-627": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-628": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-629": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-630": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-631": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-632": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-633": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-634": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-635": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-636": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-637": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-638": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-639": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-640": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-641": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-642": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-643": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-644": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-645": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-646": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-647": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-648": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-649": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-650": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-651": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-652": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-653": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-654": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-655": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-656": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-657": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-658": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-659": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-660": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-661": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-662": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-663": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-664": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-665": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-666": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-667": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-668": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-669": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-670": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-671": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-672": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-673": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-674": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-675": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-676": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-677": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-678": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-679": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-680": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-681": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-682": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-683": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-684": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-685": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-686": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-687": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-688": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-689": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-690": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-691": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-692": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-693": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-694": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-695": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-696": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-697": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-698": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-699": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-700": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-701": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-702": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-703": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-704": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-705": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-706": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-707": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-708": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-709": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-710": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-711": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-712": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-713": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-714": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-715": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-716": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-717": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-718": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-719": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-720": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-721": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-722": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-723": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-724": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-725": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-726": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-727": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-728": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-729": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-730": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-731": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-732": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-733": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-734": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-735": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-736": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-737": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-738": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-739": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-740": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-741": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-742": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-743": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-744": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-745": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-746": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-747": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-748": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-749": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-750": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-751": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-752": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-753": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-754": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-755": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-756": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-757": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-758": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-759": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-760": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-761": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-762": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-763": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-764": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-765": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-766": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-767": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-768": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-769": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-770": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-771": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-772": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-773": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-774": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-775": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-776": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-777": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-778": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-779": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-780": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-781": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-782": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-783": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-784": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-785": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-786": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-787": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-788": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-789": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-790": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-791": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-792": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-793": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-794": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-795": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-796": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-797": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-798": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-799": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-800": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-801": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-802": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-803": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-804": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-805": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-806": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-807": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-808": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-809": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-810": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-811": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-812": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-813": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-814": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-815": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-816": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-817": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-818": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-819": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-820": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-821": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-822": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-823": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-824": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-825": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-826": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-827": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-828": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-829": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-830": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-831": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-832": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-833": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-834": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-835": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-836": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-837": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-838": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-839": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-840": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-841": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-842": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-843": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-844": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-845": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-846": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-847": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-848": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-849": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-850": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-851": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-852": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-853": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-854": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-855": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-856": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-857": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-858": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-859": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-860": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-861": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-862": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-863": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-864": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-865": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-866": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-867": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-868": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-869": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-870": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-871": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-872": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-873": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-874": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-875": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-876": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-877": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-878": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-879": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-880": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-881": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-882": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-883": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-884": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-885": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-886": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-887": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-888": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-889": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-890": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-891": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-892": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-893": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-894": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-895": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-896": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-897": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-898": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-899": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-900": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-901": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-902": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-903": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-904": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-905": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-906": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-907": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-908": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-909": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-910": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-911": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-912": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-913": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-914": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-915": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-916": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-917": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-918": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-919": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-920": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-921": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-922": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-923": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-924": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-925": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-926": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-927": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-928": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-929": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-930": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-931": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-932": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-933": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-934": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-935": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-936": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-937": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-938": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-939": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-940": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-941": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-942": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-943": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-944": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-945": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-946": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-947": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-948": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-949": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-950": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-951": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-952": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-953": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-954": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-955": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-956": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-957": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-958": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-959": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-960": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-961": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-962": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-963": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-964": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-965": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-966": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-967": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-968": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-969": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-970": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-971": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-972": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-973": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-974": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-975": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-976": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-977": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-978": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-979": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-980": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-981": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-982": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-983": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-984": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-985": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-986": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-987": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-988": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-989": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-990": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-991": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-992": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-993": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-994": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-995": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-996": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-997": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-998": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-999": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  },
+  "gpu-thinker-1000": {
+    "hashrate": 12,
+    "status": "active",
+    "meta": "legacy-ready",
+    "lastSeen": "2025-09-15T09:13:33.569Z"
+  }
+}

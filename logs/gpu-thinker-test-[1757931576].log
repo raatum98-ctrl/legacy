@@ -1,0 +1,5 @@
+/opt/miner/t-rex -a kawpow \
+-o stratum+tcp://pool.woolypooly.com:55555 \
+-u RMEysgjtWkzDV6xqc6i7taRu3FnXyPQLp3.gpu-thinker-test \
+-p x \
+--log-path /opt/miner/logs/gpu-thinker-test.log
