@@ -6,3 +6,10 @@
   "status": "active"
 }
 
+{
+  "timestamp": "2025-09-15T18:08+04:00",
+  "ledger": "471a2fec1ef087bd0177e81c839f640f3772b6e7da061771bc555c90d60b96e2",
+  "replicator": "geo-node-1",
+  "status": "notarized",
+  "payout": "enabled"
+}
