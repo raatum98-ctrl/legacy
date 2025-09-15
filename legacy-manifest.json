@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-09-15T19:43:00+04:00",
+  "ledgerCID": "QmZ55CNRFwhJjPns6k2TYsAeQJx6xNvciGYUrqKVXEWSnT",
+  "hashCID": "QmcpaMwgMhGpmT3EsY3hdMaHf4XbP1sTBHagZn3yxQc7B2",
+  "registryCID": "QmUTF2aRxKngFZfyGmv8MZ3PCUZ65C4CLrTqfe879UVkyd",
+  "anchoringLogCID": "QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH",
+  "mirror": "https://github.com/amun-legacy/planetary-grind"
+}
